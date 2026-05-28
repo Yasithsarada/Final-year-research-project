@@ -1,0 +1,545 @@
+{
+  "_id": "3524ddbe-4f3a-4b14-a522-32abf343c459",
+  "filename": "cv (2).pdf",
+  "uploaded_at": "2026-05-27T17:50:17.674514",
+  "entities": {
+    "full_name": "Yasith Sarada",
+    "email": "yasithsarada79@gmail.com",
+    "phone": "+94 765782248",
+    "github": "github.com/Yasithsarada",
+    "linkedin": "linkedin.com/in/yasith-sarada/",
+    "skills": [
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      ".NET Core",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Flutter",
+      "AWS",
+      "Amplify",
+      "S3",
+      "EC2",
+      "Docker",
+      "CI/CD",
+      "Azure",
+      "Git",
+      "Firebase",
+      "Superbase",
+      "MSSQL",
+      "PostgreSQL",
+      "MongoDB",
+      "REST APIs",
+      "Microservices",
+      "System Design",
+      "LLMs",
+      "ASP.NET Core",
+      "Socket.io",
+      "Prisma ORM",
+      "Cloudinary",
+      "Tailwind CSS",
+      "Entity Core",
+      "Entity Framework",
+      "Azure DevOps",
+      "Redis",
+      "gRPC",
+      "RabbitMq"
+    ],
+    "education": [
+      {
+        "institution": "University of Moratuwa",
+        "degree": "BSc (Hons)",
+        "field_of_study": "Information Technology",
+        "start_date": "Jun 2022",
+        "end_date": "Jun 2026",
+        "gpa": null
+      },
+      {
+        "institution": "Sivali Central College",
+        "degree": null,
+        "field_of_study": null,
+        "start_date": "Mar 2018",
+        "end_date": "Oct 2020",
+        "gpa": null
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Unicorn Solutions PVT(LTD)",
+        "role": "Intern Software Engineer",
+        "start_date": "Feb 2025",
+        "end_date": "Aug 2025",
+        "description": "Upgraded enterprise-level applications from React 16 to React 18 across multiple modules, improving performance, scalability, and maintainability. Contributed at winner team in GEN-AI hackthon by setting up Azure AI Foundry with LLM-based agentic usage, agent fine tuning and MCP servers while introducing brand new feature for product (UnicornBOX). Built a QA Test Case Management System with Excel import/export, Azure AD authentication, and advanced search capabilities. Explored Azure services with self experience with guidance (Containers, CI/CD deployments, database services, Cost estimations, App services). Managed Docker for containerization and managed deployments through Microsoft Azure.",
+        "technologies": [
+          "ASP.NET Core",
+          "React",
+          "Azure",
+          "Docker",
+          "Azure AI Foundry",
+          "LLM"
+        ]
+      },
+      {
+        "company": "DoNext PVT(LTD)",
+        "role": "Web developer(internship)",
+        "start_date": "Mar 2022",
+        "end_date": "May 2022",
+        "description": "Assist in developing scalable Web applications using React (JS and TS) and NodeJS. Learned the industrial standards methods from external expert s sessions.",
+        "technologies": [
+          "React JS",
+          "React TS",
+          "NodeJs"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "LevoHub - Construction workflow management",
+        "description": "System to manage construction workflows, including project tracking, time management, and team coordination. Implemented role-based access control (RBAC) to handle user roles and permissions for structured operations. Developed live workflow tracking and real-time notification features to improve task visibility and team communication. Built project management and employee time tracking modules to monitor progress and resource utilization. Developed a Progressive Web Application (PWA) to enable mobile access for employees.",
+        "technologies": [
+          ".Net core",
+          "React",
+          "TypeScript",
+          "Entity Core",
+          "PostgressSql"
+        ],
+        "link": null
+      },
+      {
+        "name": "Kathawo - Real-Time Social Dating Platform",
+        "description": "Built a real-time social dating platform enabling live user interactions and matchmaking. Implemented real-time 1:1 and group chat using Socket.io for low-latency messaging. Developed notification system for messages, matches, and user activity updates. Designed and implemented user verification workflow for trust and identity validation. Built scalable backend supporting real-time communication, status updates, and chat systems.",
+        "technologies": [
+          "Node.js",
+          "Express.js",
+          "Socket.io",
+          "Prisma ORM",
+          "PostgreSQL",
+          "Cloudinary"
+        ],
+        "link": null
+      },
+      {
+        "name": "Halloween Event Organizing Web Platform",
+        "description": "Developed a web platform to streamline event management and improve client communication for an Upwork client. Enabled users to view event schedules and book tickets through a responsive interface. Improved customer interaction flow by simplifying event browsing and booking experience. Built a responsive UI using React and Tailwind CSS for modern and scalable design.",
+        "technologies": [
+          "React",
+          "Tailwind CSS"
+        ],
+        "link": null
+      },
+      {
+        "name": "MindMap - 3D Mind Mapping and Knowledge Visualization Platform",
+        "description": "Developed an interactive 3D mind mapping platform with dynamic node creation, relationship management, and real-time visualization. Implemented node tagging, drag-and-drop positioning, zooming, and rotational navigation for enhanced user interaction. Integrated LLM-based features for intelligent idea generation and contextual relationship suggestions. Designed scalable frontend architecture and optimized graph rendering for smooth visualization performance.",
+        "technologies": [
+          "React",
+          "TypeScript",
+          "Tailwind CSS",
+          ".NET core",
+          "Entity core",
+          "LLM Integration"
+        ],
+        "link": null
+      },
+      {
+        "name": "Studio Management System",
+        "description": "Developed a manager dashboard with POS, inventory management, event handling, and employee oversight. Created a mobile application to provide staff with on-the-go access to essential operational features. Built a customer-facing portal enabling seamless booking and service scheduling.",
+        "technologies": [
+          "React",
+          "Node js",
+          "TypeScript",
+          "MSSQL",
+          "Azure"
+        ],
+        "link": null
+      },
+      {
+        "name": "Test Case Management System - Zephyr Replacement Solution",
+        "description": "Developed a scalable, low-cost test case management system as a replacement for the Jira-integrated Zephyr plugin. Implemented Excel-based bulk import/export and advanced search functionalities for efficient test case management. Integrated Active Directory (AD) authentication with multi-project support to improve accessibility and scalability. Designed interactive UIs and flexible test execution workflows to enhance QA operations and user engagement.",
+        "technologies": [
+          "React",
+          "TypeScript",
+          ".NET Core",
+          "MSSQL",
+          "Entity Framework",
+          "Azure DevOps"
+        ],
+        "link": null
+      },
+      {
+        "name": "Green Heven - Plantation E-commerce project",
+        "description": "Developed a full-featured e-commerce platform for a plant shop with separate customer and admin interfaces. Built a customer portal with product browsing, cart management, secure checkout, and real-time order tracking. Implemented an admin dashboard for product/category management, order monitoring, and performance insights. Integrated Stripe for secure payment processing and transactions. Designed a microservices-based architecture, with OAuth authentication and Redis-based session management.",
+        "technologies": [
+          "Node JS",
+          "ReactJS",
+          "Docker",
+          "MSSQL",
+          "Redis",
+          "gRPC",
+          "RabbitMq"
+        ],
+        "link": null
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Gen-AI Hackathon U.S - Unicorn Solutions - Winners",
+        "issuing_organization": null,
+        "issue_date": null
+      },
+      {
+        "name": "SLIOT - University of Moratuwa Finalist (Top 10)",
+        "issuing_organization": null,
+        "issue_date": null
+      },
+      {
+        "name": "HackMoral 2024 (Participants)",
+        "issuing_organization": null,
+        "issue_date": null
+      },
+      {
+        "name": "CodeRush 2022 and 2023 (Final 20)",
+        "issuing_organization": null,
+        "issue_date": null
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Sinhala",
+        "proficiency": "Native"
+      },
+      {
+        "language": "German",
+        "proficiency": "Basic"
+      }
+    ],
+    "total_years_experience": "Less than 1 year",
+    "claimed_role": "Full-stack Developer"
+  },
+  "normalized_skills": [
+    {
+      "original": "C#",
+      "canonical": "C#",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "JavaScript",
+      "canonical": "JavaScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "TypeScript",
+      "canonical": "TypeScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "React",
+      "canonical": "React",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Node.js",
+      "canonical": "Node.js",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Express.js",
+      "canonical": "Express.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Flutter",
+      "canonical": "Flutter",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "AWS",
+      "canonical": "AWS",
+      "category": "Cloud",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Amplify",
+      "canonical": "Amplify",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Docker",
+      "canonical": "Docker",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "CI/CD",
+      "canonical": "CI/CD",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Azure",
+      "canonical": "Azure",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Git",
+      "canonical": "Git",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Firebase",
+      "canonical": "Firebase",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Superbase",
+      "canonical": "Superbase",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MSSQL",
+      "canonical": "MSSQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "PostgreSQL",
+      "canonical": "PostgreSQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "MongoDB",
+      "canonical": "MongoDB",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "REST APIs",
+      "canonical": "REST APIs",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Microservices",
+      "canonical": "Microservices",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "System Design",
+      "canonical": "System Design",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "LLMs",
+      "canonical": "LLMs",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "ASP.NET Core",
+      "canonical": "ASP.NET Core",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Socket.io",
+      "canonical": "Socket.io",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Prisma ORM",
+      "canonical": "Prisma ORM",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Cloudinary",
+      "canonical": "Cloudinary",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Tailwind CSS",
+      "canonical": "Tailwind CSS",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Entity Core",
+      "canonical": "Entity Core",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Entity Framework",
+      "canonical": "Entity Framework",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Azure DevOps",
+      "canonical": "Azure DevOps",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Redis",
+      "canonical": "Redis",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "gRPC",
+      "canonical": "gRPC",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "RabbitMq",
+      "canonical": "RabbitMq",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    }
+  ],
+  "explainability_traces": [
+    {
+      "field": "full_name",
+      "extracted_value": "Yasith Sarada",
+      "raw_snippet": "... --- [Page 1] --- Yasith Sarada phone-alt+94 765782248|/envel peyasithsarada79@gmail.com| /linkedinlinkedin.com/in/yasith-sarada/|/ ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "email",
+      "extracted_value": "yasithsarada79@gmail.com",
+      "raw_snippet": "... --- [Page 1] --- Yasith Sarada phone-alt+94 765782248|/envel peyasithsarada79@gmail.com| /linkedinlinkedin.com/in/yasith-sarada/|/mediummedium.com/@yasithsarada79 /githubgithub.com/Yasith ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "phone",
+      "extracted_value": "+94 765782248",
+      "raw_snippet": "... --- [Page 1] --- Yasith Sarada phone-alt+94 765782248|/envel peyasithsarada79@gmail.com| /linkedinlinkedin.com/in/yasith-sarada/|/mediummedium.com/@yasit ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "github",
+      "extracted_value": "github.com/Yasithsarada",
+      "raw_snippet": "... arada79@gmail.com| /linkedinlinkedin.com/in/yasith-sarada/|/mediummedium.com/@yasithsarada79 /githubgithub.com/Yasithsarada|/gl beportfolio-yasith| ap- arker-altMoratuwa, Sri Lanka PROFESSIONAL SUMMARY Results-driven final- ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "linkedin",
+      "extracted_value": "linkedin.com/in/yasith-sarada/",
+      "raw_snippet": "... --- [Page 1] --- Yasith Sarada phone-alt+94 765782248|/envel peyasithsarada79@gmail.com| /linkedinlinkedin.com/in/yasith-sarada/|/mediummedium.com/@yasithsarada79 /githubgithub.com/Yasithsarada|/gl beportfolio-yasith| ap- arker- ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "claimed_role",
+      "extracted_value": "Full-stack Developer",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "education[0].institution",
+      "extracted_value": "University of Moratuwa",
+      "raw_snippet": "... arker-altMoratuwa, Sri Lanka PROFESSIONAL SUMMARY Results-driven final-year IT undergraduate at the University of Moratuwa, specializing in Software Engineering and Artificial Intelligence, with hands-on industry experienc ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[1].institution",
+      "extracted_value": "Sivali Central College",
+      "raw_snippet": "... N University of Moratuwa Jun 2022 Jun 2026 BSc (Hons) in Information T echnologyMoratuwa, Sri Lanka Sivali Central College Mar 2018 Oct 2020 Ratnapura, Sri Lanka  --- [Page 2] --- PROJECTS LevoHub - Construction workflow m ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[0].company",
+      "extracted_value": "Unicorn Solutions PVT(LTD)",
+      "raw_snippet": "... lem Solving, Critical Thinking, Client Engagement, Teamwork, Agile Practices, Leadership EXPERIENCE Unicorn Solutions PVT(LTD)Feb 2025 Aug 2025 Intern Software Engineer Nugegoda, Sri Lanka Upgraded enterprise-level application ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[1].company",
+      "extracted_value": "DoNext PVT(LTD)",
+      "raw_snippet": "... nerization and managed deployments through Microsoft Azure. Tech Stack: ASP.NET Core, React , Azure DoNext PVT(LTD) Mar 2022 May 2022 Web developer(internship) Sri Lanka Assist in developing scalable Web application ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[0].name",
+      "extracted_value": "LevoHub - Construction workflow management",
+      "raw_snippet": "... Sri Lanka Sivali Central College Mar 2018 Oct 2020 Ratnapura, Sri Lanka  --- [Page 2] --- PROJECTS LevoHub - Construction workflow management|Project Manager and devJan 2026 Mar 2026 Client: Levo constructions and Media (PVT) LTD System to m ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[1].name",
+      "extracted_value": "Kathawo - Real-Time Social Dating Platform",
+      "raw_snippet": "... ble mobile access for employees Tech Stack: .Net core, React, TypeScript, Entity Core, PostgressSql Kathawo - Real-Time Social Dating Platform|Full Stack DeveloperMay 2024 Dec 2024 Client: Freelance client(Third party) Built a real-time socia ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[2].name",
+      "extracted_value": "Halloween Event Organizing Web Platform",
+      "raw_snippet": "... , and chat systems. Tech Stack: Node.js, Express.js, Socket.io, Prisma ORM, PostgreSQL, Cloudinary. Halloween Event Organizing Web Platform|Freelance Fullstack Developer2024 Client: US client from Upwork Developed a web platform to streaml ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[3].name",
+      "extracted_value": "MindMap - 3D Mind Mapping and Knowledge Visualization Platform",
+      "raw_snippet": "... ve UI using React and Tailwind CSS for modern and scalable design. Tech Stack: React, Tailwind CSS. MindMap - 3D Mind Mapping and Knowledge Visualization Platform|Software Engineer (Intern)Mar 2022 Sep 2022 Developed an interactive 3D mind mapping platform with ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[4].name",
+      "extracted_value": "Studio Management System",
+      "raw_snippet": "... performance. Tech Stack: React, TypeScript, Tailwind CSS, .NET core , Entity core, LLM Integration Studio Management System|T eam Lead - Fullstack developerSep 2024 Dec 2024 Mentored: Optimize Solutions pvt ltd. Developed a ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[5].name",
+      "extracted_value": "Test Case Management System - Zephyr Replacement Solution",
+      "raw_snippet": "... bling seamless booking and service scheduling. Tech Stack: React, Node js, TypeScript, MSSQL, Azure Test Case Management System - Zephyr Replacement Solution|Software Engineer(Intern)20Feb 2025 Aug 202525 Developed a scalable, low-cost test case management ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[6].name",
+      "extracted_value": "Green Heven - Plantation E-commerce project",
+      "raw_snippet": "... nd user engagement. Tech Stack: React, TypeScript, .NET Core, MSSQL, Entity Framework, Azure DevOps Green Heven - Plantation E-commerce project|T eam Lead and DevAug 2024 Dec 2024 Developed a full-featured e-commerce platform for a plant shop ...",
+      "confidence": 1.0
+    }
+  ],
+  "confidence_score": 0.96,
+  "segmented_sections": {
+    "summary": "Results-driven final-year IT undergraduate at the University of Moratuwa, specializing in Software Engineering and Artificial\nIntelligence, with hands-on industry experience. Proficient in full-stack development and building scalable, maintainable\nsystems, with a strong focus on applying AI-driven solutions to real-world problems.",
+    "education": "University of Moratuwa Jun 2022 Jun 2026\nBSc (Hons) in Information T echnologyMoratuwa, Sri Lanka\nSivali Central College Mar 2018 Oct 2020\nRatnapura, Sri Lanka\n--- [Page 2] ---",
+    "work_experience": "Unicorn Solutions PVT(LTD)Feb 2025 Aug 2025\nIntern Software Engineer Nugegoda, Sri Lanka\nUpgraded enterprise-level applications from React 16 to React 18 across multiple modules, improving performance,\nscalability, and maintainability.\nContributed at winner team in GEN-AI hackthon by setting up Azure AI Foundry with LLM-based agentic usage ,\nagent fine tuning and MCP servers while introducing brand new feature for product(UnicornBOX)\nBuilt a QA Test Case Management System with Excel import/export, Azure AD authentication, and advanced search\ncapabilities\nExplored Azure services with self experience with guidance (Containers , CI/CD deployments , database services ,\nCost estimations , App services)\nManaged Docker for containerization and managed deployments through Microsoft Azure.\nTech Stack: ASP.NET Core, React , Azure\nDoNext PVT(LTD) Mar 2022 May 2022\nWeb developer(internship) Sri Lanka\nAssist in developing scalable Web applications using React (JS and TS) and NodeJS\nLearned the industrial standards methods from external expert s sessions\nTech Stack: React JS, React TS , NodeJs",
+    "projects": "LevoHub - Construction workflow management|Project Manager and devJan 2026 Mar 2026\nClient: Levo constructions and Media (PVT) LTD\nSystem to manage construction workflows, including project tracking, time management, and team coordination\nImplemented role-based access control (RBAC) to handle user roles and permissions for structured operations.\nDeveloped live workflow tracking and real-time notification features to improve task visibility and team communication.\nBuilt project management and employee time tracking modules to monitor progress and resource utilization.\nDeveloped a Progressive Web Application (PWA) to enable mobile access for employees\nTech Stack: .Net core, React, TypeScript, Entity Core, PostgressSql\nKathawo - Real-Time Social Dating Platform|Full Stack DeveloperMay 2024 Dec 2024\nClient: Freelance client(Third party)\nBuilt a real-time social dating platform enabling live user interactions and matchmaking.\nImplemented real-time 1:1 and group chat using Socket.io for low-latency messaging.\nDeveloped notification system for messages, matches, and user activity updates.\nDesigned and implemented user verification workflow for trust and identity validation.\nBuilt scalable backend supporting real-time communication, status updates, and chat systems.\nTech Stack: Node.js, Express.js, Socket.io, Prisma ORM, PostgreSQL, Cloudinary.\nHalloween Event Organizing Web Platform|Freelance Fullstack Developer2024\nClient: US client from Upwork\nDeveloped a web platform to streamline event management and improve client communication for an Upwork client.\nEnabled users to view event schedules and book tickets through a responsive interface.\nImproved customer interaction flow by simplifying event browsing and booking experience.\nBuilt a responsive UI using React and Tailwind CSS for modern and scalable design.\nTech Stack: React, Tailwind CSS.\nMindMap - 3D Mind Mapping and Knowledge Visualization Platform|Software Engineer (Intern)Mar 2022 Sep 2022\nDeveloped an interactive 3D mind mapping platform with dynamic node creation, relationship management, and\nreal-time visualization.\nImplemented node tagging, drag-and-drop positioning, zooming, and rotational navigation for enhanced user\ninteraction.\nIntegrated LLM-based features for intelligent idea generation and contextual relationship suggestions.\nDesigned scalable frontend architecture and optimized graph rendering for smooth visualization performance.\nTech Stack: React, TypeScript, Tailwind CSS, .NET core , Entity core, LLM Integration\nStudio Management System|T eam Lead - Fullstack developerSep 2024 Dec 2024\nMentored: Optimize Solutions pvt ltd.\nDeveloped a manager dashboard with POS, inventory management, event handling, and employee oversight.\nCreated a mobile application to provide staff with on-the-go access to essential operational features.\nBuilt a customer-facing portal enabling seamless booking and service scheduling.\nTech Stack: React, Node js, TypeScript, MSSQL, Azure\nTest Case Management System - Zephyr Replacement Solution|Software Engineer(Intern)20Feb 2025 Aug 202525\nDeveloped a scalable, low-cost test case management system as a replacement for the Jira-integrated Zephyr plugin.\nImplemented Excel-based bulk import/export and advanced search functionalities for efficient test case management.\nIntegrated Active Directory (AD) authentication with multi-project support to improve accessibility and scalability.\nDesigned interactive UIs and flexible test execution workflows to enhance QA operations and user engagement.\nTech Stack: React, TypeScript, .NET Core, MSSQL, Entity Framework, Azure DevOps\nGreen Heven - Plantation E-commerce project|T eam Lead and DevAug 2024 Dec 2024\nDeveloped a full-featured e-commerce platform for a plant shop with separate customer and admin interfaces.\nBuilt a customer portal with product browsing, cart management, secure checkout, and real-time order tracking.\nImplemented an admin dashboard for product/category management, order monitoring, and performance insights.\nIntegrated Stripe for secure payment processing and transactions.\nDesigned a microservices-based architecture , with OAuth authentication and Redis-based session management.\nTech Stack: Node JS, ReactJS, Docker, MSSQL, Redis, gRPC, RabbitMq\n--- [Page 3] ---",
+    "certifications": "Gen-AI Hackathon U.S - Unicorn Solutions - Winners SLIOT - University of Moratuwa Finalist (Top 10)\nHackMoral 2024 (Participants) CodeRush 2022 and 2023 (Final 20)\nInterests\nMobile App Development LLM Intergrations Cloud Computing",
+    "languages": "Frameworks & Libraries:.NET Core, React, Node.js, Express.js , Flutter\nCloud & DevOps:AWS (Amplify, S3 , EC2), Docker, CI/CD, Azure , Git, Firebase , Superbase\nDatabases:MSSQL, PostgreSQL, MongoDB\nConcepts:REST APIs, Microservices, System Design, LLMs\nSoft Skills:Problem Solving, Critical Thinking, Client Engagement, Teamwork, Agile Practices, Leadership\nEnglish (Fluent) Sinhala(Native) German (Basic)\nREFERENCES\nMR. LAKSHITHA SAMARASINGHATechnical Lead @ WSO2\n+94 71 811 7881|lakshitha.uom@gmail.com\nMr.Roshan MaddumageTechnical Lead @ Unicorn Solutions\n+94 71 873 4332|roshanma@unicorn-solutions.com",
+    "header_contact": "--- [Page 1] ---\nYasith Sarada\nphone-alt+94 765782248|/envel peyasithsarada79@gmail.com|\n/linkedinlinkedin.com/in/yasith-sarada/|/mediummedium.com/@yasithsarada79\n/githubgithub.com/Yasithsarada|/gl beportfolio-yasith|\nap- arker-altMoratuwa, Sri Lanka"
+  },
+  "validation_report": {
+    "email_verified": true,
+    "phone_verified": true,
+    "github_verified": true,
+    "linkedin_verified": true,
+    "date_anomalies_detected": false,
+    "anomalies": []
+  }
+}

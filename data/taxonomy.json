@@ -1,0 +1,122 @@
+{
+  "Python": {
+    "canonical": "Python",
+    "category": "Backend",
+    "aliases": ["python", "python3", "python 3", "py"]
+  },
+  "React": {
+    "canonical": "React",
+    "category": "Frontend",
+    "aliases": ["react", "reactjs", "react.js", "react-native", "react native"]
+  },
+  "JavaScript": {
+    "canonical": "JavaScript",
+    "category": "Frontend",
+    "aliases": ["javascript", "js", "es6", "ecmascript"]
+  },
+  "TypeScript": {
+    "canonical": "TypeScript",
+    "category": "Frontend",
+    "aliases": ["typescript", "ts"]
+  },
+  "PostgreSQL": {
+    "canonical": "PostgreSQL",
+    "category": "Database",
+    "aliases": ["postgresql", "postgres", "pg"]
+  },
+  "MongoDB": {
+    "canonical": "MongoDB",
+    "category": "Database",
+    "aliases": ["mongodb", "mongo"]
+  },
+  "Docker": {
+    "canonical": "Docker",
+    "category": "DevOps",
+    "aliases": ["docker", "docker-compose"]
+  },
+  "Kubernetes": {
+    "canonical": "Kubernetes",
+    "category": "DevOps",
+    "aliases": ["kubernetes", "k8s"]
+  },
+  "FastAPI": {
+    "canonical": "FastAPI",
+    "category": "Backend",
+    "aliases": ["fastapi", "fast-api", "fast api"]
+  },
+  "AWS": {
+    "canonical": "AWS",
+    "category": "Cloud",
+    "aliases": ["aws", "amazon web services", "s3", "ec2", "rds", "lambda"]
+  },
+  "PyTorch": {
+    "canonical": "PyTorch",
+    "category": "Machine Learning",
+    "aliases": ["pytorch", "torch"]
+  },
+  "TensorFlow": {
+    "canonical": "TensorFlow",
+    "category": "Machine Learning",
+    "aliases": ["tensorflow", "tf"]
+  },
+  "Git": {
+    "canonical": "Git",
+    "category": "DevOps",
+    "aliases": ["git", "github", "gitlab", "bitbucket"]
+  },
+  "Node.js": {
+    "canonical": "Node.js",
+    "category": "Backend",
+    "aliases": ["node.js", "nodejs", "node"]
+  },
+  "Vue.js": {
+    "canonical": "Vue.js",
+    "category": "Frontend",
+    "aliases": ["vue.js", "vuejs", "vue"]
+  },
+  "Django": {
+    "canonical": "Django",
+    "category": "Backend",
+    "aliases": ["django"]
+  },
+  "Flask": {
+    "canonical": "Flask",
+    "category": "Backend",
+    "aliases": ["flask"]
+  },
+  "Java": {
+    "canonical": "Java",
+    "category": "Backend",
+    "aliases": ["java", "jdk"]
+  },
+  "Spring Boot": {
+    "canonical": "Spring Boot",
+    "category": "Backend",
+    "aliases": ["spring boot", "springboot", "spring"]
+  },
+  "C++": {
+    "canonical": "C++",
+    "category": "Backend",
+    "aliases": ["c++", "cpp"]
+  },
+  "C#": {
+    "canonical": "C#",
+    "category": "Backend",
+    "aliases": ["c#", "csharp", ".net"]
+  },
+  "Go": {
+    "canonical": "Go",
+    "category": "Backend",
+    "aliases": ["go", "golang"]
+  },
+  "SQL": {
+    "canonical": "SQL",
+    "category": "Database",
+    "aliases": ["sql", "mysql", "sqlite"]
+  },
+  "Scikit-Learn": {
+    "canonical": "Scikit-Learn",
+    "category": "Machine Learning",
+    "aliases": ["scikit-learn", "sklearn"]
+  }
+}
