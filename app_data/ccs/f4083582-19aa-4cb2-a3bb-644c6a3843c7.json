@@ -1,0 +1,14 @@
+{
+  "_id": "f4083582-19aa-4cb2-a3bb-644c6a3843c7",
+  "candidate_id": null,
+  "filename": "Software Engineer Interview.m4a",
+  "status": "PENDING",
+  "created_at": "2026-06-09T13:25:21.892635",
+  "finished_at": null,
+  "raw_transcript": null,
+  "cleaned_transcript": null,
+  "claims": null,
+  "explainability_report": [],
+  "comparisons": {},
+  "error": null
+}

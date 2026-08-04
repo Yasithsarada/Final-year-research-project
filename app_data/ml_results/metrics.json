@@ -1,0 +1,100 @@
+{
+  "dataset": {
+    "n_total": 3000,
+    "n_fraud": 450,
+    "fraud_rate": 0.15,
+    "n_features": 9,
+    "feature_names": [
+      "calendar_commit_frequency",
+      "avg_commit_size_norm",
+      "burst_concentration_ratio",
+      "commit_coefficient_variation",
+      "generic_message_ratio",
+      "pr_rejection_rate",
+      "language_diversity_norm",
+      "skill_mismatch",
+      "audio_resume_mismatch"
+    ],
+    "n_train": 2100,
+    "n_test": 900,
+    "synthetic": true
+  },
+  "ablation": {
+    "rules_only": {
+      "precision": 0.7703,
+      "recall": 0.4222,
+      "f1": 0.5455,
+      "roc_auc": 0.865,
+      "pr_auc": 0.6518
+    },
+    "ml_only": {
+      "precision": 0.8333,
+      "recall": 0.9259,
+      "f1": 0.8772,
+      "roc_auc": 0.9859,
+      "pr_auc": 0.9308
+    },
+    "hybrid": {
+      "precision": 0.6686,
+      "recall": 0.8519,
+      "f1": 0.7492,
+      "roc_auc": 0.9705,
+      "pr_auc": 0.876
+    }
+  },
+  "supervised_baselines": {
+    "logistic_regression": {
+      "precision": 0.8462,
+      "recall": 0.9778,
+      "f1": 0.9072,
+      "roc_auc": 0.9985,
+      "pr_auc": 0.9928,
+      "cv_f1_mean": 0.9156,
+      "cv_f1_std": 0.0205
+    },
+    "random_forest": {
+      "precision": 0.9762,
+      "recall": 0.9111,
+      "f1": 0.9425,
+      "roc_auc": 0.9989,
+      "pr_auc": 0.9941,
+      "cv_f1_mean": 0.9407,
+      "cv_f1_std": 0.0144
+    },
+    "gradient_boosting": {
+      "precision": 0.9416,
+      "recall": 0.9556,
+      "f1": 0.9485,
+      "roc_auc": 0.999,
+      "pr_auc": 0.995,
+      "cv_f1_mean": 0.9537,
+      "cv_f1_std": 0.0168
+    }
+  },
+  "feature_importance": {
+    "burst_concentration_ratio": 0.2224,
+    "avg_commit_size_norm": 0.2025,
+    "language_diversity_norm": 0.1675,
+    "audio_resume_mismatch": 0.1554,
+    "skill_mismatch": 0.1405,
+    "generic_message_ratio": 0.0377,
+    "pr_rejection_rate": 0.0327,
+    "commit_coefficient_variation": 0.0234,
+    "calendar_commit_frequency": 0.018
+  },
+  "loss_curve": {
+    "model": "GradientBoostingClassifier",
+    "n_estimators": 200,
+    "final_train_loss": 0.0,
+    "final_val_loss": 0.0753,
+    "best_val_loss": 0.0462,
+    "best_iteration": 40,
+    "overfitting_gap_at_end": 0.0753
+  },
+  "threshold_sweep": {
+    "threshold": 0.37,
+    "f1": 0.7984,
+    "precision": 0.8761,
+    "recall": 0.7333
+  }
+}

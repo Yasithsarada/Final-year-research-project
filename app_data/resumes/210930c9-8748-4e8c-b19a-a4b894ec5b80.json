@@ -1,0 +1,484 @@
+{
+  "_id": "210930c9-8748-4e8c-b19a-a4b894ec5b80",
+  "filename": "QA - Malith Weeraratne-6.pdf",
+  "uploaded_at": "2026-07-29T12:34:35.140315",
+  "entities": {
+    "full_name": "Malith Weerarathne",
+    "email": "navindumalith0@gmail.com",
+    "phone": "+94764808555",
+    "github": "https://github.com/malith",
+    "linkedin": "https://linkedin.com/in/malithweerarathne",
+    "skills": [
+      "Test automation",
+      "Bug tracking",
+      "Quality delivery",
+      "Manual testing",
+      "Functional testing",
+      "Regression testing",
+      "Agile",
+      "QA planning",
+      "Java",
+      "C",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "HTML",
+      "CSS",
+      "ASP.NET Core",
+      "MySQL",
+      "MsSQL",
+      "MongoDB",
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Microsoft Visual Studio",
+      "IntelliJ IDEA",
+      "UI Testing",
+      "API Testing",
+      "Playwright",
+      "Katalon Studio",
+      "Selenium WebDriver",
+      "Rest Assured",
+      "Cucumber",
+      "Apache JMeter",
+      "Maven",
+      "JUnit",
+      "TestNG",
+      "Stripe",
+      "Arduino",
+      "GSM Module",
+      "ThingSpeak"
+    ],
+    "education": [
+      {
+        "institution": "University of Moratuwa",
+        "degree": "B.Sc. (Hons)",
+        "field_of_study": "Information Technology and Management",
+        "start_date": "2022",
+        "end_date": "Present",
+        "gpa": "3.60"
+      },
+      {
+        "institution": "Sri Sumangala College, Panadura",
+        "degree": "G.C.E. Advanced level examination",
+        "field_of_study": "Science",
+        "start_date": "2018",
+        "end_date": "2020",
+        "gpa": "3 As | Z-Score 1.8086"
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "hSenid Business Solutions",
+        "role": "Intern QA Engineer",
+        "start_date": "Feb 2025",
+        "end_date": "Oct 2025",
+        "description": "Performed manual and automated testing on HRM systems, identifying and reporting bugs. Designed and executed functional and regression test cases based on requirements. Used Katalon Studio for automation; participated in agile ceremonies and QA planning.",
+        "technologies": [
+          "Katalon Studio",
+          "Agile"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated QA Suite for Plant Nursery Web App",
+        "description": "End-to-end automated QA suite for a plant nursery web app, validating UI and API features like categories, sales, and inventory. Role: Cucumber Step Definitions, API & UI Automation, Data Seeding Hooks, Page Object Model Implementation",
+        "technologies": [
+          "Java",
+          "Maven",
+          "Cucumber",
+          "Selenium WebDriver",
+          "Rest Assured",
+          "JUnit",
+          "TestNG"
+        ],
+        "link": "2026"
+      },
+      {
+        "name": "First Light Villas Reservation Management System",
+        "description": "A comprehensive web platform that automates villa and room reservations, manages real-time availability, handles secure online payments, generates reports, and improves overall booking efficiency for both customers and administrators. Role: Auth & Access Control, Villa/Room & Booking Management, Payment & Refunds, Report Handling, Playwright Automation Suite",
+        "technologies": [
+          "Next.js",
+          "Playwright",
+          "MongoDB",
+          "Tailwind CSS",
+          "Stripe"
+        ],
+        "link": "2024 - 2025"
+      },
+      {
+        "name": "Track Master Smart Camera Bag",
+        "description": "An IoT-based camera bag designed to improve equipment safety using GPS tracking, automated locking, and environmental monitoring. Role: Location Tracking System using GSM Module",
+        "technologies": [
+          "Arduino",
+          "GSM Module",
+          "ThingSpeak",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "link": "2022 - 2023"
+      },
+      {
+        "name": "Vehicle Hub Car Rental Management System",
+        "description": "A car rental system that automates reservations, tracks real-time availability, manages billing, and provides analytics and admin tools. Role: Reporting, Insights & Payment Gateway Modules",
+        "technologies": [
+          "ASP.NET Core",
+          "React.js",
+          "Tailwind CSS",
+          "MsSQL",
+          "Stripe"
+        ],
+        "link": "2023 - 2024"
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "total_years_experience": "0 years",
+    "claimed_role": "QA Engineer"
+  },
+  "normalized_skills": [
+    {
+      "original": "Test automation",
+      "canonical": "Test automation",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Bug tracking",
+      "canonical": "Bug tracking",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Quality delivery",
+      "canonical": "Quality delivery",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Manual testing",
+      "canonical": "Manual testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Functional testing",
+      "canonical": "Functional testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Regression testing",
+      "canonical": "Regression testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Agile",
+      "canonical": "Agile",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "QA planning",
+      "canonical": "QA planning",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Java",
+      "canonical": "Java",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "C",
+      "canonical": "C",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "C#",
+      "canonical": "C#",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "JavaScript",
+      "canonical": "JavaScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "TypeScript",
+      "canonical": "TypeScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "React.js",
+      "canonical": "React",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Next.js",
+      "canonical": "Next.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Tailwind CSS",
+      "canonical": "Tailwind CSS",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "HTML",
+      "canonical": "HTML",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "CSS",
+      "canonical": "CSS",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "ASP.NET Core",
+      "canonical": "ASP.NET Core",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MySQL",
+      "canonical": "SQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "MsSQL",
+      "canonical": "MsSQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MongoDB",
+      "canonical": "MongoDB",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Git",
+      "canonical": "Git",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "VS Code",
+      "canonical": "VS Code",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Microsoft Visual Studio",
+      "canonical": "Microsoft Visual Studio",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "IntelliJ IDEA",
+      "canonical": "IntelliJ IDEA",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "UI Testing",
+      "canonical": "UI Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "API Testing",
+      "canonical": "API Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Playwright",
+      "canonical": "Playwright",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Katalon Studio",
+      "canonical": "Katalon Studio",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Selenium WebDriver",
+      "canonical": "Selenium WebDriver",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Rest Assured",
+      "canonical": "Rest Assured",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Cucumber",
+      "canonical": "Cucumber",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Apache JMeter",
+      "canonical": "Apache JMeter",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Maven",
+      "canonical": "Maven",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "JUnit",
+      "canonical": "JUnit",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "TestNG",
+      "canonical": "TestNG",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Stripe",
+      "canonical": "Stripe",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Arduino",
+      "canonical": "Arduino",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "GSM Module",
+      "canonical": "GSM Module",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "ThingSpeak",
+      "canonical": "ThingSpeak",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    }
+  ],
+  "explainability_traces": [
+    {
+      "field": "full_name",
+      "extracted_value": "Malith Weerarathne",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "email",
+      "extracted_value": "navindumalith0@gmail.com",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "phone",
+      "extracted_value": "+94764808555",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "github",
+      "extracted_value": "https://github.com/malith",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "linkedin",
+      "extracted_value": "https://linkedin.com/in/malithweerarathne",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "claimed_role",
+      "extracted_value": "QA Engineer",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "education[0].institution",
+      "extracted_value": "University of Moratuwa",
+      "raw_snippet": "Not traceably found",
+      "confidence": 0.3
+    },
+    {
+      "field": "education[1].institution",
+      "extracted_value": "Sri Sumangala College, Panadura",
+      "raw_snippet": "Not traceably found",
+      "confidence": 0.3
+    },
+    {
+      "field": "work_experience[0].company",
+      "extracted_value": "hSenid Business Solutions",
+      "raw_snippet": "Not traceably found",
+      "confidence": 0.3
+    },
+    {
+      "field": "projects[0].name",
+      "extracted_value": "Automated QA Suite for Plant Nursery Web App",
+      "raw_snippet": "Not traceably found",
+      "confidence": 0.3
+    },
+    {
+      "field": "projects[1].name",
+      "extracted_value": "First Light Villas Reservation Management System",
+      "raw_snippet": "Not traceably found",
+      "confidence": 0.3
+    },
+    {
+      "field": "projects[2].name",
+      "extracted_value": "Track Master Smart Camera Bag",
+      "raw_snippet": "Not traceably found",
+      "confidence": 0.3
+    },
+    {
+      "field": "projects[3].name",
+      "extracted_value": "Vehicle Hub Car Rental Management System",
+      "raw_snippet": "Not traceably found",
+      "confidence": 0.3
+    }
+  ],
+  "confidence_score": 0.0,
+  "segmented_sections": {
+    "header_contact": "--- [Page 1] ---\nM A L I T H W E E R A R A T H N E\nS U M M A R Y\nP a s s i o n a t e Q A u n d e r g r a d u a t e s k i l l e d i n t e s t a u t o m a t i o n , b u g t r a c k i n g , a n d q u a l i t y d e l i v e r y .\nE x p e r i e n c e d i n d e s i g n i n g e f f i c i e n t t e s t c a s e s a n d e n s u r i n g d e f e c t - f r e e s o f t w a r e t h r o u g h s t r u c t u r e d\nt e s t i n g p r o c e s s e s .\nW O R K E X P E R I E N C E\nP e r f o r m e d m a n u a l a n d a u t o m a t e d t e s t i n g o n H R M s y s t e m s , i d e n t i f y i n g a n d r e p o r t i n g b u g s .\nD e s i g n e d a n d e x e c u t e d f u n c t i o n a l a n d r e g r e s s i o n t e s t c a s e s b a s e d o n r e q u i r e m e n t s .\nU s e d K a t a l o n S t u d i o f o r a u t o m a t i o n ; p a r t i c i p a t e d i n a g i l e c e r e m o n i e s a n d Q A p l a n n i n g .\nI n t e r n Q A E n g i n e e r , h S e n i d B u s i n e s s S o l u t i o n s F e b 2 0 2 5 - O c t 2 0 2 5\nE D U C A T I O N\nB . S c . ( H o n s ) i n I n f o r m a t i o n T e c h n o l o g y a n d M a n a g e m e n t\nF a c u l t y o f I n f o r m a t i o n T e c h n o l o g y , U n i v e r s i t y o f M o r a t u w a\nC G P A : 3 . 6 0 ( u p t o L 4 S 2 1 )\n2 0 2 2 - P r e s e n t\nG . C . E . A d v a n c e d l e v e l e x a m i n a t i o n\nS r i S u m a n g a l a C o l l e g e , P a n a d u r a\n3 A s | Z - S c o r e 1 . 8 0 8 6\n2 0 1 8 - 2 0 2 0\nN o 3 4 D i a s P l a c e , P a n a d u r a , ( + 9 4 ) 7 6 4 8 0 8 5 5 5 , n a v i n d u m a l i t h 0 @ g m a i l . c o m\nL i n k e d i n : / / m a l i t h w e e r a r a t h n e , h t t p s : / / g i t h u b . c o m / m a l i t h\nP R O J E C T S\nA u t o m a t e d Q A S u i t e f o r P l a n t N u r s e r y W e b A p p\n4 t h Y e a r G r o u p P r o j e c t\nE n d - t o - e n d a u t o m a t e d Q A s u i t e f o r a p l a n t n u r s e r y w e b a p p , v a l i d a t i n g U I a n d A P I f e a t u r e s\nl i k e c a t e g o r i e s , s a l e s , a n d i n v e n t o r y .\nT e c h n o l o g i e s : J a v a , M a v e n , C u c u m b e r , S e l e n i u m W e b D r i v e r , R e s t A s s u r e d , J U n i t / T e s t N G\nR o l e : C u c u m b e r S t e p D e f i n i t i o n s , A P I & U I A u t o m a t i o n , D a t a S e e d i n g H o o k s , P a g e O b j e c t\nM o d e l I m p l e m e n t a t i o n\n2 0 2 6\nF i r s t L i g h t V i l l a s R e s e r v a t i o n M a n a g e m e n t S y s t e m\n3 r d Y e a r I n d i v i d u a l P r o j e c t\nA c o m p r e h e n s i v e w e b p l a t f o r m t h a t a u t o m a t e s v i l l a a n d r o o m r e s e r v a t i o n s , m a n a g e s r e a l -\nt i m e a v a i l a b i l i t y , h a n d l e s s e c u r e o n l i n e p a y m e n t s , g e n e r a t e s r e p o r t s , a n d i m p r o v e s o v e r a l l\nb o o k i n g e f f i c i e n c y f o r b o t h c u s t o m e r s a n d a d m i n i s t r a t o r s .\nT e c h n o l o g i e s : N e x t . j s , P l a y w r i g h t , M o n g o D B , T a i l w i n d C S S , S t r i p e\nR o l e : A u t h & A c c e s s C o n t r o l , V i l l a / R o o m & B o o k i n g M a n a g e m e n t , P a y m e n t & R e f u n d s , R e p o r t\nH a n d l i n g , P l a y w r i g h t A u t o m a t i o n S u i t e\n2 0 2 4 - 2 0 2 5\nQ A E N G I N E E R\n--- [Page 2] ---\nT E C H N I C A L S K I L L S\nE X T R A C U R R I C U L A R A C T I V I T I E S\nR E F E R E E S\nQ U A L I T Y A S S U R A N C E S K I L L S & T O O L S\nP r o g r a m m i n g L a n g u a g e s : J a v a , C , C # , J a v a S c r i p t , T y p e S c r i p t\nW e b D e v e l o p m e n t : R e a c t . j s , N e x t . j s , T a i l w i n d C S S , H T M L , C S S\nB a c k e n d D e v e l o p m e n t : A S P . N E T C o r e , N e x t . j s\nD a t a b a s e s : M y S Q L , M s S Q L , M o n g o D B\nV e r s i o n C o n t r o l : G i t , G i t H u b\nD e v e l o p m e n t T o o l s : V S C o d e , M i c r o s o f t V i s u a l S t u d i o , I n t e l l i J I D E A\nT e s t i n g T y p e s : A u t o m a t i o n t e s t i n g , M a n u a l T e s t i n g , F u n c t i o n a l T e s t i n g , R e g r e s s i o n T e s t i n g ,\nU I T e s t i n g , A P I T e s t i n g\nT e s t A u t o m a t i o n : P l a y w r i g h t , K a t a l o n S t u d i o , S e l e n i u m W e b D r i v e r\nA P I T e s t i n g : R e s t A s s u r e d\nB D D ( B e h a v i o r - D r i v e n D e v e l o p m e n t ) : C u c u m b e r\nP e r f o r m a n c e T e s t i n g : A p a c h e J M e t e r\nT r a c k M a s t e r S m a r t C a m e r a B a g\nF I T M o m e n t s\nI E E E S t u d e n t B r a n c h U n i v e r s i t y o f M o r a t u w a\n1 s t Y e a r I O T P r o j e c t\nA n I o T - b a s e d c a m e r a b a g d e s i g n e d t o i m p r o v e e q u i p m e n t s a f e t y u s i n g G P S t r a c k i n g ,\na u t o m a t e d l o c k i n g , a n d e n v i r o n m e n t a l m o n i t o r i n g .\nT e c h n o l o g i e s : A r d u i n o , G S M M o d u l e , T h i n g S p e a k , H T M L , C S S , J a v a S c r i p t\nR o l e : L o c a t i o n T r a c k i n g S y s t e m u s i n g G S M M o d u l e\nL e a d o f t h e C r e a t i v e D e s i g n P i l l a r ( 2 0 2 4 2 0 2 5 )\nA s s i s t a n t L e a d o f t h e P h o t o g r a p h y & V i d e o g r a p h y P i l l a r ( 2 0 2 3 2 0 2 4 )\nP h o t o g r a p h y & V i d e o g r a p h y P i l l a r M e m b e r ( 2 0 2 2 2 0 2 3 )\nM s . M . I . S i t h m i n i\nS o f t w a r e E n g i n e e r I F S R & D I n t e r n a t i o n a l ( P v t ) L t d\n( + 9 4 ) 7 1 2 5 3 5 9 7 5 | i m a s h a . s i t h m i n i @ i f s . c o m\nM r . V . S . N . W i j e r a t h n a\nU I E n g i n e e r I n t e r v e s t S o f t w a r e T e c h n o l o g i e s ( P v t ) L t d\n( + 9 4 ) 7 6 0 5 1 0 0 5 6 | s a t h i r a . n @ i n t e r v e s t . l k\nA s s i s t a n t L e a d o f t h e M e d i a C o m m i t t e e ( J u n 2 0 2 2 J u n 2 0 2 3 )\n2 0 2 2 - 2 0 2 3\n2 0 2 2 P r e s e n t\n2 0 2 2 - 2 0 2 3\nV e h i c l e H u b C a r R e n t a l M a n a g e m e n t S y s t e m\n2 n d Y e a r S o f t w a r e P r o j e c t\nA c a r r e n t a l s y s t e m t h a t a u t o m a t e s r e s e r v a t i o n s , t r a c k s r e a l - t i m e a v a i l a b i l i t y , m a n a g e s\nb i l l i n g , a n d p r o v i d e s a n a l y t i c s a n d a d m i n t o o l s .\nT e c h n o l o g i e s : A S P . N E T C o r e , R e a c t . j s , T a i l w i n d C S S , M s S Q L , S t r i p e\nR o l e : R e p o r t i n g , I n s i g h t s & P a y m e n t G a t e w a y M o d u l e s\n2 0 2 3 - 2 0 2 4"
+  },
+  "validation_report": {
+    "email_verified": false,
+    "phone_verified": false,
+    "github_verified": false,
+    "linkedin_verified": false,
+    "date_anomalies_detected": false,
+    "anomalies": []
+  }
+}

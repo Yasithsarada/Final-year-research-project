@@ -1,0 +1,614 @@
+{
+  "_id": "d757c854-e0bf-4ef3-a672-f9c8562b1c68",
+  "filename": "Praneeth CV_Updated (1).pdf",
+  "uploaded_at": "2026-07-29T13:05:12.366347",
+  "entities": {
+    "full_name": "Praneeth Kulathilaka",
+    "email": "praneethskulathilaka@gmail.com",
+    "phone": "+94 75 829 4030",
+    "github": "github.com/Praneeth-Kulathilaka",
+    "linkedin": "linkedin.com/in/praneeth-kulathilaka",
+    "skills": [
+      "Golang",
+      "Python",
+      "JavaScript",
+      "Java",
+      "C",
+      "Gin",
+      "React",
+      "Node.js",
+      "NextJS",
+      "Express",
+      "TailwindCSS",
+      "GraphQL",
+      "Git",
+      "GitHub Actions",
+      "Docker",
+      "Linux",
+      "Firebase",
+      "Redis",
+      "GenAI",
+      "RAG",
+      "Graph Database",
+      "AI Agents",
+      "MySQL",
+      "PostgreSQL",
+      "MSSQL",
+      "MongoDB",
+      "Oracle DB",
+      "FireBirdSQL",
+      "Problem Solving",
+      "Critical Thinking",
+      "Client Engagement",
+      "Teamwork",
+      "Agile",
+      "Leadership",
+      "MCP",
+      "REST APIs",
+      "Bi-LSTM",
+      "XAI",
+      "Data engineering",
+      "Google Gemini API",
+      "Pydantic",
+      "pytest",
+      "ruff",
+      "SQL",
+      "Flutter",
+      "Material UI",
+      "PayHere Gateway",
+      "gRPC",
+      "RabbitMq",
+      "Stripe",
+      "OAuth"
+    ],
+    "education": [
+      {
+        "institution": "University of Moratuwa",
+        "degree": "BSc (Hons)",
+        "field_of_study": "Information Technology",
+        "start_date": "Jun 2022",
+        "end_date": "Jun 2026",
+        "gpa": "3.69/4.0"
+      },
+      {
+        "institution": "R/Eheliyagoda Central College",
+        "degree": "GCE A/L",
+        "field_of_study": "Physical Science + ICT Stream",
+        "start_date": "Jan 2011",
+        "end_date": "Oct 2020",
+        "gpa": "2A s (Combined Mathematics, ICT), 1B (Physics)"
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Qlub",
+        "role": "Associate Software Engineer (Part-time)",
+        "start_date": "Aug 2025",
+        "end_date": "Present",
+        "description": "Optimized custom proxy services for scraping integrations, ensuring secure QR-based payment processing and seamless terminal-to-cloud communication. Engineered SoftPOS integrations to streamline order transactions and enhance mobile payment capabilities. Developed automated web scraping pipelines to synchronize merchant data, significantly reducing manual onboarding time and improving data integrity. Implemented MCP (Model Context Protocol) to facilitate secure database integrations, enabling AI models to perform real-time queries against live data environments.",
+        "technologies": [
+          "Go (Golang)",
+          "Python",
+          "MCP",
+          "PostgreSQL",
+          "MSSQL",
+          "MYSQL",
+          "Oracle DB",
+          "Redis",
+          "Docker",
+          "REST APIs"
+        ]
+      },
+      {
+        "company": "Qlub",
+        "role": "Software Engineer Intern",
+        "start_date": "Feb 2025",
+        "end_date": "Jul 2025",
+        "description": "Designed integration layers to bridge QR payment platforms with third-party Point of Sale (POS) systems utilizing REST APIs and Webhook architectures. Developed robust SQL-based database bridges to synchronize transaction data between payment platforms and merchant POS systems. Served as an SRE Support Developer, resolving high-priority production incidents through cross-functional collaboration with customer success and Site Reliability Engineering teams.",
+        "technologies": [
+          "Go (Golang)",
+          "Python",
+          "MCP",
+          "PostgreSQL",
+          "MSSQL",
+          "MYSQL",
+          "Oracle DB",
+          "Redis",
+          "Docker",
+          "REST APIs"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Robust and Trustworthy Fraud Transaction Detection",
+        "description": "Designing a unified financial risk defense architecture incorporating an adversarial robust fraud detection model, a behavioral credit risk drift model, and an explainable cross channel pipeline. Developing advanced data engineering strategies and mapping synthetic environments to support robust, multi-channel fraud detection training. Researching adaptive and explainable machine learning approaches to ensure the model s transparency and resilience against evolving financial threats.",
+        "technologies": [
+          "Bi-LSTM",
+          "XAI",
+          "Data engineering"
+        ],
+        "link": ""
+      },
+      {
+        "name": "AI-Native Spec-Driven Development Pipeline",
+        "description": "Designed and implemented an AI-native, spec-driven development pipeline that transforms structured feature specifications into production ready code, tests, and deployment artifacts using Google Gemini API. Containerized the system with Docker and docker compose, implemented CI/CD via GitHub Actions, and added agent orchestration with intelligent retry logic and pipeline health evaluation metrics.",
+        "technologies": [
+          "Python",
+          "Google Gemini API",
+          "Pydantic",
+          "Docker",
+          "GitHub Actions",
+          "pytest",
+          "ruff"
+        ],
+        "link": ""
+      },
+      {
+        "name": "Qlub QR Payment and POS Integrations",
+        "description": "Engineered integration layers bridging Qlub s QR payment platform with third-party Point of Sale (POS)/SoftPos systems utilizing REST APIs, Webhooks, and SQL database bridges. Built robust web scraping pipelines to automate merchant data synchronization, significantly reducing manual onboarding time and ensuring data integrity. Developed custom proxy services to facilitate secure QR based payment processing and terminal-to-cloud communication. Resolved high-priority production incidents by providing robust SRE support and collaborating cross-functionally with customer handling and Site Reliability teams.",
+        "technologies": [
+          "Go (Golang)",
+          "Python",
+          "PostgreSQL",
+          "REST APIs",
+          "Redis",
+          "Docker",
+          "SQL",
+          "MCP"
+        ],
+        "link": ""
+      },
+      {
+        "name": "ApartFlow (Residence Management System)",
+        "description": "Developed a full-stack Residence Management System under Creative Software mentorship to streamline daily administrative, financial, and operational tasks. Built a cross-platform resident portal and management dashboard, integrating PayHere for secure fee processing and seamless resident-staff communication.",
+        "technologies": [
+          "NodeJs",
+          "ReactJs",
+          "Flutter",
+          "MySQL",
+          "Material UI",
+          "PayHere Gateway"
+        ],
+        "link": ""
+      },
+      {
+        "name": "Green Haven",
+        "description": "Developed a full-featured e-commerce platform for a plant shop with separate customer and admin interfaces. Built a customer portal with product browsing, cart management, secure checkout, and real-time order tracking. Implemented an admin dashboard for product/category management, order monitoring, and performance insights. Integrated Stripe for secure payment processing and transactions. Designed a microservices-based architecture , with OAuth authentication and Redis-based session management.",
+        "technologies": [
+          "Node JS",
+          "ReactJS",
+          "Docker",
+          "MSSQL",
+          "Redis",
+          "gRPC",
+          "RabbitMq",
+          "Stripe",
+          "OAuth"
+        ],
+        "link": ""
+      }
+    ],
+    "certifications": [
+      {
+        "name": "HackX Finalist (Top 10)",
+        "issuing_organization": "University of Kelaniya",
+        "issue_date": "2023"
+      },
+      {
+        "name": "SLIOT Finalist (Top 10)",
+        "issuing_organization": "University of Moratuwa",
+        "issue_date": "2024"
+      }
+    ],
+    "languages": [],
+    "total_years_experience": "1 year 5 months",
+    "claimed_role": "Associate Software Engineer"
+  },
+  "normalized_skills": [
+    {
+      "original": "Golang",
+      "canonical": "Go",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Python",
+      "canonical": "Python",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "JavaScript",
+      "canonical": "JavaScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Java",
+      "canonical": "Java",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "C",
+      "canonical": "C",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Gin",
+      "canonical": "Gin",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "React",
+      "canonical": "React",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Node.js",
+      "canonical": "Node.js",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "NextJS",
+      "canonical": "NextJS",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Express",
+      "canonical": "Express",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "TailwindCSS",
+      "canonical": "TailwindCSS",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "GraphQL",
+      "canonical": "GraphQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Git",
+      "canonical": "Git",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Docker",
+      "canonical": "Docker",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Linux",
+      "canonical": "Linux",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Firebase",
+      "canonical": "Firebase",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Redis",
+      "canonical": "Redis",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "GenAI",
+      "canonical": "GenAI",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "RAG",
+      "canonical": "RAG",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Graph Database",
+      "canonical": "Graph Database",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "AI Agents",
+      "canonical": "AI Agents",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MySQL",
+      "canonical": "SQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "PostgreSQL",
+      "canonical": "PostgreSQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "MSSQL",
+      "canonical": "MSSQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MongoDB",
+      "canonical": "MongoDB",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Oracle DB",
+      "canonical": "Oracle DB",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "FireBirdSQL",
+      "canonical": "FireBirdSQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Problem Solving",
+      "canonical": "Problem Solving",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Critical Thinking",
+      "canonical": "Critical Thinking",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Client Engagement",
+      "canonical": "Client Engagement",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Teamwork",
+      "canonical": "Teamwork",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Agile",
+      "canonical": "Agile",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Leadership",
+      "canonical": "Leadership",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MCP",
+      "canonical": "MCP",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "REST APIs",
+      "canonical": "REST APIs",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Bi-LSTM",
+      "canonical": "Bi-LSTM",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "XAI",
+      "canonical": "XAI",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Data engineering",
+      "canonical": "Data engineering",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Google Gemini API",
+      "canonical": "Google Gemini API",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Pydantic",
+      "canonical": "Pydantic",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "pytest",
+      "canonical": "pytest",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "ruff",
+      "canonical": "ruff",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Flutter",
+      "canonical": "Flutter",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Material UI",
+      "canonical": "Material UI",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "PayHere Gateway",
+      "canonical": "PayHere Gateway",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "gRPC",
+      "canonical": "gRPC",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "RabbitMq",
+      "canonical": "RabbitMq",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Stripe",
+      "canonical": "Stripe",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "OAuth",
+      "canonical": "OAuth",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    }
+  ],
+  "explainability_traces": [
+    {
+      "field": "full_name",
+      "extracted_value": "Praneeth Kulathilaka",
+      "raw_snippet": "... --- [Page 1] --- Praneeth Kulathilaka Associate Software Engineer Undergraduate, University of Moratuwa praneethskulathilaka@gmail.com|+9 ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "email",
+      "extracted_value": "praneethskulathilaka@gmail.com",
+      "raw_snippet": "... [Page 1] --- Praneeth Kulathilaka Associate Software Engineer Undergraduate, University of Moratuwa praneethskulathilaka@gmail.com|+94 75 829 4030 linkedin.com/in/praneeth-kulathilaka|github.com/Praneeth-Kulathilaka|Moratuwa, Sri ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "phone",
+      "extracted_value": "+94 75 829 4030",
+      "raw_snippet": "... ka Associate Software Engineer Undergraduate, University of Moratuwa praneethskulathilaka@gmail.com|+94 75 829 4030 linkedin.com/in/praneeth-kulathilaka|github.com/Praneeth-Kulathilaka|Moratuwa, Sri Lanka PROFESSION ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "github",
+      "extracted_value": "github.com/Praneeth-Kulathilaka",
+      "raw_snippet": "... ity of Moratuwa praneethskulathilaka@gmail.com|+94 75 829 4030 linkedin.com/in/praneeth-kulathilaka|github.com/Praneeth-Kulathilaka|Moratuwa, Sri Lanka PROFESSIONAL SUMMARY AssociateSoftwareEngineeratQlubandfinalyearITundergraduate ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "linkedin",
+      "extracted_value": "linkedin.com/in/praneeth-kulathilaka",
+      "raw_snippet": "... tware Engineer Undergraduate, University of Moratuwa praneethskulathilaka@gmail.com|+94 75 829 4030 linkedin.com/in/praneeth-kulathilaka|github.com/Praneeth-Kulathilaka|Moratuwa, Sri Lanka PROFESSIONAL SUMMARY AssociateSoftwareEngineera ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "claimed_role",
+      "extracted_value": "Associate Software Engineer",
+      "raw_snippet": "... --- [Page 1] --- Praneeth Kulathilaka Associate Software Engineer Undergraduate, University of Moratuwa praneethskulathilaka@gmail.com|+94 75 829 4030 linkedin.com/i ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[0].institution",
+      "extracted_value": "University of Moratuwa",
+      "raw_snippet": "... --- [Page 1] --- Praneeth Kulathilaka Associate Software Engineer Undergraduate, University of Moratuwa praneethskulathilaka@gmail.com|+94 75 829 4030 linkedin.com/in/praneeth-kulathilaka|github.com/Pran ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[1].institution",
+      "extracted_value": "R/Eheliyagoda Central College",
+      "raw_snippet": "... f Moratuwa Jun 2022 Jun 2026 BSc (Hons) in Information TechnologyMoratuwa, Sri Lanka CGPA: 3.69/4.0 R/Eheliyagoda Central CollegeJan 2011 Oct 2020 Physical Science + ICT StreamRatnapura, Sri Lanka GCE A/L (2020): 2A s (Combined M ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[0].company",
+      "extracted_value": "Qlub",
+      "raw_snippet": "... github.com/Praneeth-Kulathilaka|Moratuwa, Sri Lanka PROFESSIONAL SUMMARY AssociateSoftwareEngineeratQlubandfinalyearITundergraduateattheUniversityofMoratuwawithastrongbackground in designing and maintaini ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[1].company",
+      "extracted_value": "Qlub",
+      "raw_snippet": "... github.com/Praneeth-Kulathilaka|Moratuwa, Sri Lanka PROFESSIONAL SUMMARY AssociateSoftwareEngineeratQlubandfinalyearITundergraduateattheUniversityofMoratuwawithastrongbackground in designing and maintaini ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[0].name",
+      "extracted_value": "Robust and Trustworthy Fraud Transaction Detection",
+      "raw_snippet": "... 20): 2A s (Combined Mathematics, ICT), 1B (Physics) GCE O/L (2026): 9A s  --- [Page 2] --- PROJECTS Robust and Trustworthy Fraud Transaction Detection|Ongoing Research ProjectDec 2025 Present Designing a unified financial risk defense architecture in ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[1].name",
+      "extracted_value": "AI-Native Spec-Driven Development Pipeline",
+      "raw_snippet": "... rency and resilience against evolving financial threats. Tech Stack: Bi-LSTM, XAI, Data engineering AI-Native Spec-Driven Development Pipeline|IndividualMay 2026 Designed and implemented an AI-native, spec-driven development pipeline that tra ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[2].name",
+      "extracted_value": "Qlub QR Payment and POS Integrations",
+      "raw_snippet": "... . Source Code Tech Stack: Python, Google Gemini API, Pydantic, Docker, GitHub Actions, pytest, ruff Qlub QR Payment and POS Integrations|Software Engineer(Associate/Intern)Feb 2025 Present Engineered integration layers bridging Qlub s Q ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[3].name",
+      "extracted_value": "ApartFlow (Residence Management System)",
+      "raw_snippet": "... Reliability teams. Tech Stack: Go (Golang), Python, PostgreSQL, REST APIs, Redis, Docker, SQL, MCP ApartFlow (Residence Management System)|Team Leader and Full Stack DeveloperMar 2025 Sep 2025 Developed a full-stack Residence Management S ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[4].name",
+      "extracted_value": "Green Haven",
+      "raw_snippet": "... dent-staff communication. Tech Stack: NodeJs, ReactJs, Flutter, MySQL, Material UI, PayHere Gateway Green Haven|Team Lead and DevAug 2024 Dec 2024 Developed a full-featured e-commerce platform for a plant shop w ...",
+      "confidence": 1.0
+    }
+  ],
+  "confidence_score": 1.0,
+  "segmented_sections": {
+    "summary": "AssociateSoftwareEngineeratQlubandfinalyearITundergraduateattheUniversityofMoratuwawithastrongbackground\nin designing and maintaining complex third-party integrations. My experience includes developing and debugging scalable\nsoftware applications, collaborating in Agile environments, and employing best practices.",
+    "education": "University of Moratuwa Jun 2022 Jun 2026\nBSc (Hons) in Information TechnologyMoratuwa, Sri Lanka\nCGPA: 3.69/4.0\nR/Eheliyagoda Central CollegeJan 2011 Oct 2020\nPhysical Science + ICT StreamRatnapura, Sri Lanka\nGCE A/L (2020): 2A s (Combined Mathematics, ICT), 1B (Physics)\nGCE O/L (2026): 9A s\n--- [Page 2] ---",
+    "work_experience": "Qlub\nAssociate Software Engineer (Part-time)|Hybrid Aug 2025 Present\nOptimized custom proxy services for scraping integrations, ensuring secure QR-based payment processing and\nseamless terminal-to-cloud communication.\nEngineered SoftPOS integrations to streamline order transactions and enhance mobile payment capabilities.\nDeveloped automated web scraping pipelines to synchronize merchant data, significantly reducing manual\nonboarding time and improving data integrity.\nImplemented MCP (Model Context Protocol) to facilitate secure database integrations, enabling AI models to perform\nreal-time queries against live data environments.\nSoftware Engineer Intern|On site Feb 2025 Jul 2025\nDesigned integration layers to bridge QR payment platforms with third-party Point of Sale (POS) systems utilizing\nREST APIs and Webhook architectures.\nDeveloped robust SQL-based database bridges to synchronize transaction data between payment platforms and\nmerchant POS systems.\nServed as an SRE Support Developer, resolving high-priority production incidents through cross-functional\ncollaboration with customer success and Site Reliability Engineering teams.\nTech Stack: Go (Golang), Python, MCP, PostgreSQL, MSSQL, MYSQL, Oracle DB, Redis, Docker, REST APIs.",
+    "projects": "Robust and Trustworthy Fraud Transaction Detection|Ongoing Research ProjectDec 2025 Present\nDesigning a unified financial risk defense architecture incorporating an adversarial robust fraud detection model, a\nbehavioral credit risk drift model, and an explainable cross channel pipeline.\nDeveloping advanced data engineering strategies and mapping synthetic environments to support robust,\nmulti-channel fraud detection training.\nResearching adaptive and explainable machine learning approaches to ensure the model s transparency and\nresilience against evolving financial threats.\nTech Stack: Bi-LSTM, XAI, Data engineering\nAI-Native Spec-Driven Development Pipeline|IndividualMay 2026\nDesigned and implemented an AI-native, spec-driven development pipeline that transforms structured feature\nspecifications into production ready code, tests, and deployment artifacts using Google Gemini API.\nContainerized the system with Docker and docker compose, implemented CI/CD via GitHub Actions, and added\nagent orchestration with intelligent retry logic and pipeline health evaluation metrics.\nSource Code\nTech Stack: Python, Google Gemini API, Pydantic, Docker, GitHub Actions, pytest, ruff\nQlub QR Payment and POS Integrations|Software Engineer(Associate/Intern)Feb 2025 Present\nEngineered integration layers bridging Qlub s QR payment platform with third-party Point of Sale (POS)/SoftPos\nsystems utilizing REST APIs, Webhooks, and SQL database bridges.\nBuilt robust web scraping pipelines to automate merchant data synchronization, significantly reducing manual\nonboarding time and ensuring data integrity.\nDeveloped custom proxy services to facilitate secure QR based payment processing and terminal-to-cloud\ncommunication\nResolved high-priority production incidents by providing robust SRE support and collaborating cross-functionally with\ncustomer handling and Site Reliability teams.\nTech Stack: Go (Golang), Python, PostgreSQL, REST APIs, Redis, Docker, SQL, MCP\nApartFlow (Residence Management System)|Team Leader and Full Stack DeveloperMar 2025 Sep 2025\nDeveloped a full-stack Residence Management System under Creative Software mentorship to streamline daily\nadministrative, financial, and operational tasks.\nBuilt a cross-platform resident portal and management dashboard, integrating PayHere for secure fee processing and\nseamless resident-staff communication.\nTech Stack: NodeJs, ReactJs, Flutter, MySQL, Material UI, PayHere Gateway\nGreen Haven|Team Lead and DevAug 2024 Dec 2024\nDeveloped a full-featured e-commerce platform for a plant shop with separate customer and admin interfaces.\nBuilt a customer portal with product browsing, cart management, secure checkout, and real-time order tracking.\nImplemented an admin dashboard for product/category management, order monitoring, and performance insights.\nIntegrated Stripe for secure payment processing and transactions.\nDesigned a microservices-based architecture , with OAuth authentication and Redis-based session management.\nSource Code\nTech Stack: Node JS, ReactJS, Docker, MSSQL, Redis, gRPC, RabbitMq",
+    "certifications": "HackX(2023) - University of Kelaniya Finalist (Top 10) SLIOT(2024) - University of Moratuwa Finalist (Top 10)\nREFERENCES\nDinith Shavidu Lead Software Engineer, Qlub\n+94715723199|dinith@qlub.io\nAnju Cheran Director of Engineering, Qlub\n+94773820436|anju@qlub.io",
+    "languages": "Frameworks & Libraries:Gin|React|Node.js|NextJS|Express|TailwindCSS|GraphQL|\nOps:Git|GitHub Actions (CI/CD)|Docker|Linux|Firebase|Redis|\nConcepts:GenAI|RAG|Graph Database|AI Agents\nDatabases:MySQL|PostgreSQL|MSSQL|MongoDB|Oracle DB|FireBirdSQL|",
+    "header_contact": "--- [Page 1] ---\nPraneeth Kulathilaka\nAssociate Software Engineer\nUndergraduate, University of Moratuwa\npraneethskulathilaka@gmail.com|+94 75 829 4030\nlinkedin.com/in/praneeth-kulathilaka|github.com/Praneeth-Kulathilaka|Moratuwa, Sri Lanka"
+  },
+  "validation_report": {
+    "email_verified": true,
+    "phone_verified": true,
+    "github_verified": true,
+    "linkedin_verified": true,
+    "date_anomalies_detected": false,
+    "anomalies": []
+  }
+}

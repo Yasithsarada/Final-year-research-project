@@ -1,0 +1,695 @@
+{
+  "_id": "19f6fce2-d7e1-4aca-bc44-1051057726e7",
+  "filename": "Nimeth_AI.pdf",
+  "uploaded_at": "2026-06-10T08:26:14.371080",
+  "entities": {
+    "full_name": "Nimeth Nimdinu",
+    "email": "nimeth20011002@gmail.com",
+    "phone": "+94706585632",
+    "github": "github.com/nimeth02",
+    "linkedin": "linkedin.com/in/nimeth-nimdinu",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "Transformers",
+      "LangChain",
+      "LangGraph",
+      "LLM Fine-tuning",
+      "LoRA",
+      "PEFT",
+      "RAG",
+      "Graph RAG",
+      "Multi-Agent Systems",
+      "A2A",
+      "MCP Server",
+      "AWS",
+      "Serverless",
+      "S3",
+      "Azure",
+      "Azure DevOps",
+      "CI/CD",
+      "Docker",
+      "FastAPI",
+      "Model Deployment",
+      "Pinecone",
+      "Neo4j",
+      "Knowledge Graphs",
+      "Redis",
+      "MongoDB",
+      "PostgreSQL",
+      "MSSQL",
+      "REST APIs",
+      "Microservices",
+      "Authentication",
+      "System Design",
+      "SDK Integration",
+      "Problem Solving",
+      "Critical Thinking",
+      "Client Engagement",
+      "Teamwork",
+      "Agile Practices",
+      "Leadership",
+      "GNN",
+      "TGNN",
+      "Node.js",
+      "Next.js",
+      "PyQt6",
+      "n8n",
+      "Semantic Kernel",
+      "ASP.NET Core",
+      "RDF",
+      "PyTorch Geometric",
+      "spaCy",
+      "pandas",
+      "CrewAI",
+      "Google ADK",
+      "Hugging Face",
+      ".NET Core",
+      "React",
+      "TypeScript",
+      "Entity Core",
+      "DuckDuckGo"
+    ],
+    "education": [
+      {
+        "institution": "University of Moratuwa",
+        "degree": "BSc (Hons)",
+        "field_of_study": "Information Technology",
+        "start_date": "Jun 2022",
+        "end_date": "Jun 2026",
+        "gpa": "3.80/4.0"
+      },
+      {
+        "institution": "Sivali Central College",
+        "degree": null,
+        "field_of_study": "Physical Science Stream",
+        "start_date": "Mar 2018",
+        "end_date": "Oct 2020",
+        "gpa": null
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "NovaCodex",
+        "role": "Associate Software Engineer (Part-time)",
+        "start_date": "Nov 2025",
+        "end_date": "May 2026",
+        "description": "Developing real estate broker platforms, including ticketing systems, transaction management. Conducting root cause analysis on ticketing system issues to identify recurring bugs, workflow bottlenecks, failures.",
+        "technologies": [
+          "PyTorch",
+          "GNN",
+          "TGNN",
+          "Fast API",
+          "Node.js",
+          "Next.js",
+          "AWS",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "Creative Software",
+        "role": "Intern Software Engineer (R&D)",
+        "start_date": "Mar 2025",
+        "end_date": "Sep 2025",
+        "description": "Developed developer productivity analytical system using DORA metrics to evaluate engineering performance. Explored LLM-based automation, agent architectures, and AI-driven workflows for research initiatives. Microfrontend architecture and SDK-based integration. Implemented CI/CD pipelines using Azure DevOps with on-premise Apache Tomcat deployments.",
+        "technologies": [
+          "Python",
+          "PyQt6",
+          "n8n",
+          "Langchain",
+          "LangGraph",
+          "Semantic Kernel",
+          "Azure Devops CI/CD",
+          "ASP.NET Core"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ontology-guided GNN for Semantic Candidate Matching",
+        "description": "Designed a software industry ontology and knowledge graph schema to model fine-grained skills and semantic relations. Constructed a heterogeneous KG (Job, Candidate, Skill nodes) in Neo4j/RDF and implemented automated skill extraction and mapping from job descriptions and CVs. Implemented an interpretable rule-based Fit Score to compute job candidate compatibility using ontology relations and generate human-readable explanations. Built a GNN over the ontology-guided KG to learn Job and Candidate embeddings and compute embedding similarity. Combined ontology-based scoring and GNN similarity to produce matched candidates.",
+        "technologies": [
+          "Python",
+          "Neo4j/RDF",
+          "PyTorch",
+          "PyTorch-Geometric",
+          "spaCy",
+          "pandas",
+          "scikit-learn"
+        ],
+        "link": null
+      },
+      {
+        "name": "Multi-Agent A2A System",
+        "description": "Designed and implemented an autonomous Agent-to-Agent (A2A) communication system enabling multiple AI agents to collaborate and exchange contextual information dynamically. Developed modular Host and Remote agent architectures supporting intelligent task delegation, workflow orchestration, and feedback-driven coordination. Implemented multi-agent communication pipelines and reasoning workflows using CrewAI, LangGraph, and Google ADK frameworks. Built proof-of-concept demonstrations showcasing cross-agent collaboration, contextual decision-making, and autonomous task execution.",
+        "technologies": [
+          "Python",
+          "CrewAI",
+          "LangGraph",
+          "Google ADK",
+          "FastAPI",
+          "LangChain"
+        ],
+        "link": null
+      },
+      {
+        "name": "Domain-Adapted Farming LLM",
+        "description": "Developed a domain-adapted GPT-2 based language model for Sri Lankan tea cultivation using a two-stage fine-tuning pipeline with PEFT techniques. Performed domain adaptation on agricultural literature using LoRA (Low-Rank Adaptation) to improve tea farming knowledge representation. Implemented supervised fine-tuning (SFT) on question-answer datasets to generate context-aware and task-specific agricultural responses. Optimized model training and deployment using 4-bit quantization, adapter merging, and progressive fine-tuning for improved memory efficiency and inference performance. Built an intelligent assistant capable of providing recommendations on planting methods, pest diagnosis, and fertilizer planning for tea farming.",
+        "technologies": [
+          "Python",
+          "PyTorch",
+          "Transformers",
+          "Hugging Face",
+          "LoRA",
+          "Pandas"
+        ],
+        "link": null
+      },
+      {
+        "name": "Tea Farming Support Assistant",
+        "description": "Developed a modular agent architecture with a central FastAPI service that classifies user queries using an LLM and routes them to specialized services. Disease Service using retrieval-augmented generation (RAG) with Pinecone vector database and web search. Fertilize Service providing personalized recommendations using weather APIs, tea land data, historical records. Designed a Help Service for company policy and FAQ retrieval leveraging Pinecone vector database. Integrated LangChain and LangGraph for agent orchestration and developed the frontend using Next.js.",
+        "technologies": [
+          "Python",
+          "LangChain",
+          "LangGraph",
+          "Pinecone",
+          "Scikit-learn",
+          "Pandas",
+          "FastAPI",
+          "Next.js",
+          "DuckDuckGo"
+        ],
+        "link": null
+      },
+      {
+        "name": "Developer productivity analytical system",
+        "description": "Implemented developer productivity analytics using DORA and SPACE metrics to track team performance. Developed interactive analytics dashboards using React and TypeScript for real-time insights. Integrated secure data collection and multi-platform connectivity with GitHub and Azure DevOps APIs using Python. Implemented CI/CD pipelines with Azure DevOps and deployments on on-premise Apache Tomcat environments.",
+        "technologies": [
+          "Python",
+          ".Net core",
+          "React",
+          "TypeScript",
+          "Entity Core",
+          "MSSQL",
+          "Azure",
+          "PyQt6"
+        ],
+        "link": null
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Azure Fundamentals (AZ - 900)",
+        "issuing_organization": null,
+        "issue_date": null
+      },
+      {
+        "name": "AI Agents Using RAG",
+        "issuing_organization": null,
+        "issue_date": null
+      },
+      {
+        "name": "Gen AI with Transformers",
+        "issuing_organization": null,
+        "issue_date": null
+      }
+    ],
+    "languages": [],
+    "total_years_experience": "1 year",
+    "claimed_role": "AI/ML Engineer"
+  },
+  "normalized_skills": [
+    {
+      "original": "Python",
+      "canonical": "Python",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "PyTorch",
+      "canonical": "PyTorch",
+      "category": "Machine Learning",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "TensorFlow",
+      "canonical": "TensorFlow",
+      "category": "Machine Learning",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Scikit-learn",
+      "canonical": "Scikit-Learn",
+      "category": "Machine Learning",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Transformers",
+      "canonical": "Transformers",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "LangChain",
+      "canonical": "LangChain",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "LangGraph",
+      "canonical": "LangGraph",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "LLM Fine-tuning",
+      "canonical": "LLM Fine-tuning",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "LoRA",
+      "canonical": "LoRA",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "PEFT",
+      "canonical": "PEFT",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "RAG",
+      "canonical": "RAG",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Graph RAG",
+      "canonical": "Graph RAG",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Multi-Agent Systems",
+      "canonical": "Multi-Agent Systems",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "A2A",
+      "canonical": "A2A",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MCP Server",
+      "canonical": "MCP Server",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "AWS",
+      "canonical": "AWS",
+      "category": "Cloud",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Serverless",
+      "canonical": "Serverless",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Azure",
+      "canonical": "Azure",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Azure DevOps",
+      "canonical": "Azure DevOps",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "CI/CD",
+      "canonical": "CI/CD",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Docker",
+      "canonical": "Docker",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "FastAPI",
+      "canonical": "FastAPI",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Model Deployment",
+      "canonical": "Model Deployment",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Pinecone",
+      "canonical": "Pinecone",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Neo4j",
+      "canonical": "Neo4j",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Knowledge Graphs",
+      "canonical": "Knowledge Graphs",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Redis",
+      "canonical": "Redis",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MongoDB",
+      "canonical": "MongoDB",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "PostgreSQL",
+      "canonical": "PostgreSQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "MSSQL",
+      "canonical": "MSSQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "REST APIs",
+      "canonical": "REST APIs",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Microservices",
+      "canonical": "Microservices",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Authentication",
+      "canonical": "Authentication",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "System Design",
+      "canonical": "System Design",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "SDK Integration",
+      "canonical": "SDK Integration",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Problem Solving",
+      "canonical": "Problem Solving",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Critical Thinking",
+      "canonical": "Critical Thinking",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Client Engagement",
+      "canonical": "Client Engagement",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Teamwork",
+      "canonical": "Teamwork",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Agile Practices",
+      "canonical": "Agile Practices",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Leadership",
+      "canonical": "Leadership",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "GNN",
+      "canonical": "GNN",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "TGNN",
+      "canonical": "TGNN",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Node.js",
+      "canonical": "Node.js",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Next.js",
+      "canonical": "Next.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "PyQt6",
+      "canonical": "PyQt6",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "n8n",
+      "canonical": "n8n",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Semantic Kernel",
+      "canonical": "Semantic Kernel",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "ASP.NET Core",
+      "canonical": "ASP.NET Core",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "RDF",
+      "canonical": "RDF",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "spaCy",
+      "canonical": "spaCy",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "pandas",
+      "canonical": "pandas",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "CrewAI",
+      "canonical": "CrewAI",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Google ADK",
+      "canonical": "Google ADK",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Hugging Face",
+      "canonical": "Hugging Face",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": ".NET Core",
+      "canonical": "C#",
+      "category": "Backend",
+      "similarity_score": 0.5
+    },
+    {
+      "original": "React",
+      "canonical": "React",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "TypeScript",
+      "canonical": "TypeScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Entity Core",
+      "canonical": "Entity Core",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "DuckDuckGo",
+      "canonical": "DuckDuckGo",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    }
+  ],
+  "explainability_traces": [
+    {
+      "field": "full_name",
+      "extracted_value": "Nimeth Nimdinu",
+      "raw_snippet": "... --- [Page 1] --- Nimeth Nimdinu Phone-Alt+94706585632 | Envelopenimeth20011002@gmail.com | LINKEDINlinkedin.com/in/nimeth-nimdinu | ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "email",
+      "extracted_value": "nimeth20011002@gmail.com",
+      "raw_snippet": "... --- [Page 1] --- Nimeth Nimdinu Phone-Alt+94706585632 | Envelopenimeth20011002@gmail.com | LINKEDINlinkedin.com/in/nimeth-nimdinu | MEDIUMmedium.com/@20011002nimeth Githubgithub.com/nimeth ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "phone",
+      "extracted_value": "+94706585632",
+      "raw_snippet": "... --- [Page 1] --- Nimeth Nimdinu Phone-Alt+94706585632 | Envelopenimeth20011002@gmail.com | LINKEDINlinkedin.com/in/nimeth-nimdinu | MEDIUMmedium.com/@200 ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "github",
+      "extracted_value": "github.com/nimeth02",
+      "raw_snippet": "... 0011002@gmail.com | LINKEDINlinkedin.com/in/nimeth-nimdinu | MEDIUMmedium.com/@20011002nimeth Githubgithub.com/nimeth02 | GLOBEportfolio-nimeth | Map-marker-altMoratuwa, Sri Lanka PROFESSIONAL SUMMARY Results-driven nal ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "linkedin",
+      "extracted_value": "linkedin.com/in/nimeth-nimdinu",
+      "raw_snippet": "... --- [Page 1] --- Nimeth Nimdinu Phone-Alt+94706585632 | Envelopenimeth20011002@gmail.com | LINKEDINlinkedin.com/in/nimeth-nimdinu | MEDIUMmedium.com/@20011002nimeth Githubgithub.com/nimeth02 | GLOBEportfolio-nimeth | Map-marker-a ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "claimed_role",
+      "extracted_value": "AI/ML Engineer",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "education[0].institution",
+      "extracted_value": "University of Moratuwa",
+      "raw_snippet": "... -marker-altMoratuwa, Sri Lanka PROFESSIONAL SUMMARY Results-driven nal-year IT undergraduate at the University of Moratuwa, specializing in Arti cial Intelligence and Machine Learning, with hands-on industry experience in ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[1].institution",
+      "extracted_value": "Sivali Central College",
+      "raw_snippet": "... Moratuwa Jun 2022 Jun 2026 BSc (Hons) in Information T echnology Moratuwa, Sri Lanka CGPA: 3.80/4.0 Sivali Central College Mar 2018 Oct 2020 Physical Science Stream Ratnapura, Sri Lanka PROJECTS Ontology-guided GNN for Sem ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[0].company",
+      "extracted_value": "NovaCodex",
+      "raw_snippet": "... em Solving, Critical Thinking, Client Engagement, T eamwork, Agile Practices, Leadership EXPERIENCE NovaCodex Nov 2025 May 2026 Associate Software Engineer (Part-time) Moratuwa, Sri Lanka Developing real estat ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[1].company",
+      "extracted_value": "Creative Software",
+      "raw_snippet": "... ow bottlenecks, failures T ech Stack: PyTorch, GNN, TGNN, Fast API, Node.js, Next.js, AWS, MongoDB Creative Software Mar 2025 Sep 2025 Intern Software Engineer (R&D) Colombo, Sri Lanka Developed developer productivit ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[0].name",
+      "extracted_value": "Ontology-guided GNN for Semantic Candidate Matching",
+      "raw_snippet": "... /4.0 Sivali Central College Mar 2018 Oct 2020 Physical Science Stream Ratnapura, Sri Lanka PROJECTS Ontology-guided GNN for Semantic Candidate Matching | Lead Researcher Mar 2026 Jul 2026 Designed a software industry ontology and knowledge graph schem ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[1].name",
+      "extracted_value": "Multi-Agent A2A System",
+      "raw_snippet": "... candidates T ech Stack: Python, Neo4j/RDF ,PyTorch, PyTorch-Geometric, spaCy, pandas, scikit-learn Multi-Agent A2A System | AI Developer (Ongoing) Mar 2026 Present Designed and implemented an autonomous Agent-to-Agent (A2 ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[2].name",
+      "extracted_value": "Domain-Adapted Farming LLM",
+      "raw_snippet": "... d autonomous task execution. T ech Stack: Python, CrewAI, LangGraph, Google ADK, FastAPI, LangChain Domain-Adapted Farming LLM | ML Developer Jun 2025 Sep 2025 Developed a domain-adapted GPT-2 based language model for Sri Lank ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[3].name",
+      "extracted_value": "Tea Farming Support Assistant",
+      "raw_snippet": "... er planning for tea farming. T ech Stack: Python, PyTorch, Transformers, Hugging Face, LoRA, Pandas Tea Farming Support Assistant | AI and Fullstack developer May 2024 Jul 2024 Developed a modular agent architecture with a centra ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[4].name",
+      "extracted_value": "Developer productivity analytical system",
+      "raw_snippet": "... oDB Creative Software Mar 2025 Sep 2025 Intern Software Engineer (R&D) Colombo, Sri Lanka Developed developer productivity analytical system using DORA metrics to evaluate engineering performance Explored LLM-based automation, agent archite ...",
+      "confidence": 1.0
+    }
+  ],
+  "confidence_score": 0.96,
+  "segmented_sections": {
+    "summary": "Results-driven nal-year IT undergraduate at the University of Moratuwa, specializing in Arti cial Intelligence and Machine\nLearning, with hands-on industry experience in developing AI-powered applications and intelligent systems. Skilled in\nmachine learning, deep learning, data-driven problem solving, and scalable software development.",
+    "education": "University of Moratuwa Jun 2022 Jun 2026\nBSc (Hons) in Information T echnology Moratuwa, Sri Lanka\nCGPA: 3.80/4.0\nSivali Central College Mar 2018 Oct 2020\nPhysical Science Stream Ratnapura, Sri Lanka",
+    "work_experience": "NovaCodex Nov 2025 May 2026\nAssociate Software Engineer (Part-time) Moratuwa, Sri Lanka\nDeveloping real estate broker platforms, including ticketing systems, transaction management\nConducting root cause analysis on ticketing system issues to identify recurring bugs, work ow bottlenecks, failures\nT ech Stack: PyTorch, GNN, TGNN, Fast API, Node.js, Next.js, AWS, MongoDB\nCreative Software Mar 2025 Sep 2025\nIntern Software Engineer (R&D) Colombo, Sri Lanka\nDeveloped developer productivity analytical system using DORA metrics to evaluate engineering performance\nExplored LLM-based automation, agent architectures, and AI-driven work ows for research initiatives\nMicrofrontend architecture and SDK-based integration\nImplemented CI/CD pipelines using Azure DevOps with on-premise Apache Tomcat deployments\nT ech Stack: Python, PyQt6, n8n, Langchain, LangGraph, Sementic kernel, Azure Devops CI/CD , ASP .NET Core",
+    "skills": "Programming & ML Frameworks: Python, PyTorch, T ensorFlow, Scikit-learn, Transformers, LangChain, LangGraph\nGenerative AI & LLMs: LLM Fine-tuning (LoRA, PEFT), RAG, Graph RAG, Multi-Agent Systems (A2A), MCP Server\nCloud DevOps: AWS (Serverless, S3), Azure, Azure DevOps, CI/CD, Docker, FastAPI, Model Deployment\nVector DBs & Data Storage: Pinecone, Neo4j (Knowledge Graphs), Redis, MongoDB, PostgreSQL, MSSQL\nSoftware System Design: REST APIs, Microservices, Authentication, System Design, SDK Integration\nSoft Skills: Problem Solving, Critical Thinking, Client Engagement, T eamwork, Agile Practices, Leadership",
+    "projects": "Ontology-guided GNN for Semantic Candidate Matching | Lead Researcher Mar 2026 Jul 2026\nDesigned a software industry ontology and knowledge graph schema to model ne-grained skills and semantic\nrelations.\nConstructed a heterogeneous KG (Job, Candidate, Skill nodes) in Neo4j/RDF and implemented automated skill\nextraction and mapping from job descriptions and CVs.\nImplemented an interpretable rule-based Fit Score to compute job candidate compatibility using ontology relations\nand generate human-readable explanations.\n--- [Page 2] ---\nBuilt a GNN over the ontology-guided KG to learn Job and Candidate embeddings and compute embedding similarity.\nCombined ontology-based scoring and GNN similarity to produce matched candidates\nT ech Stack: Python, Neo4j/RDF ,PyTorch, PyTorch-Geometric, spaCy, pandas, scikit-learn\nMulti-Agent A2A System | AI Developer (Ongoing) Mar 2026 Present\nDesigned and implemented an autonomous Agent-to-Agent (A2A) communication system enabling multiple AI agents\nto collaborate and exchange contextual information dynamically.\nDeveloped modular Host and Remote agent architectures supporting intelligent task delegation, work ow\norchestration, and feedback-driven coordination.\nImplemented multi-agent communication pipelines and reasoning work ows using CrewAI, LangGraph, and Google\nADK frameworks.\nBuilt proof-of-concept demonstrations showcasing cross-agent collaboration, contextual decision-making, and\nautonomous task execution.\nT ech Stack: Python, CrewAI, LangGraph, Google ADK, FastAPI, LangChain\nDomain-Adapted Farming LLM | ML Developer Jun 2025 Sep 2025\nDeveloped a domain-adapted GPT-2 based language model for Sri Lankan tea cultivation using a two-stage\nne-tuning pipeline with PEFT techniques.\nPerformed domain adaptation on agricultural literature using LoRA (Low-Rank Adaptation) to improve tea farming\nknowledge representation.\nImplemented supervised ne-tuning (SFT) on question-answer datasets to generate context-aware and task-speci c\nagricultural responses.\nOptimized model training and deployment using 4-bit quantization, adapter merging, and progressive ne-tuning for\nimproved memory e ciency and inference performance.\nBuilt an intelligent assistant capable of providing recommendations on planting methods, pest diagnosis, and fertilizer\nplanning for tea farming.\nT ech Stack: Python, PyTorch, Transformers, Hugging Face, LoRA, Pandas\nTea Farming Support Assistant | AI and Fullstack developer May 2024 Jul 2024\nDeveloped a modular agent architecture with a central FastAPI service that classi es user queries using an LLM and\nroutes them to specialized services.\nDisease Service using retrieval-augmented generation (RAG) with Pinecone vector database and web search\nFertilize Service providing personalized recommendations using weather APIs, tea land data, historical records\nDesigned a Help Service for company policy and FAQ retrieval leveraging Pinecone vector database.\nIntegrated LangChain and LangGraph for agent orchestration and developed the frontend using Next.js.\nT ech Stack:Python, LangChain, LangGraph, Pinecone, Scikit-learn, Pandas,FastAPI, Next.js, DuckDuckGo\nDeveloper productivity analytical system | Software Engineer (Intern) Mar 2025 Sep 2025\nImplemented developer productivity analytics using DORA and SPACE metrics to track team performance.\nDeveloped interactive analytics dashboards using React and T ypeScript for real-time insights.\nIntegrated secure data collection and multi-platform connectivity with GitHub and Azure DevOps APIs using Python.\nImplemented CI/CD pipelines with Azure DevOps and deployments on on-premise Apache Tomcat environments.\nT ech Stack: Python, .Net core, React, T ypeScript, Entity Core, MSSQL, Azure, PyQt6",
+    "certifications": "HackX - University of Kelaniya Finalist (Top 10) SLIOT - University of Moratuwa Finalist (Top 10)\nCERTIFICATES\nAzure Fundamentals (AZ - 900) AI Agents Using RAG Gen AI with Transformers\nREFERENCES\nAdshayani Pirapaharan Lecturer, Faculty of IT , UoM\n+94771322873 | padshayani@uom.lk\nJanaka Balangoda Senior lead system engineer, Crimsonlogic pvt ltd\n+6586793445 | Janakabalangoda@gmail.com",
+    "header_contact": "--- [Page 1] ---\nNimeth Nimdinu\nPhone-Alt+94706585632 | Envelopenimeth20011002@gmail.com |\nLINKEDINlinkedin.com/in/nimeth-nimdinu | MEDIUMmedium.com/@20011002nimeth\nGithubgithub.com/nimeth02 | GLOBEportfolio-nimeth |\nMap-marker-altMoratuwa, Sri Lanka"
+  },
+  "validation_report": {
+    "email_verified": true,
+    "phone_verified": true,
+    "github_verified": true,
+    "linkedin_verified": true,
+    "date_anomalies_detected": false,
+    "anomalies": []
+  }
+}

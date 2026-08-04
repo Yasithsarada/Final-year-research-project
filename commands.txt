@@ -1,0 +1,21 @@
+This error occurs because you hit an endpoint (most likely POST /ccs/upload) that relies on Celery to run a background job (audio transcription and claim extraction), but Celery cannot connect to its message broker / result backend, which is Redis.
+
+Looking at your running terminals, you only have the FastAPI Python server running (python -m app.main). For the background tasks to work, you need two additional things running:
+
+start main app - 
+python -m app.main
+
+1. Start Redis (The Message Broker)
+Your project has a docker-compose.yml file already set up with Redis. Open a new terminal in c:\Users\Yasith\Desktop\reasearch v2 and run:
+
+bash
+docker-compose up -d redis
+(This will start Redis in the background on port 6379, which is what Celery is trying to connect to).
+
+2. Start the Celery Worker
+Once Redis is running, you need a separate process to actually execute the background jobs. Open another new terminal in c:\Users\Yasith\Desktop\reasearch v2, activate your Python environment (if you are using one), and run:
+
+bash
+celery -A app.tasks.worker.celery_app worker --loglevel=info
+
+python -m celery -A app.tasks.worker.celery_app worker --pool=solo --loglevel=info

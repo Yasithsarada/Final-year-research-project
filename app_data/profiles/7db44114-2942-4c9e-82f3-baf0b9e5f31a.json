@@ -1,0 +1,95 @@
+{
+  "id": "7db44114-2942-4c9e-82f3-baf0b9e5f31a",
+  "candidate_name": "Sebastian Ramirez",
+  "created_at": "2026-07-28T17:35:55.294418",
+  "updated_at": "2026-07-28T17:35:55.294418",
+  "resume_id": null,
+  "ccs_job_ids": [],
+  "github_username": "tiangolo",
+  "github_metrics": {
+    "username": "tiangolo",
+    "commit_history": {
+      "total_commits": 0,
+      "frequency_per_week": 0.0,
+      "average_commit_size_lines": 0.0,
+      "merging_percentage": 0.0,
+      "commit_messages": [
+        "\u2b06\ufe0f Upgrade latest-changes to 0.7.1 (#184)",
+        "\ud83d\udc77 Fix zizmor checkout version comment (#181)",
+        "\ud83d\udc1b Prevent Termynal controls from scrolling (#180)",
+        "\ud83d\udc77 Fix latest-changes checkout target (#168)",
+        "\u2b06\ufe0f Update issue-manager to 0.8.1 (#167)",
+        "\u2b06\ufe0f Update latest-changes to 0.6.1 (#166)",
+        "\ud83d\udc77 Simplify pull request workflow triggers (#156)",
+        "\ud83d\udc77 Update issue-manager to 0.7.1 (#155)",
+        "\u2b06\ufe0f Update issue-manager to 0.7.0 (#154)",
+        "\ud83d\udd12\ufe0f Add zizmor workflow security checks (#152)",
+        "\u2b06\ufe0f Upgrade latest-changes to 0.7.1 (#237)",
+        "\ud83d\udc1b Prevent Termynal controls from scrolling (#236)",
+        "\ud83d\udcdd Add docs about environment variables and virtual environments (#235)",
+        "\ud83d\udcdd Update help docs (#234)",
+        "\ud83d\udcdd Update help docs (#233)",
+        "\ud83d\udc77 Fix latest-changes checkout target (#227)",
+        "\u2b06\ufe0f Update issue-manager to 0.8.1 (#226)",
+        "\u2b06\ufe0f Update latest-changes to 0.6.1 (#225)",
+        "\ud83d\udc77 Simplify pull request workflow triggers (#223)",
+        "\ud83d\udc77 Update issue-manager to 0.7.1 (#222)"
+      ],
+      "weekly_commit_counts": []
+    },
+    "pull_requests": {
+      "total_prs": 163,
+      "accepted_prs": 161,
+      "rejected_prs": 2,
+      "approval_rate": 0.988,
+      "average_comments_per_pr": 0.0
+    },
+    "repository_metadata": {
+      "total_repos": 51,
+      "total_stars": 16310,
+      "total_forks": 2900,
+      "primary_languages": {
+        "Python": 34,
+        "Shell": 6,
+        "Dockerfile": 2,
+        "Vue": 1,
+        "TypeScript": 1
+      },
+      "followers": 31752,
+      "collaborations": 51
+    }
+  },
+  "technical_skills": {
+    "language_proficiency_score": 1.0,
+    "pr_quality_score": 0.988,
+    "code_quality_score": 0.94,
+    "efficiency_score": 0.0,
+    "overall_tse_score": 0.828
+  },
+  "non_technical_skills": {
+    "collaboration_proficiency": 0.0,
+    "requirements_understanding": 0.988,
+    "project_management_skills": 1.0,
+    "motivation_hustle": 0.9,
+    "overall_nts_score": 0.676
+  },
+  "fraud_indicators": {
+    "burst_commits_detected": false,
+    "fake_activity_detected": false,
+    "anomaly_score": 0.0,
+    "flags": [],
+    "burst_concentration_ratio": 0.0,
+    "commit_coefficient_variation": 0.0,
+    "generic_message_ratio": 0.0,
+    "pr_rejection_rate": 0.012
+  },
+  "decision_result": {
+    "technical_skill_score": 0.828,
+    "collaboration_consistency_score": 0.676,
+    "fraud_risk_level": "Low",
+    "fraud_index": 0.184,
+    "ml_anomaly_score": 0.614,
+    "confidence_score": 0.4,
+    "summary_rationale": "ML anomaly score (IsolationForest): 0.614 | LOW FRAUD RISK (index=0.184): Candidate profile is broadly consistent across all data sources."
+  }
+}

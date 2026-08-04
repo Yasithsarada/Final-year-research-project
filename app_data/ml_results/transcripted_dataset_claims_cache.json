@@ -1,0 +1,804 @@
+{
+  "yasith394:2579e39879b9abca": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "Candidate claimed extensive experience with React Native in the interview, but React Native/JavaScript frameworks are not listed in the technical skills on the resume."
+    ]
+  },
+  "nimeth503:a3659469418f5e16": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.4,
+    "key_contradictions": [
+      "The candidate claimed a Ph.D. from Stanford in the interview transcript, but the resume states '[University Name]'.",
+      "The interviewer accidentally called the candidate 'Zachary' twice, and the candidate did not correct them, creating a discrepancy with the name 'Nimeth Nimdinu' on the resume."
+    ]
+  },
+  "michda986:67202a56e249ada1": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "The candidate and resume claim expertise in Python, C#, AWS, Azure, and GCP, while verified GitHub evidence shows primary languages restricted to TypeScript, JavaScript, CSS, and Java with no infrastructure-as-code or cloud provider repositories visible."
+    ]
+  },
+  "nimesh:3bf843003f3234bd": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "sathsara:1b2192c1c572d5e7": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "ambean407:d4848941eff118b1": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "The candidate claimed 7 years of total experience and 3 years of Azure experience in the interview, whereas the resume states 8+ years of experience focused on AWS and GCP with no mention of Azure.",
+      "The interview transcript and resume mention extensive cloud platforms (AWS, GCP, Azure), Terraform, Kubernetes, Python, Java, etc., whereas the verified GitHub evidence shows a total of 2 commits and exclusively Ruby as the primary language."
+    ]
+  },
+  "stepgi298:e8a4836437a3953c": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.25,
+    "key_contradictions": [
+      "The candidate states in the transcript that she has been working in the field for 'about three years now', whereas her resume explicitly claims 5+ years of experience (Senior Robotics Engineer from 2020 to Present plus previous experience starting in 2018, totaling ~5-6 years)."
+    ]
+  },
+  "Nipuna:a2048736fb1cb7b5": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "KavinduWijegunasekara:40147ee8a895919e": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "IrushiSilva01:5a6b3546a3bdeb50": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The candidate claimed in the transcript to have been working in the industry for about 8 years, whereas her resume states 5+ years of experience."
+    ]
+  },
+  "daviow731:f00483295b6fdd49": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 3,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Transcript and resume state Ph.D. from Stanford, whereas the resume education section lists ABC University.",
+      "Resume claims 10,000+ stars on open-source GitHub projects, but verified GitHub evidence shows 0 total stars.",
+      "Resume and transcript claim extensive expertise in Python, PyTorch, Deep Learning, and NLP, but GitHub evidence shows 0% Python usage, with repositories written exclusively in JavaScript and HTML."
+    ]
+  },
+  "natami577:aa95567a02a5feea": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "The candidate claims extensive professional machine learning experience with Python, TensorFlow, and PyTorch, but the verified GitHub evidence shows only HTML and Jupyter Notebook across 5 repositories with a total of 3 commits.",
+      "The commit history and pull request metrics reflect negligible development activity (3 total commits, 1 PR), which heavily contradicts the professional background and senior responsibilities claimed in the resume and interview."
+    ]
+  },
+  "richba423:0597b6000be2bf88": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The candidate claimed 5 years of experience in the interview, whereas their resume explicitly states 8+ years of experience."
+    ]
+  },
+  "alicle262:e0e70d20da3ac9fc": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "nichro686:df1fd4accb0c4e0a": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims extensive expertise in Python, TensorFlow, and PyTorch in both the resume and interview, yet verified GitHub evidence shows primary languages as JavaScript and Java with no Python repositories."
+    ]
+  },
+  "adamho836:ef7ca6cc1427b7dc": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "Candidate claims professional and resume experience in Kotlin, Java, Swift, and React Native, but primary languages in verified GitHub evidence are exclusively Ruby, JavaScript, and TypeScript without mentioning Ruby."
+    ]
+  },
+  "jamesc221:bf023ec18d480de1": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "willmo683:f3cc3cb8422f3365": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.8,
+    "key_contradictions": [
+      "The candidate claims extensive professional experience with Swift and iOS development in the interview, but Swift and iOS are entirely absent from the resume which lists Kotlin, Flutter, and React Native.",
+      "The candidate claims expertise in mobile technologies like Kotlin, Flutter, React Native, Android, and iOS, whereas the verified GitHub evidence shows primary languages as Python and Perl with no mobile repositories or code."
+    ]
+  },
+  "markma447:bb5758f502f6df3a": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims extensive experience with React Native in the interview transcript, and the resume lists Kotlin, Java, and Flutter, but the verified GitHub primary languages are heavily JavaScript, Vue, and Go, while Kotlin and Java are entirely absent from the GitHub evidence."
+    ]
+  },
+  "nichba782:3c2eb0657cf0916c": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims extensive experience with Docker, Ansible, Terraform, Prometheus, and Grafana, but her verified GitHub evidence shows primary languages of only HTML and Python across 4 repos with zero infrastructure-as-code or DevOps tooling visible in public repositories."
+    ]
+  },
+  "jonjo243:89071b4cc3912371": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims experience with Swift, Java, and React Native in the interview, and Kotlin and Flutter on the resume, but the verified GitHub evidence shows zero commits and no recorded primary languages across any repositories."
+    ]
+  },
+  "elizjo269:0cf503a034a1e199": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The GitHub evidence shows zero primary languages and negligible commit activity (5 total commits, mostly README updates), which sharply contrasts with the extensive Python and machine learning work claimed in the resume and transcript, with no private repo explanation offered."
+    ]
+  },
+  "allino346:a4517682bc264e82": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.7,
+    "key_contradictions": [
+      "The candidate claimed in the interview to work primarily with Azure for the past 2 years and have an Azure Solutions Architect Expert certification, but her resume lists AWS and GCP as her cloud platforms and does not mention Azure.",
+      "The resume lists AWS and GCP expertise along with Python, Java, and Bash, whereas the verified GitHub evidence shows zero commits and zero languages, though this can be somewhat expected for an architect role."
+    ]
+  },
+  "andrbo579:f5ad024edd6b5737": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims extensive experience with Unity, C#, ARKit, and ARCore, but their verified GitHub evidence shows primary languages of Makefile, C, C++, Shell, and KiCad with zero public activity or repositories reflecting the claimed Unity/C# tech stack."
+    ]
+  },
+  "johnmo343:80acc12f433901fb": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Candidate claims 5+ years of software engineering experience and high-volume systems work in Java and Python, but their verified GitHub evidence shows only 2 total commits ever ('commit readme', 'test') with zero primary languages detected.",
+      "Candidate claims extensive experience with frameworks, microservices, DevOps pipelines, and enterprise software, whereas GitHub profile shows negligible activity (2 total repos, 0 stars, 0 PRs, 0% merging)."
+    ]
+  },
+  "darrda648:587b46981bd7fe70": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "zachbr862:ae8025a691f5bcaf": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.6,
+    "key_contradictions": [
+      "The candidate claimed 3 years of experience in the interview, which contradicts the resume stating 5+ years (and an employment history starting in 2015).",
+      "The verified GitHub evidence shows primary languages as Rust and Haskell, whereas both the resume and interview claim expertise in Solidity, JavaScript, Python, Ethereum, and Hyperledger Fabric with no mention of Rust or Haskell."
+    ]
+  },
+  "thommo494:0cd5a77911110965": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "franro374:626669ad966afbcf": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "kevibl518:ab62ec2c053e6775": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The candidate claims 10 years of experience in IT during the interview, whereas the resume states 8+ years of total professional experience."
+    ]
+  },
+  "donaev793:f43da070af3f7aa0": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.4,
+    "key_contradictions": [
+      "Candidate claims extensive experience with C++, Unity, Unreal Engine, and PhysX, but verified GitHub evidence shows primary languages as Python, HTML, and JavaScript with only 12 total commits and no C++ or game engine repositories."
+    ]
+  },
+  "aaroan933:a5acdbe18f305c6f": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims experience with Python, Scala, and big data tools like Spark and Airflow in the interview and resume, but the verified GitHub evidence shows primary languages are predominantly Java, TypeScript, and others, with no direct Python or Scala usage visible in top repositories."
+    ]
+  },
+  "willjo235:8dccc96125db865d": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "The candidate claims experience with JavaScript, Node.js, PHP, MySQL, and React, but verified GitHub evidence shows primary language usage exclusively in Swift (2 repos) with extremely low commit activity (4 total commits), which starkly contrasts with the extensive Node.js/full-stack history claimed in the resume and interview."
+    ]
+  },
+  "robegr529:e0b3605534ece2c7": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.8,
+    "key_contradictions": [
+      "The candidate claims extensive hands-on C++ and ROS development experience in both their resume and transcript, yet verified GitHub evidence shows zero C++ or ROS usage, with primary language solely as CSS.",
+      "GitHub evidence shows almost no activity (total 2 commits, 2 repos, 0 stars, 0 PRs), which strongly contradicts the profile of an active, highly experienced robotics engineer claiming substantial practical delivery."
+    ]
+  },
+  "patrdo456:953639cbc6d7f696": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Candidate claims 5+ years of professional blockchain experience, leadership roles, building DeFi platforms, and multi-signature wallets, but verified GitHub evidence shows a total of 3 commits ever across 3 repos with zero primary languages detected and empty contribution history.",
+      "Candidate claims extensive blockchain project development including Geth client and Ethereum work, which completely contradicts the sparse and empty GitHub activity profile."
+    ]
+  },
+  "cyntmo591:874d08199f5787bb": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims extensive experience with Swift, iOS, Alamofire, and React Native in the interview, and Kotlin/Flutter/Java on the resume, but GitHub evidence shows zero commits and only CSS in primary languages without mentioning private repositories."
+    ]
+  },
+  "willsi659:0cec0c40e7525049": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The candidate states in the transcript that he has been working as a data analyst for about three years, whereas his resume states he has been working as a Senior Data Scientist since 2018 (over 5 years) plus prior experience starting in 2015, totaling around 8+ years of experience."
+    ]
+  },
+  "michwi984:3eb20a7d764a403d": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "The candidate's resume and spoken interview emphasize Python, Scala, SQL, Big Data technologies (Hadoop, Spark, Hive), and cloud platforms (AWS, GCP, Azure), whereas verified GitHub primary languages are heavily skewed toward Ruby, JavaScript, Emacs Lisp, Lua, and Shell, with zero recorded Python or Scala usage in the primary languages."
+    ]
+  },
+  "cathbe638:a3ada90c33d03d25": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims extensive professional experience with big data technologies like Hadoop, Spark, and AWS/GCP, but her verified GitHub repository primary languages consist entirely of web development and scripting technologies (Ruby, JavaScript, Objective-C, PHP) with zero Python, Java, Scala, or big data ecosystem projects."
+    ]
+  },
+  "timopa292:7fe3eec17fdf06b3": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.65,
+    "key_contradictions": [
+      "The transcript claims 3 years of experience as a data analyst, whereas the resume states 5+ years of experience as a Data Scientist and Quantitative Analyst.",
+      "The verified GitHub evidence shows primary languages of Java, C#, and C with no Python, whereas both the transcript and resume heavily emphasize Python and Data Science tools."
+    ]
+  },
+  "natasn783:da6dae6163312520": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "Candidate claims proficiency in Node.js, React, and MongoDB, but GitHub evidence shows primary languages restricted entirely to HTML (2 repositories) with no evidence of JavaScript, Node.js, or React code."
+    ]
+  },
+  "johnba158:5e7eaa3db7df36d2": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.25,
+    "key_contradictions": [
+      "Candidate claims extensive DevOps tool usage including Ansible, Terraform, Jenkins, and Prometheus, but GitHub evidence shows only 4 total commits in a single Python repository, contrasting sharply with the claimed heavy hands-on coding and infrastructure contributions."
+    ]
+  },
+  "zachda908:ac8a820faea387ed": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.4,
+    "key_contradictions": [
+      "The candidate's resume and spoken claims emphasize heavy backend infrastructure, cloud platforms (AWS, Azure, GCP), and DevOps tools (Terraform, Ansible), whereas GitHub evidence shows primary languages are heavily frontend-focused (JavaScript, TypeScript, HTML, SCSS) with virtually no cloud/infrastructure code representation."
+    ]
+  },
+  "jonafe221:a8491a210bd0c692": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "Candidate claims expertise in JavaScript and React on the resume and in the interview, but verified GitHub evidence shows primary language is Ruby with no JavaScript repositories found."
+    ]
+  },
+  "karefi500:ac5714ae42b1f153": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "The candidate claims extensive professional experience with Solidity, JavaScript, and Ethereum blockchain development, yet GitHub evidence shows primary language usage exclusively in Python and no blockchain-related repositories or activity."
+    ]
+  },
+  "hannth600:9ba0387b4d3872ca": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The candidate claimed to have about 4 years of experience in the interview, whereas her resume states she has 5+ years of experience."
+    ]
+  },
+  "gregla491:3d19a228b4414cb0": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 3,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Candidate claims to contribute frequently to open-source projects, but verified GitHub evidence shows only 1 total commit and 1 repo with zero followers/stars/forks.",
+      "Resume and transcript emphasize extensive Kotlin, Swift, Flutter, React Native, and Java experience, whereas verified GitHub evidence shows primary language as C# with no evidence of the claimed mobile languages.",
+      "Resume claims 'Top Contributor, GitHub (2018)' achievement, which is completely contradicted by the minimal commit history and absence of open-source impact in the verified evidence."
+    ]
+  },
+  "sarara806:58bfc6acc051ddb0": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 3,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Transcript experience claim (3 years) contradicts the resume (5+ years).",
+      "Transcript education background (Stanford University, BS in Computer Science) directly contradicts the resume (XYZ University MS in Data Science, ABC University BS in Statistics).",
+      "Resume and transcript claim extensive Python, TensorFlow, and advanced machine learning expertise, whereas GitHub evidence shows only JavaScript and Jupyter Notebook with minimal, low-quality commit activity."
+    ]
+  },
+  "paulta894:dd255caa15d20476": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.25,
+    "key_contradictions": [
+      "The candidate's resume and spoken claims heavily emphasize React and JavaScript development, but verified GitHub primary languages consist of Rust, HTML, and Ruby, with Rust commit messages (e.g., 'fix clippy issues') indicating heavy Rust usage not reflected in the React-focused resume/claims."
+    ]
+  },
+  "ashlve964:b60ac08128f8a3ec": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "danijo766:5796ef0574427904": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "barbbr174:e024fd47cf27cb9c": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "michmy863:2c47a903c47afb09": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.65,
+    "key_contradictions": [
+      "The resume and GitHub evidence starkly contrast: the resume claims extensive Unity, C#, AR/VR development (Vuforia, ARKit, ARCore), but GitHub evidence shows primary languages as JavaScript, CSS, TypeScript, Java, and zero Unity/C# repos or commits.",
+      "The resume claims a popular open-source project with over 1,000 stars and 500 forks, whereas the verified GitHub evidence shows a total of only 10 stars and 1 fork across all repositories."
+    ]
+  },
+  "kathho676:661669d60dc20286": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "The candidate and resume claim extensive professional expertise in SQL, relational databases (SQL Server, Oracle, MySQL), and NoSQL databases, yet the verified GitHub evidence shows zero SQL or database repositories, with primary language solely as HTML (100%)."
+    ]
+  },
+  "austga837:1634f334c3f061de": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "willpi132:740ae6e3429df5fe": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "marype132:5e549e470e5481f2": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "daniri347:adcd1a62ffc2f72d": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.25,
+    "key_contradictions": [
+      "The candidate and resume emphasize heavy Solidity and Ethereum blockchain development, but the verified GitHub repository languages consist entirely of Java, JavaScript, HTML, TypeScript, Vue, Go, CSS, Python, and C, with zero Solidity present."
+    ]
+  },
+  "shawgr202:71328bed3d0d022a": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.65,
+    "key_contradictions": [
+      "The candidate states in the interview that they have about five years of experience in IT, whereas their resume claims 8+ years of professional experience.",
+      "The candidate's interview and resume heavily focus on Windows Server, Active Directory, Linux, virtualization, and networking, but their verified GitHub evidence shows a primary language of JavaScript with no mention of systems administration code or relevant tooling."
+    ]
+  },
+  "jeffke612:0697dee793e9037d": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "joshro860:449947bf8718e851": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.4,
+    "key_contradictions": [
+      "The candidate claims extensive front-end and UI engineering experience using JavaScript, HTML, CSS, and React, but the verified GitHub evidence shows primary languages consisting of Go, Shell, C++, Python, Dockerfile, and Rust, with zero front-end or JavaScript/TypeScript repositories present."
+    ]
+  },
+  "ericpr472:ff965fc20d363c73": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "Candidate claimed extensive professional experience with Java and related tools like Jenkins, but Java is completely absent from the primary_languages in the verified GitHub evidence and does not appear on the resume."
+    ]
+  },
+  "joshne882:af5c433a37cf3b4d": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "ryanco217:3ca47f6e5dfba6f1": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The candidate claimed in the interview to have 'about 5 years of experience', whereas his resume explicitly states 8+ years of experience."
+    ]
+  },
+  "rachhu358:2052f42123244525": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.3,
+    "key_contradictions": [
+      "The candidate claims experience in Python, AWS CloudFormation, and Terraform, whereas GitHub evidence shows primary language as C# with no evidence of Python or infrastructure-as-code repositories."
+    ]
+  },
+  "patrha430:774b65db036d626d": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The candidate claimed in the interview to have 'about five years' of experience in IT, whereas their resume clearly states 8+ years of experience."
+    ]
+  },
+  "jasomo683:6dd3af1a953c0601": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "Candidate claims expertise in Solidity, Ethereum, and Web3.js in resume and interview, but verified GitHub primary languages consist mostly of Shell, PowerShell, Ruby, Go, and JavaScript, with no Solidity present in the language distribution."
+    ]
+  },
+  "amanad123:df432a854fb7d9de": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "elizmc837:5aa0a3b41eb6e004": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.25,
+    "key_contradictions": [
+      "The candidate claims extensive experience in Python and various machine learning frameworks, while the verified GitHub evidence shows only Jupyter Notebook usage with extremely sparse commit history (3 total commits across 2 repos)."
+    ]
+  },
+  "danpe591:6839da33763430fb": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.4,
+    "key_contradictions": [
+      "Candidate claimed extensive experience using Unreal Engine in the interview, but resume and primary tech stack heavily focus on Unity and C#, with no mention of Unreal Engine."
+    ]
+  },
+  "michwe449:2f931dbf5b76fdce": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 3,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "The candidate states in the transcript that he has been working as a data analyst for the past three years, which directly contradicts his resume claiming 5+ years of experience as a Senior Data Scientist and Data Scientist.",
+      "The candidate's resume and transcript emphasize Python, TensorFlow, and R as primary tools, but the verified GitHub evidence shows primary language usage strictly in C# (3 repos) with no Python code present.",
+      "The resume claims an educational background with a Master of Science in Computer Science from XYZ University, whereas the transcript states he has a master's degree in Statistics from the University of California, Berkeley."
+    ]
+  },
+  "amanpo781:4ee2574dae01359b": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "The candidate claims experience with JavaScript and React on her resume and in the interview, but the verified GitHub evidence shows primary language usage exclusively in R, with zero evidence of JavaScript or React repositories."
+    ]
+  },
+  "aaroch731:37ebe9373345c5fe": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "jamemo630:7ce6998fa751f37c": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.4,
+    "key_contradictions": [
+      "The candidate claims strong proficiency in Java and Python on their resume and transcript, yet the verified GitHub evidence shows primary languages as C#, JavaScript, Dockerfile, TypeScript, PHP, and C++, with Java and Python entirely absent from top repositories."
+    ]
+  },
+  "johnma114:4a8867e2b40c9742": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.65,
+    "key_contradictions": [
+      "The candidate claims in the interview to have 3 years of experience, whereas the resume states 5+ years of experience.",
+      "The candidate claims expertise in Python, TensorFlow, and scikit-learn, but the verified GitHub evidence shows primary languages consisting of JavaScript, Java, Shell, TypeScript, PHP, Objective-C, and CSS, with no Python present."
+    ]
+  },
+  "nicobr601:6e0fe2ac891e9a7e": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.4,
+    "key_contradictions": [
+      "Candidate claimed proficiency in Swift and Kotlin during the interview, but these languages are completely absent from the resume technical skills and primary GitHub languages (which only show JavaScript).",
+      "Resume heavily features Flutter and Dart as primary skills and frameworks, but GitHub evidence shows zero activity in Dart, with primary language solely as JavaScript across a very small number of commits."
+    ]
+  },
+  "richba423:0597b6000be2bf88:noev": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.25,
+    "key_contradictions": [
+      "The candidate claimed 5 years of experience in the interview, which directly contradicts their resume stating 8+ years of experience."
+    ]
+  },
+  "jonjo243:89071b4cc3912371:noev": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.7,
+    "key_contradictions": [
+      "Resume lists core experience in Kotlin and Flutter, whereas the transcript entirely claims experience in Swift, Java, and React Native without mentioning Kotlin or Flutter.",
+      "Resume lists years of experience focused on Android/Flutter development, whereas the transcript claims 3 years specifically working with Swift and iOS app development."
+    ]
+  },
+  "allino346:a4517682bc264e82:noev": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Candidate claimed primarily working with Azure for the past 2 years and being an Azure Solutions Architect Expert during the interview, whereas the resume lists AWS and GCP as the primary cloud platforms with zero mention of Azure.",
+      "Candidate claimed experience with Azure specific services like Storage, Cosmos DB, and Active Directory, which completely conflict with the AWS/GCP focused tech stack presented in the resume."
+    ]
+  },
+  "hannth600:9ba0387b4d3872ca:noev": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "austga837:1634f334c3f061de:noev": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "YasithAbeyratne134:91baad59d107b0bc:noev": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "The candidate states in the transcript that they landed their first job as a junior mobile app developer and have been doing it for about five years, whereas their resume lists professional experience starting from 2015 (over 8 years) and positions as a Senior Mobile App Developer and Mobile App Developer without a junior title."
+    ]
+  }
+}

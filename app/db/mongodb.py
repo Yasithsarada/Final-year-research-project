@@ -5,6 +5,8 @@ from bson import ObjectId
 
 from app.db.base import BaseDatabase
 from app.models.resume import ResumeDocument
+from app.models.ccs import CCSJobDocument
+from app.models.candidate_profile import CandidateProfileDocument
 from app.core.config import settings
 from app.core.exceptions import DatabaseException
 
@@ -17,6 +19,8 @@ class MongoDBDatabase(BaseDatabase):
         self.client: Optional[AsyncIOMotorClient] = None
         self.db = None
         self.collection_name = "resumes"
+        self.ccs_collection_name = "ccs_jobs"
+        self.profile_collection_name = "candidate_profiles"
 
     async def connect(self) -> None:
         try:
@@ -112,3 +116,125 @@ class MongoDBDatabase(BaseDatabase):
         except Exception as e:
             logger.error(f"Failed to list resumes: {str(e)}")
             raise DatabaseException(f"Failed to query resumes database: {str(e)}")
+
+    async def save_ccs_job(self, document: CCSJobDocument) -> str:
+        if not self.db:
+            raise DatabaseException("Database client is not connected.")
+            
+        try:
+            doc_dict = document.model_dump(by_alias=True)
+            if "_id" in doc_dict and doc_dict["_id"] is None:
+                doc_dict.pop("_id")
+                
+            if document.id:
+                result = await self.db[self.ccs_collection_name].update_one(
+                    {"_id": document.id},
+                    {"$set": doc_dict},
+                    upsert=True
+                )
+                inserted_id = document.id
+            else:
+                result = await self.db[self.ccs_collection_name].insert_one(doc_dict)
+                inserted_id = str(result.inserted_id)
+                
+            return inserted_id
+        except Exception as e:
+            logger.error(f"Failed to save CCS job: {str(e)}")
+            raise DatabaseException(f"Failed to write CCS job to database: {str(e)}")
+
+    async def get_ccs_job(self, job_id: str) -> Optional[CCSJobDocument]:
+        if not self.db:
+            raise DatabaseException("Database client is not connected.")
+            
+        try:
+            query = {"_id": job_id}
+            doc = await self.db[self.ccs_collection_name].find_one(query)
+            
+            if not doc:
+                try:
+                    query = {"_id": ObjectId(job_id)}
+                    doc = await self.db[self.ccs_collection_name].find_one(query)
+                except Exception:
+                    pass
+                    
+            if not doc:
+                return None
+                
+            if isinstance(doc.get("_id"), ObjectId):
+                doc["_id"] = str(doc["_id"])
+                
+            return CCSJobDocument.model_validate(doc)
+        except Exception as e:
+            logger.error(f"Failed to fetch CCS job {job_id}: {str(e)}")
+            raise DatabaseException(f"Failed to read CCS job from database: {str(e)}")
+
+    async def list_ccs_jobs(self, limit: int = 20, skip: int = 0) -> List[CCSJobDocument]:
+        if not self.db:
+            raise DatabaseException("Database client is not connected.")
+            
+        try:
+            cursor = self.db[self.ccs_collection_name].find().skip(skip).limit(limit)
+            jobs = []
+            
+            async for doc in cursor:
+                if isinstance(doc.get("_id"), ObjectId):
+                    doc["_id"] = str(doc["_id"])
+                jobs.append(CCSJobDocument.model_validate(doc))
+                
+            return jobs
+        except Exception as e:
+            logger.error(f"Failed to list CCS jobs: {str(e)}")
+            raise DatabaseException(f"Failed to query CCS jobs database: {str(e)}")
+
+    async def save_candidate_profile(self, document: CandidateProfileDocument) -> str:
+        if not self.db:
+            raise DatabaseException("Database client is not connected.")
+        try:
+            doc_dict = document.model_dump(by_alias=True)
+            if "_id" in doc_dict and doc_dict["_id"] is None:
+                doc_dict.pop("_id")
+            if document.id:
+                await self.db[self.profile_collection_name].update_one(
+                    {"_id": document.id}, {"$set": doc_dict}, upsert=True
+                )
+                return document.id
+            else:
+                result = await self.db[self.profile_collection_name].insert_one(doc_dict)
+                return str(result.inserted_id)
+        except Exception as e:
+            logger.error(f"Failed to save candidate profile: {str(e)}")
+            raise DatabaseException(f"Failed to write candidate profile to database: {str(e)}")
+
+    async def get_candidate_profile(self, profile_id: str) -> Optional[CandidateProfileDocument]:
+        if not self.db:
+            raise DatabaseException("Database client is not connected.")
+        try:
+            doc = await self.db[self.profile_collection_name].find_one({"_id": profile_id})
+            if not doc:
+                try:
+                    doc = await self.db[self.profile_collection_name].find_one({"_id": ObjectId(profile_id)})
+                except Exception:
+                    pass
+            if not doc:
+                return None
+            if isinstance(doc.get("_id"), ObjectId):
+                doc["_id"] = str(doc["_id"])
+            return CandidateProfileDocument.model_validate(doc)
+        except Exception as e:
+            logger.error(f"Failed to fetch candidate profile {profile_id}: {str(e)}")
+            raise DatabaseException(f"Failed to read candidate profile from database: {str(e)}")
+
+    async def list_candidate_profiles(self, limit: int = 20, skip: int = 0) -> List[CandidateProfileDocument]:
+        if not self.db:
+            raise DatabaseException("Database client is not connected.")
+        try:
+            cursor = self.db[self.profile_collection_name].find().skip(skip).limit(limit)
+            profiles = []
+            async for doc in cursor:
+                if isinstance(doc.get("_id"), ObjectId):
+                    doc["_id"] = str(doc["_id"])
+                profiles.append(CandidateProfileDocument.model_validate(doc))
+            return profiles
+        except Exception as e:
+            logger.error(f"Failed to list candidate profiles: {str(e)}")
+            raise DatabaseException(f"Failed to query candidate profiles database: {str(e)}")

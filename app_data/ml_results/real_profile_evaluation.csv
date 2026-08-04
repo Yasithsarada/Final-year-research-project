@@ -1,0 +1,79 @@
+ID,Name,Role,github_user,status,total_commits,total_repos,followers,total_stars,burst_concentration_ratio,commit_coefficient_variation,generic_message_ratio,pr_rejection_rate,flags,technical_skill_score,collaboration_consistency_score,fraud_risk_level,fraud_index,ml_anomaly_score
+yasith394,Yasith sarada,Mobile App Developer,Yasithsarada,OK,98,27,5,2,0.337,2.914,0.0,0.143,,0.823,0.579,Low,0.243,0.811
+nimeth503,Nimeth Nimdinu,AI Researcher,nimeth02,OK,47,43,6,6,0.191,3.742,0.05,0.091,,0.846,0.598,Low,0.228,0.759
+michda986,Ruchith samarawickrama,5,ruchithx,OK,290,26,8,5,0.324,3.535,0.05,0.033,,0.877,0.579,Low,0.225,0.749
+nimesh,Nimesh Karunarathna,QA Engineer,NIMESH939,OK,121,13,3,4,0.347,2.388,0.0,0.0,,0.799,0.493,Low,0.227,0.756
+sathsara,Nipuna Deshan,Full Stack Developer,sathsarasithum,OK,65,16,4,4,0.308,4.219,0.15,0.0,,0.894,0.583,Low,0.237,0.791
+ambean407,Amber Anderson,Cloud Architect,amberanderson,OK,2,3,0,1,0.0,0.0,0.333,0.0,,0.662,0.351,Low,0.201,0.669
+stepgi298,Stephanie Gilbert,Robotics Engineer,stephaniegilbert,OK,5,6,2,3,0.0,0.0,0.125,0.0,,0.648,0.362,Low,0.183,0.611
+Nipuna,Nipuna Deshan,Full Stack Developer,DeshanHiripitiya,OK,9,22,3,0,0.444,4.203,0.444,0.0,Suspicious bulk commit activity: avg size 2234 lines/commit with only 0.16 commits/week sustained over the observed history.,0.706,0.41,Medium,0.342,0.838
+KavinduWijegunasekara,Kavindu Wijegunasekara,AR/VR Developer,kavinduprabasara,OK,52,30,11,4,0.481,3.574,0.2,0.0,,0.732,0.413,Low,0.217,0.724
+IrushiSilva01,Irushi Silva,QA Engineer,IruSilva,OK,12,7,0,0,0.333,4.238,0.062,0.0,Suspicious bulk commit activity: avg size 4280 lines/commit with only 0.13 commits/week sustained over the observed history.,0.603,0.22,Medium,0.304,0.713
+daviow731,David Owens,AI Researcher,davidowens,OK,14,6,15,0,0.286,5.838,0.067,0.0,Suspicious bulk commit activity: avg size 2641 lines/commit with only 0.07 commits/week sustained over the observed history.,0.703,0.402,Low,0.294,0.681
+natami577,Natalie Miller,Machine Learning Engineer,nataliemiller,OK,3,5,0,0,0.0,0.0,0.25,0.0,,0.704,0.39,Low,0.169,0.562
+richba423,Richard Barry,Cloud Engineer,rbarry,OK,0,0,1,0,0.0,0.0,0.0,0.0,,0.432,0.09,Low,0.224,0.747
+alicle262,Alicia Lee,DevOps Engineer,alicialee,OK,2,3,1,0,0.5,6.0,1.0,0.0,Low-quality commit messages: 100% of sampled messages are generic/auto-generated.,0.597,0.18,Medium,0.311,0.835
+nichro686,Nicholas Robertson,AI Researcher,nrobertson,OK,18,6,0,0,0.222,2.742,0.158,0.0,Suspicious bulk commit activity: avg size 1251 lines/commit with only 0.39 commits/week sustained over the observed history.,0.564,0.194,Low,0.298,0.692
+adamho836,Adam Howell,Mobile App Developer,adamhowell,OK,58,6,27,24,0.224,4.255,0.05,0.0,,0.612,0.233,Low,0.204,0.679
+jamesc221,James Scott,Game Developer,james-scott,OK,43,2,0,0,0.279,5.658,0.105,0.0,,0.515,0.13,Low,0.167,0.555
+willmo683,William Morgan,Mobile App Developer,williammorgan,OK,72,3,1,0,0.292,4.83,0.0,0.0,,0.827,0.37,Low,0.177,0.589
+markma447,Mark Martin,Mobile App Developer,markmartin,OK,0,79,10,17,0.0,0.0,0.0,0.0,,0.682,0.428,Low,0.221,0.735
+nichba782,Nichole Baxter,DevOps Engineer,nbaxter,OK,11,4,1,0,0.364,7.883,0.182,0.0,,0.552,0.17,Low,0.204,0.681
+jonjo243,Jon Johnson,Mobile App Developer,jonjohnson,OK,0,0,7,0,0.0,0.0,0.0,0.0,,0.432,0.09,Low,0.224,0.747
+elizjo269,Elizabeth Jones,Machine Learning Engineer,elizabethjones,OK,5,2,1,0,0.0,0.0,0.333,0.0,,0.657,0.32,Low,0.202,0.674
+allino346,Allison Norris,Cloud Architect,allisonnorris,OK,0,0,0,0,0.0,0.0,0.0,0.0,,0.432,0.09,Low,0.224,0.747
+andrbo579,Andrew Bowers,AR/VR Developer,andrewbowers,OK,0,14,0,0,0.0,0.0,0.0,0.0,,0.682,0.33,Low,0.201,0.669
+johnmo343,John Morgan,Software Engineer,johnmorgan,OK,2,2,0,0,0.0,0.0,0.5,0.0,,0.46,0.11,Low,0.198,0.659
+darrda648,Darryl Davis,Data Engineer,darryldavis,OK,0,3,0,0,0.0,0.0,0.0,0.0,,0.432,0.12,Low,0.224,0.747
+zachbr862,Zachary Brown,Blockchain Developer,zacharybrown,OK,8,2,1,0,0.625,3.925,0.125,0.0,,0.572,0.15,Low,0.216,0.721
+thommo494,Thomas Mosley,AR/VR Developer,thomasmosley,OK,0,1,0,0,0.0,0.0,0.0,0.0,,0.432,0.1,Low,0.224,0.747
+franro374,Frank Rogers,Mobile App Developer,frankrogers,OK,1,1,0,0,0.0,0.0,0.0,0.0,,0.447,0.1,Low,0.217,0.722
+kevibl518,Kevin Blair,Cloud Architect,kevinblair,OK,1,1,0,0,0.0,0.0,1.0,0.0,Low-quality commit messages: 100% of sampled messages are generic/auto-generated.,0.447,0.1,Medium,0.328,0.894
+donaev793,Donald Everett,Game Developer,donaldev,OK,12,3,0,0,0.25,2.16,0.0,0.0,,0.757,0.39,Low,0.164,0.548
+aaroan933,Aaron Anderson,Data Engineer,aaronanderson,OK,55,41,14,106,0.345,5.729,0.2,0.0,,0.722,0.47,Low,0.176,0.588
+willjo235,William Jones,Full Stack Developer,williamjones,OK,4,4,21,0,0.5,1.225,0.25,0.0,,0.509,0.152,Low,0.211,0.704
+robegr529,Robert Griffin,Robotics Engineer,robertgriffin,OK,2,2,0,0,0.0,0.0,0.5,0.0,,0.512,0.13,Low,0.219,0.731
+patrdo456,Patrick Doyle,Blockchain Developer,patrickdoyle,OK,3,3,0,0,0.0,0.0,0.667,0.0,Low-quality commit messages: 67% of sampled messages are generic/auto-generated.,0.454,0.12,Medium,0.301,0.804
+cyntmo591,Cynthia Morris,Mobile App Developer,cmorris,OK,0,1,3,0,0.0,0.0,0.0,0.0,,0.482,0.12,Low,0.224,0.747
+willsi659,William Simpson,Data Scientist,williamsimpson,OK,0,1,0,0,0.0,0.0,0.0,0.0,,0.432,0.1,Low,0.224,0.747
+michwi984,Michael Williams,Data Engineer,mwilliams,OK,31,26,55,174,0.516,8.322,0.0,0.0,,0.728,0.49,Low,0.22,0.734
+cathbe638,Cathy Beck,Data Engineer,cbeck,OK,26,32,44,9,0.192,8.941,0.05,0.0,,0.859,0.631,Low,0.219,0.729
+timopa292,Timothy Patton,Data Scientist,timothypatton,OK,6,6,1,0,0.5,1.581,0.333,0.0,,0.61,0.21,Low,0.184,0.613
+natasn783,Natalie Snyder,Full Stack Developer,nataliesnyder,OK,56,2,0,0,0.232,0.505,0.083,0.0,,0.531,0.13,Low,0.15,0.5
+johnba158,Johnny Baker,DevOps Engineer,johnnybaker,OK,4,1,0,1,0.0,0.0,0.0,0.0,,0.541,0.121,Low,0.196,0.654
+zachda908,Zachary Davidson,Cloud Engineer,zdavidson,OK,151,71,121,67,0.563,5.442,0.05,0.0,Burst commit pattern detected: 56% of 151 commits were made in just the busiest 3 week(s) out of 26 active weeks.,0.893,0.695,Low,0.252,0.831
+jonafe221,Jonathan Ferguson,UI Engineer,jonathanferguson,OK,16,2,1,1,0.0,0.0,0.0,0.0,,0.606,0.131,Low,0.264,0.88
+karefi500,Karen Figueroa,Blockchain Developer,karenfigueroa,OK,57,3,3,0,0.281,1.334,0.0,0.0,,0.606,0.14,Low,0.213,0.71
+hannth600,Hannah Thompson,UI Engineer,hannahthompson,OK,0,0,0,0,0.0,0.0,0.0,0.0,,0.432,0.09,Low,0.224,0.747
+gregla491,Gregory Larson,Mobile App Developer,gregorylarson,OK,1,1,0,0,0.0,0.0,0.0,0.0,,0.497,0.12,Low,0.217,0.723
+sarara806,Sarah Ramsey,Data Scientist,sarahramsey,OK,7,3,0,0,0.857,2.559,0.0,0.0,Suspicious bulk commit activity: avg size 4896 lines/commit with only 0.70 commits/week sustained over the observed history.,0.569,0.16,Medium,0.373,0.942
+paulta894,Paula Taylor,UI Engineer,paultaylor,OK,322,3,7,1,0.339,4.443,0.05,0.0,,0.625,0.181,Low,0.21,0.701
+ashlve964,Ashley Velasquez,AI Researcher,ashleyvelasquez,OK,11,6,0,0,0.545,1.626,0.364,0.0,,0.487,0.15,Low,0.235,0.783
+danijo766,Danielle Jones,Cloud Engineer,daniellejones,OK,2,3,0,0,0.0,0.0,0.5,0.0,,0.612,0.33,Low,0.219,0.731
+barbbr174,Barbara Brooks,Data Scientist,barbarabrooks,OK,71,18,1,1,0.366,3.303,0.0,0.0,,0.676,0.353,Low,0.239,0.796
+michmy863,Michael Myers,AR/VR Developer,michaelmyers,OK,121,22,17,10,0.471,10.789,0.05,0.0,,0.911,0.629,Low,0.243,0.811
+kathho676,Kathryn Howard,Database Administrator,kathrynhoward,OK,26,1,3,0,0.654,1.683,0.0,0.0,Burst commit pattern detected: 65% of 26 commits were made in just the busiest 1 week(s) out of 2 active weeks.,0.631,0.12,Low,0.277,0.842
+austga837,Austin Garcia,UI Engineer,austingarcia,OK,0,0,0,0,0.0,0.0,0.0,0.0,,0.432,0.09,Low,0.224,0.747
+willpi132,William Pittman,Full Stack Developer,williampittman,OK,88,19,0,1,0.386,1.67,0.1,0.0,,0.74,0.381,Low,0.212,0.706
+marype132,Mary Peters,Software Engineer,mpeters,OK,1300,76,79,129,0.456,4.409,0.0,0.0,,0.779,0.49,Low,0.255,0.849
+daniri347,Daniel Rios,Blockchain Developer,danielrios,OK,84,30,14,0,0.345,4.656,0.0,0.111,,0.839,0.587,Low,0.205,0.682
+shawgr202,Shawn Gray,System Administrator,sgray,OK,7,1,14,1,0.571,5.014,0.143,0.0,,0.515,0.122,Low,0.195,0.65
+jeffke612,Jeffrey Kennedy,Cloud Engineer,jeffreykennedy,OK,0,1,0,0,0.0,0.0,0.0,0.0,,0.432,0.1,Low,0.224,0.747
+joshro860,Joshua Robinson,UI Engineer,joshuarobinson,OK,139,30,32,213,0.324,2.351,0.05,0.0,,0.709,0.49,Low,0.231,0.772
+ericpr472,Eric Pruitt,Software Engineer,ericpruitt,OK,1422,34,71,350,0.387,2.198,0.05,0.0,,0.742,0.49,Low,0.184,0.614
+joshne882,Joshua Nelson,Full Stack Developer,joshua-nelson,OK,39,18,0,0,0.359,6.923,0.1,0.1,,0.884,0.55,Low,0.202,0.672
+ryanco217,Ryan Cooper,Database Administrator,ryancooper,OK,0,11,5,4,0.0,0.0,0.0,0.0,,0.632,0.296,Low,0.189,0.631
+rachhu358,Rachel Hutchinson,Cloud Engineer,rachelhutchinson,OK,47,3,0,0,0.319,0.655,0.0,0.0,,0.571,0.14,Low,0.243,0.808
+patrha430,Patrick Hayes,System Administrator,phayes,OK,843,100,160,1690,0.591,7.606,0.0,0.0,Burst commit pattern detected: 59% of 843 commits were made in just the busiest 7 week(s) out of 67 active weeks.,0.813,0.49,Low,0.238,0.763
+jasomo683,Jason Morgan,Blockchain Developer,jasonmorgan,OK,403,94,175,58,0.385,4.747,0.05,0.143,,0.885,0.638,Low,0.178,0.593
+amanad123,Amanda Adams,AR/VR Developer,amandaadams,OK,8,6,1,0,0.375,7.319,0.333,0.0,,0.562,0.194,Low,0.16,0.534
+elizmc837,Elizabeth Mccullough,Machine Learning Engineer,emccullough,OK,3,2,1,0,0.333,3.742,0.25,0.0,Suspicious bulk commit activity: avg size 2147 lines/commit with only 0.07 commits/week sustained over the observed history.,0.492,0.13,Medium,0.324,0.779
+danpe591,Dan Peterson,Game Developer,danpeterson,OK,0,8,6,0,0.0,0.0,0.0,0.0,,0.482,0.19,Low,0.224,0.747
+michwe449,Michael Weber,Data Scientist,michaelweber,OK,42,9,127,628,0.31,6.764,0.0,0.667,High PR rejection rate: only 33% approval across 6 pull requests.,0.476,0.29,Low,0.287,0.808
+amanpo781,Amanda Powell,UI Engineer,amandapowell,OK,12,7,0,0,0.333,1.732,0.25,0.0,,0.517,0.18,Low,0.203,0.676
+aaroch731,Aaron Chen,Data Architect,aaronchen,OK,414,9,0,8,0.495,4.663,0.0,0.0,,0.737,0.306,Low,0.261,0.869
+YasithAbeyratne134,Yasith Abeyratne,Mobile App Developer,dalewyatt,"FETCH_FAILED: Client error '404 Not Found' for url 'https://api.github.com/users/dalewyatt/repos?type=public&per_page=100&sort=updated'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",,,,,,,,,,,,,,
+jamemo630,James Moore,Software Engineer,jamesmoore,OK,12,12,5,26,0.417,5.268,0.0,0.037,,0.851,0.553,Low,0.207,0.691
+johnma114,John Martin,Data Scientist,johnmartin,OK,19,18,38,12,0.211,4.819,0.053,0.0,,0.716,0.404,Low,0.162,0.541
+nicobr601,Nicole Bradshaw,Mobile App Developer,nicolebradshaw,OK,5,2,0,0,0.0,0.0,0.6,0.0,,0.556,0.13,Low,0.231,0.769

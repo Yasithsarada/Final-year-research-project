@@ -2,7 +2,8 @@ import json
 import logging
 from typing import Optional, Dict, Any
 from openai import OpenAI
-import google.generativeai as genai
+from google import genai
+from google.genai import types as genai_types
 
 from app.core.config import settings
 from app.core.exceptions import LLMException
@@ -74,8 +75,9 @@ class LLMResumeParserClient:
         if self.openai_key:
             self._openai_client = OpenAI(api_key=self.openai_key)
             
+        self._gemini_client = None
         if self.gemini_key:
-            genai.configure(api_key=self.gemini_key)
+            self._gemini_client = genai.Client(api_key=self.gemini_key)
 
     def _build_prompt(self, cleaned_text: str, segmented_sections: Dict[str, str]) -> str:
         """Constructs an optimized prompt for structured entity extraction."""
@@ -137,21 +139,20 @@ Crucial Extraction Rules:
             raise LLMException(f"OpenAI parse failure: {str(e)}")
 
     def _parse_with_gemini(self, prompt: str) -> ExtractedResumeSchema:
-        """Call Google Gemini Structured Outputs API."""
-        if not self.gemini_key:
+        """Call Google Gemini Structured Outputs API (google-genai SDK)."""
+        if not self._gemini_client:
             raise LLMException("Gemini API is not configured (missing key).")
             
         try:
             logger.info("Sending request to Gemini (gemini-2.5-flash)")
-            model = genai.GenerativeModel('gemini-2.5-flash')
             
             # Generate Gemini-compatible schema by dereferencing & cleaning
             compatible_schema = get_gemini_compatible_schema(ExtractedResumeSchema)
             
-            # Request strict JSON validation using clean schema in generation_config
-            response = model.generate_content(
-                prompt,
-                generation_config=genai.GenerationConfig(
+            response = self._gemini_client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+                config=genai_types.GenerateContentConfig(
                     response_mime_type="application/json",
                     response_schema=compatible_schema,
                     temperature=0.1

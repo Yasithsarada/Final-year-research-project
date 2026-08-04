@@ -1,0 +1,93 @@
+{
+  "dataset": {
+    "n_total": 34,
+    "n_fraud": 15,
+    "fraud_rate": 0.4412,
+    "n_features": 10,
+    "feature_names": [
+      "total_commits",
+      "average_commit_size_lines",
+      "total_prs",
+      "approval_rate",
+      "total_repos",
+      "followers",
+      "num_languages",
+      "generic_message_ratio",
+      "mismatch_score",
+      "number_of_contradictions"
+    ],
+    "n_unique_people": 8,
+    "real": true
+  },
+  "ablation": {
+    "rules_only": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    },
+    "ml_only": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    },
+    "hybrid": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    }
+  },
+  "isolation_forest_unsupervised": {
+    "roc_auc": 0.814
+  },
+  "supervised_baselines": {
+    "logistic_regression": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    },
+    "random_forest": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    },
+    "gradient_boosting": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    }
+  },
+  "feature_importance": {
+    "number_of_contradictions": 0.4721,
+    "mismatch_score": 0.4341,
+    "followers": 0.0221,
+    "total_commits": 0.0165,
+    "total_repos": 0.0147,
+    "average_commit_size_lines": 0.0123,
+    "num_languages": 0.0103,
+    "approval_rate": 0.009,
+    "generic_message_ratio": 0.0051,
+    "total_prs": 0.0038
+  },
+  "loss_curve": {
+    "model": "GradientBoostingClassifier",
+    "n_estimators": 150,
+    "n_train": 25,
+    "n_val": 9,
+    "final_train_loss": 0.0005,
+    "final_val_loss": 0.0003,
+    "best_val_loss": 0.0003,
+    "best_iteration": 150
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "aed2add0-1662-4688-9f65-d53ecea9c2ac",
+  "candidate_name": "John Doe",
+  "created_at": "2026-06-10T03:18:00.235267",
+  "updated_at": "2026-06-10T03:18:00.235267",
+  "resume_id": null,
+  "ccs_job_ids": [],
+  "github_username": "DeshanHiripitiya",
+  "github_metrics": {
+    "username": "DeshanHiripitiya",
+    "commit_history": {
+      "total_commits": 0,
+      "frequency_per_week": 0.0,
+      "average_commit_size_lines": 0.0,
+      "merging_percentage": 0.0,
+      "commit_messages": [
+        "feat: implement game logic, session management, and user entity tracking",
+        "Initial commit with backend",
+        "feat: implement vocabulary game page and associated service logic",
+        "Initial commit with frontend",
+        "initial commit",
+        "web socket to realtime update",
+        "Initial commit",
+        "commit",
+        "commit"
+      ]
+    },
+    "pull_requests": {
+      "total_prs": 0,
+      "accepted_prs": 0,
+      "rejected_prs": 0,
+      "approval_rate": 0.0,
+      "average_comments_per_pr": 0.0
+    },
+    "repository_metadata": {
+      "total_repos": 22,
+      "total_stars": 0,
+      "total_forks": 0,
+      "primary_languages": {
+        "JavaScript": 13,
+        "TypeScript": 3,
+        "C#": 1,
+        "Jupyter Notebook": 1,
+        "Java": 1,
+        "CSS": 1,
+        "Python": 1
+      },
+      "followers": 2,
+      "collaborations": 22
+    }
+  },
+  "technical_skills": {
+    "language_proficiency_score": 1.0,
+    "pr_quality_score": 0.5,
+    "code_quality_score": 0.94,
+    "efficiency_score": 0.0,
+    "overall_tse_score": 0.682
+  },
+  "non_technical_skills": {
+    "collaboration_proficiency": 0.3,
+    "requirements_understanding": 0.0,
+    "project_management_skills": 1.0,
+    "motivation_hustle": 0.6,
+    "overall_nts_score": 0.41
+  },
+  "fraud_indicators": {
+    "burst_commits_detected": false,
+    "fake_activity_detected": false,
+    "anomaly_score": 0.0,
+    "flags": []
+  },
+  "decision_result": {
+    "technical_skill_score": 0.682,
+    "collaboration_consistency_score": 0.41,
+    "fraud_risk_level": "Low",
+    "confidence_score": 0.4,
+    "summary_rationale": "LOW FRAUD RISK (index=0.0): Candidate profile is broadly consistent across all data sources."
+  }
+}

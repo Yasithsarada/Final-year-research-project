@@ -1,0 +1,31 @@
+total_commits,average_commit_size_lines,total_prs,approval_rate,total_repos,followers,num_languages,generic_message_ratio,number_of_contradictions,Is_Fraud,Case_Type,Name,Role
+12.0,4279.5,0.0,0.0,7.0,0.0,3.0,0.0,0.0,0,strong_alignment,Irushi Silva,Associate QA Engineer
+12.0,4279.5,0.0,0.0,7.0,0.0,3.0,0.0,0.0,0,partial_alignment,Irushi Silva,QA Automation Engineer
+12.0,4279.5,0.0,0.0,7.0,0.0,3.0,0.0,4.0,1,strong_misalignment,Irushi Silva,Senior SDET
+52.0,64.21,0.0,0.0,30.0,11.0,10.0,0.0,0.0,0,strong_alignment,Kavindu Wijegunasekara,Software Engineer (Mobile)
+52.0,64.21,0.0,0.0,30.0,11.0,10.0,0.0,0.0,0,partial_alignment,Kavindu Wijegunasekara,Full Stack Engineer
+52.0,64.21,0.0,0.0,30.0,11.0,10.0,0.0,5.0,1,strong_misalignment,Kavindu Wijegunasekara,Senior iOS Engineer
+0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0,strong_alignment,Malith Weerarathne,QA Engineer
+0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,1,partial_alignment,Malith Weerarathne,QA Automation Engineer
+0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,1,strong_misalignment,Malith Weerarathne,Senior QA Automation Lead
+47.0,19464.85,11.0,0.909,43.0,6.0,8.0,0.0,0.0,0,strong_alignment,Nimeth Nimdinu,AI/ML Engineer
+47.0,19464.85,11.0,0.909,43.0,6.0,8.0,0.0,4.0,1,partial_alignment,Nimeth Nimdinu,Machine Learning Engineer
+47.0,19464.85,11.0,0.909,43.0,6.0,8.0,0.0,5.0,1,strong_misalignment,Nimeth Nimdinu,Senior AI Engineer
+9.0,2233.67,0.0,0.0,22.0,3.0,7.0,0.25,0.0,0,strong_alignment,Nipuna Deshan,Fullstack & Blockchain Developer
+9.0,2233.67,0.0,0.0,22.0,3.0,7.0,0.25,4.0,1,partial_alignment,Nipuna Deshan,Backend Engineer (Node.js)
+9.0,2233.67,0.0,0.0,22.0,3.0,7.0,0.25,3.0,1,strong_misalignment,Nipuna Deshan,Senior Blockchain Engineer
+53.0,523.89,2.0,1.0,15.0,2.0,7.0,0.0,0.0,0,strong_alignment,Praneeth Kulathilaka,Associate Software Engineer (Backend / Integrations)
+53.0,523.89,2.0,1.0,15.0,2.0,7.0,0.0,0.0,0,partial_alignment,Praneeth Kulathilaka,Backend Engineer (Payments)
+53.0,523.89,2.0,1.0,15.0,2.0,7.0,0.0,3.0,1,strong_misalignment,Praneeth Kulathilaka,Senior Backend Engineer (Go)
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,strong_alignment,Theekshana Kulathunga,Quality Assurance Engineer
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,partial_alignment,Theekshana Kulathunga,QA Engineer (Automation)
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1,strong_misalignment,Theekshana Kulathunga,Senior QA Engineer
+98.0,692.45,7.0,0.857,27.0,5.0,8.0,0.0,0.0,0,strong_alignment,Yasith Sarada,Full Stack Developer (.NET / React)
+98.0,692.45,7.0,0.857,27.0,5.0,8.0,0.0,2.0,1,partial_alignment,Yasith Sarada,Backend Engineer (.NET Core)
+98.0,692.45,7.0,0.857,27.0,5.0,8.0,0.0,4.0,1,strong_misalignment,Yasith Sarada,Lead Full Stack Engineer
+12.0,4279.5,0.0,0.0,7.0,0.0,3.0,0.0,0.0,0,moderate_alignment,Irushi Silva,QA Engineer (Contract)
+52.0,64.21,0.0,0.0,30.0,11.0,10.0,0.0,0.0,1,moderate_misalignment,Kavindu Wijegunasekara,Backend Engineer (Contract)
+47.0,19464.85,11.0,0.909,43.0,6.0,8.0,0.0,0.0,0,moderate_alignment,Nimeth Nimdinu,Machine Learning Engineer (Research Track)
+9.0,2233.67,0.0,0.0,22.0,3.0,7.0,0.25,0.0,1,moderate_misalignment,Nipuna Deshan,Backend Developer (DeFi/Blockchain)
+53.0,523.89,2.0,1.0,15.0,2.0,7.0,0.0,0.0,0,moderate_alignment,Praneeth Kulathilaka,Backend Engineer (Payments)
+98.0,692.45,7.0,0.857,27.0,5.0,8.0,0.0,1.0,1,moderate_misalignment,Yasith Sarada,Full Stack Developer (React/.NET)

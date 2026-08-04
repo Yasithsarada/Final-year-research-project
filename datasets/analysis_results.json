@@ -1,0 +1,702 @@
+[
+    {
+        "record_id": 1,
+        "github_activity": 158,
+        "skills_match_score": 84.7,
+        "risk_level": "Low",
+        "overall_score": 0.0918
+    },
+    {
+        "record_id": 2,
+        "github_activity": 77,
+        "skills_match_score": 59.1,
+        "risk_level": "Low",
+        "overall_score": 0.2454
+    },
+    {
+        "record_id": 3,
+        "github_activity": 381,
+        "skills_match_score": 100.0,
+        "risk_level": "Low",
+        "overall_score": 0.0
+    },
+    {
+        "record_id": 4,
+        "github_activity": 407,
+        "skills_match_score": 66.8,
+        "risk_level": "Medium",
+        "overall_score": 0.39920000000000005
+    },
+    {
+        "record_id": 5,
+        "github_activity": 331,
+        "skills_match_score": 99.6,
+        "risk_level": "Low",
+        "overall_score": 0.002400000000000002
+    },
+    {
+        "record_id": 6,
+        "github_activity": 290,
+        "skills_match_score": 74.1,
+        "risk_level": "Low",
+        "overall_score": 0.1554
+    },
+    {
+        "record_id": 7,
+        "github_activity": 421,
+        "skills_match_score": 87.5,
+        "risk_level": "Low",
+        "overall_score": 0.275
+    },
+    {
+        "record_id": 8,
+        "github_activity": 255,
+        "skills_match_score": 54.2,
+        "risk_level": "Low",
+        "overall_score": 0.2748
+    },
+    {
+        "record_id": 9,
+        "github_activity": 302,
+        "skills_match_score": 80.4,
+        "risk_level": "Low",
+        "overall_score": 0.11759999999999997
+    },
+    {
+        "record_id": 10,
+        "github_activity": 362,
+        "skills_match_score": 87.0,
+        "risk_level": "Low",
+        "overall_score": 0.078
+    },
+    {
+        "record_id": 11,
+        "github_activity": 201,
+        "skills_match_score": 52.1,
+        "risk_level": "Low",
+        "overall_score": 0.2874
+    },
+    {
+        "record_id": 12,
+        "github_activity": 253,
+        "skills_match_score": 37.5,
+        "risk_level": "Medium",
+        "overall_score": 0.375
+    },
+    {
+        "record_id": 13,
+        "github_activity": 335,
+        "skills_match_score": 68.3,
+        "risk_level": "Low",
+        "overall_score": 0.19020000000000004
+    },
+    {
+        "record_id": 14,
+        "github_activity": 423,
+        "skills_match_score": 60.8,
+        "risk_level": "Medium",
+        "overall_score": 0.43520000000000003
+    },
+    {
+        "record_id": 15,
+        "github_activity": 323,
+        "skills_match_score": 82.0,
+        "risk_level": "Low",
+        "overall_score": 0.10800000000000003
+    },
+    {
+        "record_id": 16,
+        "github_activity": 164,
+        "skills_match_score": 62.3,
+        "risk_level": "Low",
+        "overall_score": 0.22619999999999998
+    },
+    {
+        "record_id": 17,
+        "github_activity": 310,
+        "skills_match_score": 56.8,
+        "risk_level": "Low",
+        "overall_score": 0.25920000000000004
+    },
+    {
+        "record_id": 18,
+        "github_activity": 274,
+        "skills_match_score": 66.8,
+        "risk_level": "Low",
+        "overall_score": 0.19920000000000004
+    },
+    {
+        "record_id": 19,
+        "github_activity": 212,
+        "skills_match_score": 93.5,
+        "risk_level": "Low",
+        "overall_score": 0.038999999999999965
+    },
+    {
+        "record_id": 20,
+        "github_activity": 208,
+        "skills_match_score": 65.9,
+        "risk_level": "Low",
+        "overall_score": 0.20459999999999998
+    },
+    {
+        "record_id": 21,
+        "github_activity": 107,
+        "skills_match_score": 70.5,
+        "risk_level": "Low",
+        "overall_score": 0.17700000000000002
+    },
+    {
+        "record_id": 22,
+        "github_activity": 118,
+        "skills_match_score": 60.0,
+        "risk_level": "Low",
+        "overall_score": 0.24
+    },
+    {
+        "record_id": 23,
+        "github_activity": 129,
+        "skills_match_score": 54.6,
+        "risk_level": "Low",
+        "overall_score": 0.2724
+    },
+    {
+        "record_id": 24,
+        "github_activity": 311,
+        "skills_match_score": 60.6,
+        "risk_level": "Low",
+        "overall_score": 0.2364
+    },
+    {
+        "record_id": 25,
+        "github_activity": 352,
+        "skills_match_score": 80.2,
+        "risk_level": "Low",
+        "overall_score": 0.11879999999999996
+    },
+    {
+        "record_id": 26,
+        "github_activity": 537,
+        "skills_match_score": 70.1,
+        "risk_level": "Medium",
+        "overall_score": 0.37940000000000007
+    },
+    {
+        "record_id": 27,
+        "github_activity": 335,
+        "skills_match_score": 78.7,
+        "risk_level": "Low",
+        "overall_score": 0.12779999999999997
+    },
+    {
+        "record_id": 28,
+        "github_activity": 240,
+        "skills_match_score": 52.2,
+        "risk_level": "Low",
+        "overall_score": 0.2868
+    },
+    {
+        "record_id": 29,
+        "github_activity": 657,
+        "skills_match_score": 100.0,
+        "risk_level": "Low",
+        "overall_score": 0.2
+    },
+    {
+        "record_id": 30,
+        "github_activity": 546,
+        "skills_match_score": 100.0,
+        "risk_level": "Low",
+        "overall_score": 0.2
+    },
+    {
+        "record_id": 31,
+        "github_activity": 271,
+        "skills_match_score": 69.3,
+        "risk_level": "Low",
+        "overall_score": 0.18420000000000003
+    },
+    {
+        "record_id": 32,
+        "github_activity": 58,
+        "skills_match_score": 84.7,
+        "risk_level": "Low",
+        "overall_score": 0.0918
+    },
+    {
+        "record_id": 33,
+        "github_activity": 391,
+        "skills_match_score": 86.3,
+        "risk_level": "Low",
+        "overall_score": 0.08220000000000001
+    },
+    {
+        "record_id": 34,
+        "github_activity": 443,
+        "skills_match_score": 61.5,
+        "risk_level": "Medium",
+        "overall_score": 0.431
+    },
+    {
+        "record_id": 35,
+        "github_activity": 206,
+        "skills_match_score": 72.9,
+        "risk_level": "Low",
+        "overall_score": 0.16259999999999994
+    },
+    {
+        "record_id": 36,
+        "github_activity": 496,
+        "skills_match_score": 92.8,
+        "risk_level": "Low",
+        "overall_score": 0.24320000000000006
+    },
+    {
+        "record_id": 37,
+        "github_activity": 464,
+        "skills_match_score": 88.5,
+        "risk_level": "Low",
+        "overall_score": 0.269
+    },
+    {
+        "record_id": 38,
+        "github_activity": 352,
+        "skills_match_score": 76.2,
+        "risk_level": "Low",
+        "overall_score": 0.14279999999999998
+    },
+    {
+        "record_id": 39,
+        "github_activity": 235,
+        "skills_match_score": 63.7,
+        "risk_level": "Low",
+        "overall_score": 0.2178
+    },
+    {
+        "record_id": 40,
+        "github_activity": 325,
+        "skills_match_score": 77.6,
+        "risk_level": "Low",
+        "overall_score": 0.13440000000000005
+    },
+    {
+        "record_id": 41,
+        "github_activity": 329,
+        "skills_match_score": 79.5,
+        "risk_level": "Low",
+        "overall_score": 0.12299999999999997
+    },
+    {
+        "record_id": 42,
+        "github_activity": 473,
+        "skills_match_score": 62.6,
+        "risk_level": "Medium",
+        "overall_score": 0.4244
+    },
+    {
+        "record_id": 43,
+        "github_activity": 396,
+        "skills_match_score": 72.0,
+        "risk_level": "Low",
+        "overall_score": 0.168
+    },
+    {
+        "record_id": 44,
+        "github_activity": 413,
+        "skills_match_score": 69.5,
+        "risk_level": "Medium",
+        "overall_score": 0.383
+    },
+    {
+        "record_id": 45,
+        "github_activity": 403,
+        "skills_match_score": 75.8,
+        "risk_level": "Medium",
+        "overall_score": 0.3452
+    },
+    {
+        "record_id": 46,
+        "github_activity": 450,
+        "skills_match_score": 74.4,
+        "risk_level": "Medium",
+        "overall_score": 0.3535999999999999
+    },
+    {
+        "record_id": 47,
+        "github_activity": 506,
+        "skills_match_score": 77.7,
+        "risk_level": "Medium",
+        "overall_score": 0.3338
+    },
+    {
+        "record_id": 48,
+        "github_activity": 367,
+        "skills_match_score": 69.7,
+        "risk_level": "Low",
+        "overall_score": 0.18179999999999996
+    },
+    {
+        "record_id": 49,
+        "github_activity": 424,
+        "skills_match_score": 87.5,
+        "risk_level": "Low",
+        "overall_score": 0.275
+    },
+    {
+        "record_id": 50,
+        "github_activity": 337,
+        "skills_match_score": 78.7,
+        "risk_level": "Low",
+        "overall_score": 0.12779999999999997
+    },
+    {
+        "record_id": 51,
+        "github_activity": 578,
+        "skills_match_score": 82.9,
+        "risk_level": "Medium",
+        "overall_score": 0.3026
+    },
+    {
+        "record_id": 52,
+        "github_activity": 464,
+        "skills_match_score": 66.1,
+        "risk_level": "Medium",
+        "overall_score": 0.4034000000000001
+    },
+    {
+        "record_id": 53,
+        "github_activity": 103,
+        "skills_match_score": 52.5,
+        "risk_level": "Low",
+        "overall_score": 0.285
+    },
+    {
+        "record_id": 54,
+        "github_activity": 356,
+        "skills_match_score": 100.0,
+        "risk_level": "Low",
+        "overall_score": 0.0
+    },
+    {
+        "record_id": 55,
+        "github_activity": 275,
+        "skills_match_score": 86.9,
+        "risk_level": "Low",
+        "overall_score": 0.07859999999999993
+    },
+    {
+        "record_id": 56,
+        "github_activity": 115,
+        "skills_match_score": 72.9,
+        "risk_level": "Low",
+        "overall_score": 0.16259999999999994
+    },
+    {
+        "record_id": 57,
+        "github_activity": 607,
+        "skills_match_score": 83.1,
+        "risk_level": "Medium",
+        "overall_score": 0.3014
+    },
+    {
+        "record_id": 58,
+        "github_activity": 453,
+        "skills_match_score": 85.6,
+        "risk_level": "Low",
+        "overall_score": 0.2864
+    },
+    {
+        "record_id": 59,
+        "github_activity": 117,
+        "skills_match_score": 51.5,
+        "risk_level": "Low",
+        "overall_score": 0.291
+    },
+    {
+        "record_id": 60,
+        "github_activity": 128,
+        "skills_match_score": 61.0,
+        "risk_level": "Low",
+        "overall_score": 0.23399999999999999
+    },
+    {
+        "record_id": 61,
+        "github_activity": 140,
+        "skills_match_score": 45.9,
+        "risk_level": "Medium",
+        "overall_score": 0.3246
+    },
+    {
+        "record_id": 62,
+        "github_activity": 86,
+        "skills_match_score": 83.1,
+        "risk_level": "Low",
+        "overall_score": 0.10140000000000002
+    },
+    {
+        "record_id": 63,
+        "github_activity": 190,
+        "skills_match_score": 72.7,
+        "risk_level": "Low",
+        "overall_score": 0.1638
+    },
+    {
+        "record_id": 64,
+        "github_activity": 233,
+        "skills_match_score": 73.0,
+        "risk_level": "Low",
+        "overall_score": 0.162
+    },
+    {
+        "record_id": 65,
+        "github_activity": 220,
+        "skills_match_score": 95.5,
+        "risk_level": "Low",
+        "overall_score": 0.027000000000000024
+    },
+    {
+        "record_id": 66,
+        "github_activity": 203,
+        "skills_match_score": 69.4,
+        "risk_level": "Low",
+        "overall_score": 0.18359999999999996
+    },
+    {
+        "record_id": 67,
+        "github_activity": 86,
+        "skills_match_score": 64.3,
+        "risk_level": "Low",
+        "overall_score": 0.21419999999999997
+    },
+    {
+        "record_id": 68,
+        "github_activity": 373,
+        "skills_match_score": 81.0,
+        "risk_level": "Low",
+        "overall_score": 0.11399999999999996
+    },
+    {
+        "record_id": 69,
+        "github_activity": 448,
+        "skills_match_score": 60.6,
+        "risk_level": "Medium",
+        "overall_score": 0.4364
+    },
+    {
+        "record_id": 70,
+        "github_activity": 350,
+        "skills_match_score": 77.6,
+        "risk_level": "Low",
+        "overall_score": 0.13440000000000005
+    },
+    {
+        "record_id": 71,
+        "github_activity": 101,
+        "skills_match_score": 66.2,
+        "risk_level": "Low",
+        "overall_score": 0.20279999999999998
+    },
+    {
+        "record_id": 72,
+        "github_activity": 457,
+        "skills_match_score": 74.8,
+        "risk_level": "Medium",
+        "overall_score": 0.3512
+    },
+    {
+        "record_id": 73,
+        "github_activity": 313,
+        "skills_match_score": 86.1,
+        "risk_level": "Low",
+        "overall_score": 0.0834
+    },
+    {
+        "record_id": 74,
+        "github_activity": 282,
+        "skills_match_score": 61.0,
+        "risk_level": "Low",
+        "overall_score": 0.23399999999999999
+    },
+    {
+        "record_id": 75,
+        "github_activity": 239,
+        "skills_match_score": 74.1,
+        "risk_level": "Low",
+        "overall_score": 0.1554
+    },
+    {
+        "record_id": 76,
+        "github_activity": 57,
+        "skills_match_score": 60.8,
+        "risk_level": "Low",
+        "overall_score": 0.2352
+    },
+    {
+        "record_id": 77,
+        "github_activity": 7,
+        "skills_match_score": 60.9,
+        "risk_level": "Low",
+        "overall_score": 0.2346
+    },
+    {
+        "record_id": 78,
+        "github_activity": 514,
+        "skills_match_score": 79.7,
+        "risk_level": "Medium",
+        "overall_score": 0.3218
+    },
+    {
+        "record_id": 79,
+        "github_activity": 469,
+        "skills_match_score": 59.9,
+        "risk_level": "Medium",
+        "overall_score": 0.4406
+    },
+    {
+        "record_id": 80,
+        "github_activity": 333,
+        "skills_match_score": 45.6,
+        "risk_level": "Medium",
+        "overall_score": 0.3264
+    },
+    {
+        "record_id": 81,
+        "github_activity": 371,
+        "skills_match_score": 59.1,
+        "risk_level": "Low",
+        "overall_score": 0.2454
+    },
+    {
+        "record_id": 82,
+        "github_activity": 375,
+        "skills_match_score": 71.5,
+        "risk_level": "Low",
+        "overall_score": 0.171
+    },
+    {
+        "record_id": 83,
+        "github_activity": 406,
+        "skills_match_score": 63.8,
+        "risk_level": "Medium",
+        "overall_score": 0.4172
+    },
+    {
+        "record_id": 84,
+        "github_activity": 318,
+        "skills_match_score": 70.7,
+        "risk_level": "Low",
+        "overall_score": 0.17579999999999996
+    },
+    {
+        "record_id": 85,
+        "github_activity": 517,
+        "skills_match_score": 100.0,
+        "risk_level": "Low",
+        "overall_score": 0.2
+    },
+    {
+        "record_id": 86,
+        "github_activity": 178,
+        "skills_match_score": 72.4,
+        "risk_level": "Low",
+        "overall_score": 0.16559999999999994
+    },
+    {
+        "record_id": 87,
+        "github_activity": 640,
+        "skills_match_score": 94.2,
+        "risk_level": "Low",
+        "overall_score": 0.23479999999999998
+    },
+    {
+        "record_id": 88,
+        "github_activity": 178,
+        "skills_match_score": 72.3,
+        "risk_level": "Low",
+        "overall_score": 0.16620000000000001
+    },
+    {
+        "record_id": 89,
+        "github_activity": 243,
+        "skills_match_score": 53.4,
+        "risk_level": "Low",
+        "overall_score": 0.27959999999999996
+    },
+    {
+        "record_id": 90,
+        "github_activity": 54,
+        "skills_match_score": 52.6,
+        "risk_level": "Low",
+        "overall_score": 0.2844
+    },
+    {
+        "record_id": 91,
+        "github_activity": 230,
+        "skills_match_score": 80.7,
+        "risk_level": "Low",
+        "overall_score": 0.11579999999999996
+    },
+    {
+        "record_id": 92,
+        "github_activity": 320,
+        "skills_match_score": 60.1,
+        "risk_level": "Low",
+        "overall_score": 0.2394
+    },
+    {
+        "record_id": 93,
+        "github_activity": 34,
+        "skills_match_score": 53.2,
+        "risk_level": "Low",
+        "overall_score": 0.2808
+    },
+    {
+        "record_id": 94,
+        "github_activity": 317,
+        "skills_match_score": 100.0,
+        "risk_level": "Low",
+        "overall_score": 0.0
+    },
+    {
+        "record_id": 95,
+        "github_activity": 478,
+        "skills_match_score": 72.7,
+        "risk_level": "Medium",
+        "overall_score": 0.3638
+    },
+    {
+        "record_id": 96,
+        "github_activity": 281,
+        "skills_match_score": 94.0,
+        "risk_level": "Low",
+        "overall_score": 0.03600000000000003
+    },
+    {
+        "record_id": 97,
+        "github_activity": 314,
+        "skills_match_score": 48.2,
+        "risk_level": "Medium",
+        "overall_score": 0.3108
+    },
+    {
+        "record_id": 98,
+        "github_activity": 67,
+        "skills_match_score": 57.8,
+        "risk_level": "Low",
+        "overall_score": 0.25320000000000004
+    },
+    {
+        "record_id": 99,
+        "github_activity": 276,
+        "skills_match_score": 77.4,
+        "risk_level": "Low",
+        "overall_score": 0.13559999999999997
+    },
+    {
+        "record_id": 100,
+        "github_activity": 442,
+        "skills_match_score": 78.4,
+        "risk_level": "Medium",
+        "overall_score": 0.3296
+    }
+]

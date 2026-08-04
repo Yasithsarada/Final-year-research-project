@@ -1,0 +1,452 @@
+{
+  "_id": "9fcc611a-d6f5-43f6-aeb8-8f409f3bdd08",
+  "filename": "Mahee_Kulathunga (4).pdf",
+  "uploaded_at": "2026-07-29T12:33:40.439044",
+  "entities": {
+    "full_name": "Theekshana Kulathunga",
+    "email": "theekshanakulathunga@gmail.com",
+    "phone": "+94-74 021 5318",
+    "github": "Theekshana-Kulathunga",
+    "linkedin": "Theekshana-Kulathunga",
+    "skills": [
+      "C",
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Bootstrap",
+      "JQuery",
+      "Nest.js",
+      "Express.js",
+      "Playwright",
+      "Cypress",
+      "Selenium",
+      "Jmeter",
+      "Sonarqube",
+      "Git",
+      "Docker",
+      "CI/CD",
+      "PostgreSQL",
+      "MSSQL",
+      "MySQL",
+      "AWS",
+      "OOP",
+      "Agile",
+      "Scrum",
+      "SOLID",
+      "Design Patterns"
+    ],
+    "education": [
+      {
+        "institution": "University of Moratuwa, Faculty of Information Technology",
+        "degree": "BSc (Hons) in Information Technology and Management",
+        "field_of_study": "Software Engineering, Data structures and Algorithms, Quality Assurance, Database systems",
+        "start_date": "May 2022",
+        "end_date": "Dec 2026",
+        "gpa": ""
+      },
+      {
+        "institution": "Rippon Girls College",
+        "degree": "GCE Advanced Level",
+        "field_of_study": "",
+        "start_date": "",
+        "end_date": "2020",
+        "gpa": "AAB - (District Rank - 80)"
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Sri Lanka Telecom PLC",
+        "role": "Software Engineer - Intern",
+        "start_date": "March 2025",
+        "end_date": "October 2025",
+        "description": "Developed enterprise web applications using React.js, Node.js, PostgreSQL. Internship Management System - Full-stack web application designed to streamline internal organizational onboarding and trainee tracking. Conducted machine learning research on telecom call data. Automated commission and incentive calculation workflows for the Sales Incentive Automation System (SIAS). Collaborated in agile teams to deliver scalable software solutions.",
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "PostgreSQL",
+          "Machine Learning",
+          "Agile"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Code-Mixing Analysis in English Sermons on the Dhammacakkappavattana Sutta: Final Year Research",
+        "description": "Built a RAG-based pipeline to structure and analyze sermon transcripts for linguistic and code-mixing research. Implemented semantic retrieval and LLM integration using ChromaDB, LangChain, and Gemini.",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "FastAPI",
+          "LangChain",
+          "ChromaDB",
+          "Gemini-2.5-ash",
+          "RAG",
+          "LLM"
+        ],
+        "link": ""
+      },
+      {
+        "name": "Plant Sales Management System",
+        "description": "Developed automated UI and API test suites for an enterprise plant sales platform using BDD practices. Validated role-based access control, business workflows, and REST APIs while integrating tests into CI/CD pipelines.",
+        "technologies": [
+          "Java",
+          "Playwright",
+          "Cucumber",
+          "Serenity BDD",
+          "JUnit",
+          "REST Assured",
+          "Git",
+          "Jenkins",
+          "Allure Reporting",
+          "BDD",
+          "CI/CD",
+          "REST APIs"
+        ],
+        "link": ""
+      },
+      {
+        "name": "Sales and Inventory Management System",
+        "description": "A platform that connects customers, suppliers, and the company to optimize sales and inventory management.",
+        "technologies": [
+          "React Js",
+          "React-Redux",
+          "Nest Js",
+          "PostgreSQL",
+          "Stripe",
+          "Docker"
+        ],
+        "link": ""
+      },
+      {
+        "name": "InvoixPro - Invoice Tracking System",
+        "description": "A web application that allows Company owner and the Accountants of SMEs to effective invoice management process, streamline payment reminders and enhance cash flow management.",
+        "technologies": [
+          "React Js",
+          "React-Redux",
+          "Node Js",
+          "MongoDB",
+          "Docker",
+          "CI/CD",
+          "Git-Hub Actions"
+        ],
+        "link": ""
+      },
+      {
+        "name": "Black Box for Vehicles",
+        "description": "Designed a cutting-edge black box for vehicles, leveraging aviation technology to enhance road safety and revolutionize driver monitoring.",
+        "technologies": [
+          "C language",
+          "React Js",
+          "Firebase",
+          "Atmega 32",
+          "Atmel Studio",
+          "GSM GPRS GPS",
+          "801S Vibration Sensor"
+        ],
+        "link": ""
+      },
+      {
+        "name": "Smart Bill Management System",
+        "description": "Developed a MERN-based platform to automate financial document management, inspection, and auditing. Implemented JWT authentication, RBAC, and Cloudinary integration for secure access and file management.",
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Material UI (MUI)",
+          "Cloudinary",
+          "JWT",
+          "Docker",
+          "MERN"
+        ],
+        "link": ""
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "total_years_experience": "Less than 1 year",
+    "claimed_role": "Quality Assurance Engineer"
+  },
+  "normalized_skills": [
+    {
+      "original": "C",
+      "canonical": "C",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Java",
+      "canonical": "Java",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Python",
+      "canonical": "Python",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "JavaScript",
+      "canonical": "JavaScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "TypeScript",
+      "canonical": "TypeScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "React",
+      "canonical": "React",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Next.js",
+      "canonical": "Next.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Bootstrap",
+      "canonical": "Bootstrap",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "JQuery",
+      "canonical": "JQuery",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Nest.js",
+      "canonical": "Nest.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Express.js",
+      "canonical": "Express.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Playwright",
+      "canonical": "Playwright",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Cypress",
+      "canonical": "Cypress",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Selenium",
+      "canonical": "Selenium",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Jmeter",
+      "canonical": "Jmeter",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Sonarqube",
+      "canonical": "Sonarqube",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Git",
+      "canonical": "Git",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Docker",
+      "canonical": "Docker",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "CI/CD",
+      "canonical": "CI/CD",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "PostgreSQL",
+      "canonical": "PostgreSQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "MSSQL",
+      "canonical": "MSSQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MySQL",
+      "canonical": "SQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "AWS",
+      "canonical": "AWS",
+      "category": "Cloud",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "OOP",
+      "canonical": "OOP",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Agile",
+      "canonical": "Agile",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Scrum",
+      "canonical": "Scrum",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "SOLID",
+      "canonical": "SOLID",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Design Patterns",
+      "canonical": "Design Patterns",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    }
+  ],
+  "explainability_traces": [
+    {
+      "field": "full_name",
+      "extracted_value": "Theekshana Kulathunga",
+      "raw_snippet": "... --- [Page 1] --- Theekshana Kulathunga Quality Assurance Engineer Colombo, Sri Lanka a theekshanakulathunga@gmail.com +94-74 021 5318 f Th ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "email",
+      "extracted_value": "theekshanakulathunga@gmail.com",
+      "raw_snippet": "... --- [Page 1] --- Theekshana Kulathunga Quality Assurance Engineer Colombo, Sri Lanka a theekshanakulathunga@gmail.com +94-74 021 5318 f Theekshana-Kulathunga a Theekshana-Kulathunga Professional Summary Final-year und ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "phone",
+      "extracted_value": "+94-74 021 5318",
+      "raw_snippet": "... heekshana Kulathunga Quality Assurance Engineer Colombo, Sri Lanka a theekshanakulathunga@gmail.com +94-74 021 5318 f Theekshana-Kulathunga a Theekshana-Kulathunga Professional Summary Final-year undergraduate at th ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "github",
+      "extracted_value": "Theekshana-Kulathunga",
+      "raw_snippet": "... ga Quality Assurance Engineer Colombo, Sri Lanka a theekshanakulathunga@gmail.com +94-74 021 5318 f Theekshana-Kulathunga a Theekshana-Kulathunga Professional Summary Final-year undergraduate at the University of Moratuwa ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "linkedin",
+      "extracted_value": "Theekshana-Kulathunga",
+      "raw_snippet": "... ga Quality Assurance Engineer Colombo, Sri Lanka a theekshanakulathunga@gmail.com +94-74 021 5318 f Theekshana-Kulathunga a Theekshana-Kulathunga Professional Summary Final-year undergraduate at the University of Moratuwa ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "claimed_role",
+      "extracted_value": "Quality Assurance Engineer",
+      "raw_snippet": "... --- [Page 1] --- Theekshana Kulathunga Quality Assurance Engineer Colombo, Sri Lanka a theekshanakulathunga@gmail.com +94-74 021 5318 f Theekshana-Kulathunga a Theek ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[0].institution",
+      "extracted_value": "University of Moratuwa, Faculty of Information Technology",
+      "raw_snippet": "... 023) Participant - Moraxtream 7.0 Participant - HackMoral 6.0 Participant - CodeRush 2024 Education University of Moratuwa, Faculty of Information Technology BSc (Hons) in Information Technology and Management. Major: Software Engineering, Data structures a ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[1].institution",
+      "extracted_value": "Rippon Girls College",
+      "raw_snippet": "... Engineering, Data structures and Algorithms, Quality Assurance, Database systems. May 2022 Dec 2026 Rippon Girls College, GCE Advanced Level Results: AAB - (District Rank - 80) 2020 Technologies Languages: C, Java, Pytho ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[0].company",
+      "extracted_value": "Sri Lanka Telecom PLC",
+      "raw_snippet": "... ously learning modern testing tools, automation frameworks, and industry best practices. Experience Sri Lanka Telecom PLC, Software Engineer - Intern Developed enterprise web applications using React.js, Node.js, PostgreS ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[0].name",
+      "extracted_value": "Code-Mixing Analysis in English Sermons on the Dhammacakkappavattana Sutta: Final Year Research",
+      "raw_snippet": "... e teams to deliver scalable software solutions. Colombo, Sri Lanka March 2025 October 2025 Projects Code-Mixing Analysis in English Sermons on the Dhammacakkappavattana Sutta: Final Year Research Built a RAG-based pipeline to structure and analyze sermon transcripts for linguistic and code-mixi ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[1].name",
+      "extracted_value": "Plant Sales Management System",
+      "raw_snippet": "... , LangChain, and Gemini. Tools Used: Python, Pandas, FastAPI, LangChain, ChromaDB, Gemini-2.5- ash. Plant Sales Management System Developed automated UI and API test suites for an enterprise plant sales platform using BDD practic ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[2].name",
+      "extracted_value": "Sales and Inventory Management System",
+      "raw_snippet": "... sed: Java, Playwright, Cucumber, Serenity BDD, JUnit, REST Assured, Git, Jenkins, Allure Reporting. Sales and Inventory Management System A platform that connects customers, suppliers, and the company to optimize sales and inventory mana ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[3].name",
+      "extracted_value": "InvoixPro - Invoice Tracking System",
+      "raw_snippet": "... s and inventory management. Tools Used: React Js, React-Redux, Nest Js, PostgreSQL, Stripe, Docker. InvoixPro - Invoice Tracking System A web application that allows Company owner and the Accountants of SMEs to effective invoice manage ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[4].name",
+      "extracted_value": "Black Box for Vehicles",
+      "raw_snippet": "... ls Used: React Js, React-Redux, Node Js, MongoDB, Docker, CI/CD, Git-Hub Actions.  --- [Page 2] --- Black Box for Vehicles Designed a cutting-edge black box for vehicles, leveraging aviation technology to enhance road safe ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[5].name",
+      "extracted_value": "Smart Bill Management System",
+      "raw_snippet": "... sed: C language, React Js, Firebase, Atmega 32, Atmel Studio, GSM GPRS GPS , 801S Vibration Sensor. Smart Bill Management System Developed a MERN-based platform to automate nancial document management, inspection, and auditing. ...",
+      "confidence": 1.0
+    }
+  ],
+  "confidence_score": 0.8,
+  "segmented_sections": {
+    "summary": "Final-year undergraduate at the University of Moratuwa with a strong foundation in software quality assurance, test\nautomation, and software testing methodologies. Experienced in designing and executing test cases, identifying de-\nfects, and supporting CI/CD-driven development environments to ensure reliable software delivery. Detail-oriented,\nanalytical, and proactive, with a passion for improving software quality through effective testing practices. Eager to\napply technical knowledge and problem-solving skills in a QA role while continuously learning modern testing tools,\nautomation frameworks, and industry best practices.",
+    "education": "University of Moratuwa, Faculty of Information Technology\nBSc (Hons) in Information Technology and Management.\nMajor: Software Engineering, Data structures and Algorithms, Quality Assurance,\nDatabase systems.\nMay 2022 Dec 2026\nRippon Girls College, GCE Advanced Level\nResults: AAB - (District Rank - 80)\n2020",
+    "work_experience": "Sri Lanka Telecom PLC, Software Engineer - Intern\nDeveloped enterprise web applications using React.js, Node.js, PostgreSQL.\nInternship Management System - Full-stack web application designed to stream-\nline internal organizational onboarding and trainee tracking.\nConducted machine learning research on telecom call data.\nAutomated commission and incentive calculation work ows for the Sales Incen-\ntive Automation System (SIAS).\nCollaborated in agile teams to deliver scalable software solutions.\nColombo, Sri Lanka\nMarch 2025 October 2025",
+    "projects": "Code-Mixing Analysis in English Sermons on the Dhammacakkappavattana Sutta: Final Year Research\nBuilt a RAG-based pipeline to structure and analyze sermon transcripts for linguistic and code-mixing research.\nImplemented semantic retrieval and LLM integration using ChromaDB, LangChain, and Gemini.\nTools Used: Python, Pandas, FastAPI, LangChain, ChromaDB, Gemini-2.5- ash.\nPlant Sales Management System\nDeveloped automated UI and API test suites for an enterprise plant sales platform using BDD practices.\nValidated role-based access control, business work ows, and REST APIs while integrating tests into CI/CD pipelines.\nTools Used: Java, Playwright, Cucumber, Serenity BDD, JUnit, REST Assured, Git, Jenkins, Allure Reporting.\nSales and Inventory Management System\nA platform that connects customers, suppliers, and the company to optimize sales and inventory management.\nTools Used: React Js, React-Redux, Nest Js, PostgreSQL, Stripe, Docker.\nInvoixPro - Invoice Tracking System\nA web application that allows Company owner and the Accountants of SMEs to effective invoice management pro-\ncess, streamline payment reminders and enhance cash ow management.\nTools Used: React Js, React-Redux, Node Js, MongoDB, Docker, CI/CD, Git-Hub Actions.\n--- [Page 2] ---\nBlack Box for Vehicles\nDesigned a cutting-edge black box for vehicles, leveraging aviation technology to enhance road safety and revo-\nlutionize driver monitoring.\nTools Used: C language, React Js, Firebase, Atmega 32, Atmel Studio, GSM GPRS GPS , 801S Vibration Sensor.\nSmart Bill Management System\nDeveloped a MERN-based platform to automate nancial document management, inspection, and auditing.\nImplemented JWT authentication, RBAC, and Cloudinary integration for secure access and le management.\nTools Used: React.js, Node.js, Express.js, MongoDB, Material UI (MUI), Cloudinary, JWT , Docker.\nExtra-Curricular Activities\nMember - Leo Club (University of Moratuwa)\nProject Coordinator - Project Peraman Thanamu (2022)\nMember - Project Shilpasara (2023)\nSchool Coordinator - IEEE Gammedda (2023)\nParticipant - Moraxtream 7.0\nParticipant - HackMoral 6.0\nParticipant - CodeRush 2024",
+    "languages": "Frameworks/Frontend:React, Next.js, Bootstrap, JQuery\nFrameworks/Backend: Nest.js, Express.js\nQA Tools:Playwright, Cypress, Selenium, Jmeter, Sonar-\nqube\nDevOps/API Tools: Git, Docker, CI/CD\nDatabases/Vector: PostgreSQL, MSSQL, MySQL\nCloud/Infra: AWS\nSoftware Development Practices:Object-Oriented Pro-\ngramming (OOP), Agile (Scrum), SOLID, Design Patterns\nReferences\nProf.(Ms) T .C. Sandanayake,\nDean - Faculty of Information Technology,\nFaculty of Information Technology,\nUniversity of Moratuwa, Sri Lanka.\nMobile: +94 71 764 6462\nMrs. L. Nipuni Dananja,\nSenior Consultant,\nVirtusa Pvt Ltd,\nColombo, Sri Lanka.\nMobile: +94 77 938 2478",
+    "header_contact": "--- [Page 1] ---\nTheekshana Kulathunga\nQuality Assurance Engineer\nColombo, Sri Lanka\na theekshanakulathunga@gmail.com +94-74 021 5318 f Theekshana-Kulathunga\na Theekshana-Kulathunga"
+  },
+  "validation_report": {
+    "email_verified": true,
+    "phone_verified": true,
+    "github_verified": false,
+    "linkedin_verified": false,
+    "date_anomalies_detected": false,
+    "anomalies": []
+  }
+}

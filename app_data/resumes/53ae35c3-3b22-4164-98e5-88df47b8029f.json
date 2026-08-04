@@ -1,0 +1,456 @@
+{
+  "_id": "53ae35c3-3b22-4164-98e5-88df47b8029f",
+  "filename": "Nipuna.pdf",
+  "uploaded_at": "2026-07-29T12:35:12.616920",
+  "entities": {
+    "full_name": "Nipuna Deshan",
+    "email": "nipunadeshanhp@gmail.com",
+    "phone": "+94 776552898",
+    "github": "github.com/DeshanHiripitiya",
+    "linkedin": "linkedin.com/in/nipuna.deshan",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "Solidity",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Docker",
+      "Git",
+      "npm Package Development",
+      "npm Publishing",
+      "MSSQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Ethereum",
+      "Uniswap",
+      "Smart Contracts",
+      "Playwright",
+      "Cucumber.js",
+      "API Testing",
+      "Behavior-Driven Development (BDD)",
+      "Page Object Model (POM)",
+      "REST APIs",
+      "Microservices",
+      "System Design",
+      "Software Quality Assurance",
+      "Problem Solving",
+      "Critical Thinking",
+      "Client Engagement",
+      "Teamwork",
+      "Leadership"
+    ],
+    "education": [
+      {
+        "institution": "University of Moratuwa",
+        "degree": "BSc (Hons) in Information Technology",
+        "field_of_study": "Information Technology, Software Engineering, Artificial Intelligence",
+        "start_date": "Jun 2022",
+        "end_date": "Jun 2026",
+        "gpa": "3.20/4.0"
+      },
+      {
+        "institution": "Eheliyagoda National College",
+        "degree": "null",
+        "field_of_study": "Physical Science Stream",
+        "start_date": "Mar 2018",
+        "end_date": "Oct 2020",
+        "gpa": "null"
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Spera Labs",
+        "role": "Associate Software Engineer",
+        "start_date": "Sep 2025",
+        "end_date": "Mar 2026",
+        "description": "Developed core features for the Sendr DeFi exchange, including liquidity pool creation, token swapping, Uniswap integration, real-time services (WebSocket, ZeroMQ), and robust blockchain event listeners with monitoring, logging, and rate limiting. Built and published two npm packages (Web3 Deposit Sync & Web3 Deposit Detect) using TypeScript for real-time blockchain transaction monitoring, detection, and filtering. Contributed to an internal HRM system by implementing frontend and backend features such as authentication, role-based access control, database backup, and file synchronization.",
+        "technologies": [
+          "Node.js",
+          "React",
+          "MongoDB",
+          "Redis",
+          "Solidity",
+          "Ethereum",
+          "TypeScript",
+          "WebSocket",
+          "ZeroMQ"
+        ]
+      },
+      {
+        "company": "Spera Labs",
+        "role": "Intern Software Engineer",
+        "start_date": "Mar 2025",
+        "end_date": "Sep 2025",
+        "description": "Contributed to the development of PAB, a social media platform for book readers, implementing friend management, real-time chat, referral & rewards system, news/events, and club management features. Implemented a reliable database backup system integrated with Google Drive. Developed user features including profile picture uploads and user promotion systems. Contributed to DeFi Exchange Application (Sendr) by working on core backend functionalities using Node.js and MongoDB.",
+        "technologies": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Solidity",
+          "Ethereum"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sendr - DeFi Exchange Application",
+        "description": "DeFi Exchange Application by working on core backend functionalities using Node.js and MongoDB. Developed key features for a DeFi Exchange platform. Including liquidity pool creation, token swapping, and Uniswap integration. Built real-time services using WebSocket and ZeroMQ-based IPC communication. Implemented blockchain event listeners for smart contracts and Uniswap, along with rate limiting, logging, monitoring, and heartbeat mechanisms for system stability.",
+        "technologies": [
+          "Node.js",
+          "MongoDB",
+          "Redis",
+          "Solidity",
+          "Ethereum",
+          "TypeScript",
+          "WebSocket",
+          "ZeroMQ"
+        ],
+        "link": "null"
+      },
+      {
+        "name": "Pick a Book - Social Media Platform for Book Readers",
+        "description": "A social media platform for book readers, implementing friend management, real-time chat, referral & rewards system, news/events, and club management features. Implemented a reliable database backup system integrated with Google Drive. Developed user features including profile picture uploads and user promotion systems.",
+        "technologies": [
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "link": "null"
+      },
+      {
+        "name": "Studio Management System",
+        "description": "Mentored: Optimize Solutions Pvt Ltd. Developed Super Admin functionalities including admin management and system-wide user oversight. Implemented profile management features for administrators, enabling account updates and role-based access control. Built secure authentication and authorization mechanisms for all user types. Developed login, forgot password, and password reset functionalities with secure user verification workflows.",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Express.js",
+          "MSSQL"
+        ],
+        "link": "null"
+      },
+      {
+        "name": "Plant Management System QA Automation Framework",
+        "description": "Developed a scalable automated testing framework for a E-commerce System covering both UI and backend API testing. Implemented End-to-End (E2E) test automation for inventory management, category handling, authentication, and sales workflows across Admin and User roles. Applied Behavior-Driven Development (BDD) using Cucumber.js and Gherkin syntax to create readable and maintainable test scenarios. Utilized the Page Object Model (POM) design pattern with Playwright to improve test maintainability and reusability. Integrated API validations and automated form validation testing to ensure data integrity and business logic reliability.",
+        "technologies": [
+          "Node.js",
+          "Playwright",
+          "Cucumber.js",
+          "JavaScript"
+        ],
+        "link": "null"
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "total_years_experience": "1 year 2 months",
+    "claimed_role": "Fullstack & Blockchain Developer"
+  },
+  "normalized_skills": [
+    {
+      "original": "JavaScript",
+      "canonical": "JavaScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "TypeScript",
+      "canonical": "TypeScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Python",
+      "canonical": "Python",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Java",
+      "canonical": "Java",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Solidity",
+      "canonical": "Solidity",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "React",
+      "canonical": "React",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Node.js",
+      "canonical": "Node.js",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Express.js",
+      "canonical": "Express.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Docker",
+      "canonical": "Docker",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Git",
+      "canonical": "Git",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "npm Package Development",
+      "canonical": "npm Package Development",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "npm Publishing",
+      "canonical": "npm Publishing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MSSQL",
+      "canonical": "MSSQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "PostgreSQL",
+      "canonical": "PostgreSQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "MongoDB",
+      "canonical": "MongoDB",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Redis",
+      "canonical": "Redis",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Ethereum",
+      "canonical": "Ethereum",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Uniswap",
+      "canonical": "Uniswap",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Smart Contracts",
+      "canonical": "Smart Contracts",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Playwright",
+      "canonical": "Playwright",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Cucumber.js",
+      "canonical": "Cucumber.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "API Testing",
+      "canonical": "API Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Behavior-Driven Development (BDD)",
+      "canonical": "Behavior-Driven Development (BDD)",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Page Object Model (POM)",
+      "canonical": "Page Object Model (POM)",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "REST APIs",
+      "canonical": "REST APIs",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Microservices",
+      "canonical": "Microservices",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "System Design",
+      "canonical": "System Design",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Software Quality Assurance",
+      "canonical": "Software Quality Assurance",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Problem Solving",
+      "canonical": "Problem Solving",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Critical Thinking",
+      "canonical": "Critical Thinking",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Client Engagement",
+      "canonical": "Client Engagement",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Teamwork",
+      "canonical": "Teamwork",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Leadership",
+      "canonical": "Leadership",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    }
+  ],
+  "explainability_traces": [
+    {
+      "field": "full_name",
+      "extracted_value": "Nipuna Deshan",
+      "raw_snippet": "... --- [Page 1] --- Nipuna Deshan Phone-Alt+94 776552898 | Envelopenipunadeshanhp@gmail.com | LINKEDINlinkedin.com/in/nipuna.deshan | ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "email",
+      "extracted_value": "nipunadeshanhp@gmail.com",
+      "raw_snippet": "... --- [Page 1] --- Nipuna Deshan Phone-Alt+94 776552898 | Envelopenipunadeshanhp@gmail.com | LINKEDINlinkedin.com/in/nipuna.deshan | Githubgithub.com/DeshanHiripitiya | GLOBEportfolio-nipuna ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "phone",
+      "extracted_value": "+94 776552898",
+      "raw_snippet": "... --- [Page 1] --- Nipuna Deshan Phone-Alt+94 776552898 | Envelopenipunadeshanhp@gmail.com | LINKEDINlinkedin.com/in/nipuna.deshan | Githubgithub.com/Desha ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "github",
+      "extracted_value": "github.com/DeshanHiripitiya",
+      "raw_snippet": "... Alt+94 776552898 | Envelopenipunadeshanhp@gmail.com | LINKEDINlinkedin.com/in/nipuna.deshan | Githubgithub.com/DeshanHiripitiya | GLOBEportfolio-nipuna | Map-marker-altMoratuwa, Sri Lanka PROFESSIONAL SUMMARY Results-driven nal ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "linkedin",
+      "extracted_value": "linkedin.com/in/nipuna.deshan",
+      "raw_snippet": "... --- [Page 1] --- Nipuna Deshan Phone-Alt+94 776552898 | Envelopenipunadeshanhp@gmail.com | LINKEDINlinkedin.com/in/nipuna.deshan | Githubgithub.com/DeshanHiripitiya | GLOBEportfolio-nipuna | Map-marker-altMoratuwa, Sri Lanka PRO ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "claimed_role",
+      "extracted_value": "Fullstack & Blockchain Developer",
+      "raw_snippet": "... cience Stream Eheliyagoda, Sri Lanka  --- [Page 2] --- PROJECTS Sendr - DeFi Exchange Application | Fullstack & Blockchain Developer jun 2025 jan 2026 DeFi Exchange Application by working on core backend functionalities using Node.j ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[0].institution",
+      "extracted_value": "University of Moratuwa",
+      "raw_snippet": "... -marker-altMoratuwa, Sri Lanka PROFESSIONAL SUMMARY Results-driven nal-year IT undergraduate at the University of Moratuwa, specializing in Software Engineering and Arti cial Intelligence, with hands-on industry experience ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[1].institution",
+      "extracted_value": "Eheliyagoda National College",
+      "raw_snippet": "... Moratuwa Jun 2022 Jun 2026 BSc (Hons) in Information T echnology Moratuwa, Sri Lanka CGPA: 3.20/4.0 Eheliyagoda National College Mar 2018 Oct 2020 Physical Science Stream Eheliyagoda, Sri Lanka  --- [Page 2] --- PROJECTS Sendr - ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[0].company",
+      "extracted_value": "Spera Labs",
+      "raw_snippet": "... oft Skills: Problem Solving, Critical Thinking, Client Engagement, T eamwork, Leadership EXPERIENCE Spera Labs Sep 2025 Mar 2026 Associate Software Engineer Moratuwa, Sri Lanka Developed core features for the S ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[1].company",
+      "extracted_value": "Spera Labs",
+      "raw_snippet": "... oft Skills: Problem Solving, Critical Thinking, Client Engagement, T eamwork, Leadership EXPERIENCE Spera Labs Sep 2025 Mar 2026 Associate Software Engineer Moratuwa, Sri Lanka Developed core features for the S ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[0].name",
+      "extracted_value": "Sendr - DeFi Exchange Application",
+      "raw_snippet": "... College Mar 2018 Oct 2020 Physical Science Stream Eheliyagoda, Sri Lanka  --- [Page 2] --- PROJECTS Sendr - DeFi Exchange Application | Fullstack & Blockchain Developer jun 2025 jan 2026 DeFi Exchange Application by working on core b ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[1].name",
+      "extracted_value": "Pick a Book - Social Media Platform for Book Readers",
+      "raw_snippet": "... stability. T ech Stack: Node.js, MongoDB, Redis, Solidity, Ethereum, T ypeScript, WebSocket, ZeroMQ Pick a Book - Social Media Platform for Book Readers | Fullstack Developer Jan 2026 Mar 2026 A social media platform for book readers, implementing frie ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[2].name",
+      "extracted_value": "Studio Management System",
+      "raw_snippet": "... luding pro le picture uploads and user promotion systems. T ech Stack: Node.js, Express.js, MongoDB Studio Management System | T eam Lead - Fullstack Developer Sep 2024 Dec 2024 Mentored: Optimize Solutions Pvt Ltd. Develope ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[3].name",
+      "extracted_value": "Plant Management System QA Automation Framework",
+      "raw_snippet": "... nctionalities with secure user veri cation work ows. T ech Stack: React, Node.js, Express.js, MSSQL Plant Management System QA Automation Framework | QA Automation Engineer 2025 Developed a scalable automated testing framework for a E-commerce Sys ...",
+      "confidence": 1.0
+    }
+  ],
+  "confidence_score": 0.9,
+  "segmented_sections": {
+    "summary": "Results-driven nal-year IT undergraduate at the University of Moratuwa, specializing in Software Engineering and Arti cial\nIntelligence, with hands-on industry experience. Pro cient in full-stack development and building scalable, maintainable\nsystems, with a strong focus on applying AI-driven solutions to real-world problems.",
+    "education": "University of Moratuwa Jun 2022 Jun 2026\nBSc (Hons) in Information T echnology Moratuwa, Sri Lanka\nCGPA: 3.20/4.0\nEheliyagoda National College Mar 2018 Oct 2020\nPhysical Science Stream Eheliyagoda, Sri Lanka\n--- [Page 2] ---",
+    "work_experience": "Spera Labs Sep 2025 Mar 2026\nAssociate Software Engineer Moratuwa, Sri Lanka\nDeveloped core features for the Sendr DeFi exchange, including liquidity pool creation, token swapping, Uniswap\nintegration, real-time services (WebSocket, ZeroMQ), and robust blockchain event listeners with monitoring, logging,\nand rate limiting\nBuilt and published two npm packages (Web3 Deposit Sync & Web3 Deposit Detect) using T ypeScript for real-time\nblockchain transaction monitoring, detection, and ltering\nContributed to an internal HRM system by implementing frontend and backend features such as authentication,\nrole-based access control, database backup, and le synchronization\nT ech Stack: Node.js, React, MongoDB, Redis, Solidity, Ethereum, T ypeScript, WebSocket, ZeroMQ\nSpera Labs Mar 2025 Sep 2025\nIntern Software Engineer Moratuwa, Sri Lanka\nContributed to the development of PAB, a social media platform for book readers, implementing friend management,\nreal-time chat, referral & rewards system, news/events, and club management features\nImplemented a reliable database backup system integrated with Google Drive\nDeveloped user features including pro le picture uploads and user promotion systems\nContributed to DeFi Exchange Application (Sendr) by working on core backend functionalities using Node.js and\nMongoDB\nT ech Stack: Node.js, Express.js, MongoDB, Solidity, Ethereum",
+    "skills": "Programming Languages: JavaScript, T ypeScript, Python, Java, Solidity\nFrameworks & Libraries: React, Node.js, Express.js\nDevOps & Tools: Docker, Git, npm Package Development & Publishing\nDatabases: MSSQL, PostgreSQL, MongoDB, Redis\nBlockchain & Web3: Ethereum, Solidity, Uniswap, Smart Contracts\nQA & Testing: Playwright, Cucumber.js, API T esting, Behavior-Driven Development (BDD), Page Object Model (POM)\nConcepts: REST APIs, Microservices, System Design, Software Quality Assurance\nSoft Skills: Problem Solving, Critical Thinking, Client Engagement, T eamwork, Leadership",
+    "projects": "Sendr - DeFi Exchange Application | Fullstack & Blockchain Developer jun 2025 jan 2026\nDeFi Exchange Application by working on core backend functionalities using Node.js and MongoDB.\nDeveloped key features for a DeFi Exchange platform.\nIncluding liquidity pool creation, token swapping, and Uniswap integration.\nBuilt real-time services using WebSocket and ZeroMQ-based IPC communication.\nImplemented blockchain event listeners for smart contracts and Uniswap, along with rate limiting, logging,\nmonitoring, and heartbeat mechanisms for system stability.\nT ech Stack: Node.js, MongoDB, Redis, Solidity, Ethereum, T ypeScript, WebSocket, ZeroMQ\nPick a Book - Social Media Platform for Book Readers | Fullstack Developer Jan 2026 Mar 2026\nA social media platform for book readers, implementing friend management, real-time chat, referral & rewards\nsystem, news/events, and club management features\nImplemented a reliable database backup system integrated with Google Drive.\nDeveloped user features including pro le picture uploads and user promotion systems.\nT ech Stack: Node.js, Express.js, MongoDB\nStudio Management System | T eam Lead - Fullstack Developer Sep 2024 Dec 2024\nMentored: Optimize Solutions Pvt Ltd.\nDeveloped Super Admin functionalities including admin management and system-wide user oversight.\nImplemented pro le management features for administrators, enabling account updates and role-based access\ncontrol.\nBuilt secure authentication and authorization mechanisms for all user types.\nDeveloped login, forgot password, and password reset functionalities with secure user veri cation work ows.\nT ech Stack: React, Node.js, Express.js, MSSQL\nPlant Management System QA Automation Framework | QA Automation Engineer 2025\nDeveloped a scalable automated testing framework for a E-commerce System covering both UI and backend API\ntesting.\nImplemented End-to-End (E2E) test automation for inventory management, category handling, authentication, and\nsales work ows across Admin and User roles.\nApplied Behavior-Driven Development (BDD) using Cucumber.js and Gherkin syntax to create readable and\nmaintainable test scenarios.\nUtilized the Page Object Model (POM) design pattern with Playwright to improve test maintainability and reusability.\nIntegrated API validations and automated form validation testing to ensure data integrity and business logic reliability.\nT ech Stack: Node.js, Playwright, Cucumber.js, JavaScript",
+    "certifications": "HackX - University of Kelaniya Finalist (Top 10) SLIOT - University of Moratuwa Finalist (Top 10)\nREFERENCES\nMr. Dilumika Navodya Lecturer, Faculty of IT , UoM\n+94 77 584 1591 | dilumikan@uom.lk\nMenaka Lakshan T ech Lead, Spera Labs\n+94 71 516 7903 | menaka@speralabs.com",
+    "header_contact": "--- [Page 1] ---\nNipuna Deshan\nPhone-Alt+94 776552898 | Envelopenipunadeshanhp@gmail.com |\nLINKEDINlinkedin.com/in/nipuna.deshan | Githubgithub.com/DeshanHiripitiya |\nGLOBEportfolio-nipuna | Map-marker-altMoratuwa, Sri Lanka"
+  },
+  "validation_report": {
+    "email_verified": true,
+    "phone_verified": true,
+    "github_verified": true,
+    "linkedin_verified": false,
+    "date_anomalies_detected": false,
+    "anomalies": []
+  }
+}

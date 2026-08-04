@@ -1,0 +1,14 @@
+{
+  "_id": "ecad8ae4-4afd-4c74-b7d0-b71202e78099",
+  "candidate_id": null,
+  "filename": "Software Engineer Interview.m4a",
+  "status": "FAILED",
+  "created_at": "2026-06-10T08:28:22.407606",
+  "finished_at": "2026-06-10T08:28:28.957816",
+  "raw_transcript": null,
+  "cleaned_transcript": null,
+  "claims": null,
+  "explainability_report": [],
+  "comparisons": {},
+  "error": "Transcription failed: Unable to allocate 244. MiB for an array with shape (1, 79600, 201) and data type complex128"
+}

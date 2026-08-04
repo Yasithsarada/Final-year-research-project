@@ -10,6 +10,10 @@ class Settings(BaseSettings):
     # API Configuration
     OPENAI_API_KEY: Optional[str] = ""
     GEMINI_API_KEY: Optional[str] = ""
+    GITHUB_TOKEN: Optional[str] = ""
+    
+    # SCA Configuration
+    SONARQUBE_URL: str = "http://localhost:9000"
 
     # Database Configuration
     DB_TYPE: str = "local"  # 'mongodb' or 'local'
@@ -20,6 +24,14 @@ class Settings(BaseSettings):
     SKILL_SIMILARITY_THRESHOLD: float = 0.75
     SPACY_MODEL: str = "en_core_web_sm"
     EMBEDDING_MODEL: str = "all-MiniLM-L6-v2"
+    
+    # Celery & Redis Configuration
+    REDIS_URL: str = "redis://localhost:6379/0"
+    
+    # Whisper Configuration
+    WHISPER_MODEL: str = "base"
+    WHISPER_DEVICE: str = "cpu"
+    WHISPER_COMPUTE_TYPE: str = "float32"
 
     # API Settings
     HOST: str = "127.0.0.1"

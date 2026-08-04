@@ -1,0 +1,1816 @@
+ID,Name,Role,GitHub_URL,Transcript,Resume,GitHub_Evidence,Case_Type,Is_Fraud
+irush501,Irushi Silva,Associate QA Engineer,https://github.com/IruSilva,"Simulated interview for Irushi Silva applying for the role of Associate QA Engineer:
+
+Interviewer: Irushi, what's on your GitHub?
+
+Irushi Silva: Not much, seven repositories. The one that matters is the plant sales automation framework from university: Java, Selenium WebDriver with Cucumber, REST Assured for the API cases, and I added a SonarCloud pipeline to it. If you look at the commit messages you'll see the framework scaffolding, the data-driven category tests and the API step definitions.
+
+Interviewer: Only twelve commits, though.
+
+Irushi Silva: Yes. I work locally and push at milestones, so each commit is huge, four thousand lines in some cases because the initial framework push included the whole page object layer and the config. It's not a habit I'd defend, it just reflects how I worked on a solo assignment.
+
+Interviewer: No pull requests anywhere.
+
+Irushi Silva: None on GitHub. My internship work was on the company's GitLab, where I did use commit checks and their CI. So the review history exists, just not on the profile you're looking at.
+
+Interviewer: Your Playwright work doesn't appear publicly either.
+
+Irushi Silva: That's the Kassie stock take module at Eleos Web, JavaScript with Playwright and Page Object Model, JSON test data. It's their code, it's on their GitLab. That's also why my public languages are Java and TypeScript with no JavaScript, which looks odd against my CV until you know where the Playwright work lives.
+
+Interviewer: Experience and certifications?
+
+Irushi Silva: One year, February 2025 to January 2026, as a QA intern. ISTQB Foundation v4.0 in October 2025 and the Mobile Application Testing specialist in March 2026. Both are on the CV with certificate numbers.
+
+Interviewer: Any open-source following?
+
+Irushi Silva: None at all. Zero stars, no followers. It's coursework, not a project.","Irushi Silva - Associate QA Engineer
+GitHub: github.com/IruSilva | LinkedIn: irushi-silva-9930 | Kandana, Sri Lanka
+
+SUMMARY
+ISTQB CTFL and CT-MAT certified QA professional with one year of hands-on QA internship experience across POS, iPad POS, web dashboard, e-commerce and inventory products.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+Eleos Web Pvt. Ltd. - Software Quality Assurance Intern, Feb 2025 - Jan 2026
+- Supported test planning by reviewing requirements, workflows, validation rules and API specifications; designed and maintained scenarios and cases with positive, negative and edge-case coverage
+- Executed manual functional, regression, system integration, UI/web, desktop POS, iPad POS, smoke, exploratory and release-validation testing across demo and live environments
+- Tested REST APIs and JSON responses with Postman; performed basic SQL/PostgreSQL verification, Shopify order-flow validation and REST-to-GraphQL checks
+- Reproduced, logged, tracked, retested and verified Jira defects through resolution
+- Developed reusable data-driven Playwright tests using Page Object Model; supported GitLab commit checks and CI/CD
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, expected Jul 2026, GPA 3.51
+
+CERTIFICATIONS
+- ISTQB Certified Tester Foundation Level (CTFL, Core) v4.0, Oct 2025
+- ISTQB Certified Tester Mobile Application Testing (CT-MAT, Specialist), Mar 2026
+
+PROJECTS
+- Plant Sales Management App UI and API test automation (University of Moratuwa) - Selenium WebDriver, Java, Cucumber BDD, REST Assured, Swagger UI
+- Kassie Dashboard Stock Take Module test automation (Eleos Web) - JavaScript, Playwright, Page Object Model, JSON, GitLab, CI/CD","GitHub MSR evidence for github.com/IruSilva: {""profile_resolved"": true, ""total_commits"": 12, ""frequency_per_week"": 2.0, ""average_commit_size_lines"": 4279.5, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 7, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 0, ""primary_languages"": {""Java"": 3, ""TypeScript"": 2, ""C++"": 1}, ""sample_commit_messages"": [""Feat: Initialize UI/API automation framework and add config management (Page ...)"", ""Refactor category tests with data-driven UI automation"", ""Updated category API StepDefinitions"", ""Add SonarCloud CI pipeline""]}",strong_alignment,0
+irush502,Irushi Silva,QA Automation Engineer,https://github.com/IruSilva,"Simulated interview for Irushi Silva applying for the role of QA Automation Engineer:
+
+Interviewer: How much have you automated?
+
+Irushi Silva: Hundreds of tests.
+
+Interviewer: Hundreds? Your public history is twelve commits.
+
+Irushi Silva: Sorry, I mean test cases and scenarios, not commits. The two aren't the same and I should have been clearer. Across the university framework and the Kassie stock take module I'd say a few hundred scenarios, counting data-driven variations of the same flow, which inflates the number. Distinct workflows, maybe forty or fifty.
+
+Interviewer: And your commit pattern?
+
+Irushi Silva: Bad, honestly. Twelve commits with an average of several thousand lines each. I build offline and push when a slice works. On a team I'd have to change that.
+
+Interviewer: You describe yourself as strong in CI/CD.
+
+Irushi Silva: I'd downgrade that to exposure. I added a SonarCloud pipeline to my own repo and I supported commit checks and release validation on GitLab at Eleos, but I've never designed a pipeline for a team.
+
+Interviewer: You list GraphQL.
+
+Irushi Silva: That's from REST-to-GraphQL verification on the dashboard modules. I checked responses, I haven't written a schema or a resolver. It probably shouldn't sit next to Postman and SQL as though they're the same depth.
+
+Interviewer: What about mobile automation, given the CT-MAT certificate?
+
+Irushi Silva: The certificate is real and recent. The mobile work was manual, iPad POS testing. I have not automated a mobile suite, and the certificate doesn't change that.","Irushi Silva - Associate QA Engineer
+GitHub: github.com/IruSilva | LinkedIn: irushi-silva-9930 | Kandana, Sri Lanka
+
+SUMMARY
+ISTQB CTFL and CT-MAT certified QA professional with one year of hands-on QA internship experience across POS, iPad POS, web dashboard, e-commerce and inventory products.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+Eleos Web Pvt. Ltd. - Software Quality Assurance Intern, Feb 2025 - Jan 2026
+- Supported test planning by reviewing requirements, workflows, validation rules and API specifications; designed and maintained scenarios and cases with positive, negative and edge-case coverage
+- Executed manual functional, regression, system integration, UI/web, desktop POS, iPad POS, smoke, exploratory and release-validation testing across demo and live environments
+- Tested REST APIs and JSON responses with Postman; performed basic SQL/PostgreSQL verification, Shopify order-flow validation and REST-to-GraphQL checks
+- Reproduced, logged, tracked, retested and verified Jira defects through resolution
+- Developed reusable data-driven Playwright tests using Page Object Model; supported GitLab commit checks and CI/CD
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, expected Jul 2026, GPA 3.51
+
+CERTIFICATIONS
+- ISTQB Certified Tester Foundation Level (CTFL, Core) v4.0, Oct 2025
+- ISTQB Certified Tester Mobile Application Testing (CT-MAT, Specialist), Mar 2026
+
+PROJECTS
+- Plant Sales Management App UI and API test automation (University of Moratuwa) - Selenium WebDriver, Java, Cucumber BDD, REST Assured, Swagger UI
+- Kassie Dashboard Stock Take Module test automation (Eleos Web) - JavaScript, Playwright, Page Object Model, JSON, GitLab, CI/CD","GitHub MSR evidence for github.com/IruSilva: {""profile_resolved"": true, ""total_commits"": 12, ""frequency_per_week"": 2.0, ""average_commit_size_lines"": 4279.5, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 7, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 0, ""primary_languages"": {""Java"": 3, ""TypeScript"": 2, ""C++"": 1}, ""sample_commit_messages"": [""Feat: Initialize UI/API automation framework and add config management (Page ...)"", ""Refactor category tests with data-driven UI automation"", ""Updated category API StepDefinitions"", ""Add SonarCloud CI pipeline""]}",partial_alignment,0
+irush503,Irushi Silva,Senior SDET,https://github.com/IruSilva,"Simulated interview for Irushi Silva applying for the role of Senior SDET:
+
+Interviewer: Tell me about your automation footprint.
+
+Irushi Silva: I maintain an open-source test automation framework. It has contributors, it's forked by a few teams, and I review their pull requests.
+
+Interviewer: Your GitHub has seven repositories, zero stars, zero forks, zero followers and zero pull requests.
+
+Irushi Silva: The metrics don't capture private forks inside companies.
+
+Interviewer: How often do you commit?
+
+Irushi Silva: Every day, several times. I'd guess two hundred plus commits in the last year.
+
+Interviewer: The scan shows twelve commits, averaging over four thousand lines each.
+
+Irushi Silva: That must be counting merged squashes rather than individual commits.
+
+Interviewer: Which language dominates your repositories?
+
+Irushi Silva: JavaScript, easily. Playwright is my main tool so nearly everything is JavaScript.
+
+Interviewer: Your public languages are Java, TypeScript and C++. There is no JavaScript at all.
+
+Irushi Silva: Playwright projects get detected as TypeScript sometimes.
+
+Interviewer: How long have you worked in QA?
+
+Irushi Silva: Coming up to three years across POS and e-commerce products.
+
+Interviewer: Your CV states one year, a single internship from February 2025 to January 2026.
+
+Irushi Silva: The CV counts the internship only. I was freelancing on test automation before that.
+
+Interviewer: And your ISTQB level?
+
+Irushi Silva: Advanced, Test Analyst.
+
+Interviewer: The CV lists Foundation and the Mobile Application Testing specialist, with certificate numbers.
+
+Irushi Silva: I sat the Advanced afterwards.","Irushi Silva - Associate QA Engineer
+GitHub: github.com/IruSilva | LinkedIn: irushi-silva-9930 | Kandana, Sri Lanka
+
+SUMMARY
+ISTQB CTFL and CT-MAT certified QA professional with one year of hands-on QA internship experience across POS, iPad POS, web dashboard, e-commerce and inventory products.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+Eleos Web Pvt. Ltd. - Software Quality Assurance Intern, Feb 2025 - Jan 2026
+- Supported test planning by reviewing requirements, workflows, validation rules and API specifications; designed and maintained scenarios and cases with positive, negative and edge-case coverage
+- Executed manual functional, regression, system integration, UI/web, desktop POS, iPad POS, smoke, exploratory and release-validation testing across demo and live environments
+- Tested REST APIs and JSON responses with Postman; performed basic SQL/PostgreSQL verification, Shopify order-flow validation and REST-to-GraphQL checks
+- Reproduced, logged, tracked, retested and verified Jira defects through resolution
+- Developed reusable data-driven Playwright tests using Page Object Model; supported GitLab commit checks and CI/CD
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, expected Jul 2026, GPA 3.51
+
+CERTIFICATIONS
+- ISTQB Certified Tester Foundation Level (CTFL, Core) v4.0, Oct 2025
+- ISTQB Certified Tester Mobile Application Testing (CT-MAT, Specialist), Mar 2026
+
+PROJECTS
+- Plant Sales Management App UI and API test automation (University of Moratuwa) - Selenium WebDriver, Java, Cucumber BDD, REST Assured, Swagger UI
+- Kassie Dashboard Stock Take Module test automation (Eleos Web) - JavaScript, Playwright, Page Object Model, JSON, GitLab, CI/CD","GitHub MSR evidence for github.com/IruSilva: {""profile_resolved"": true, ""total_commits"": 12, ""frequency_per_week"": 2.0, ""average_commit_size_lines"": 4279.5, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 7, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 0, ""primary_languages"": {""Java"": 3, ""TypeScript"": 2, ""C++"": 1}, ""sample_commit_messages"": [""Feat: Initialize UI/API automation framework and add config management (Page ...)"", ""Refactor category tests with data-driven UI automation"", ""Updated category API StepDefinitions"", ""Add SonarCloud CI pipeline""]}",strong_misalignment,1
+kavin601,Kavindu Wijegunasekara,Software Engineer (Mobile),https://github.com/kavinduprabasara,"Simulated interview for Kavindu Wijegunasekara applying for the role of Software Engineer (Mobile):
+
+Interviewer: Kavindu, you're an iOS developer but there's no Swift in your public repositories. Why?
+
+Kavindu Wijegunasekara: Because all of it is 4Axis code. The DrawKids features and the Best Body Japan app are in the company's private repositories, and the VR titles are too. My personal GitHub is university work and my portfolio site, so it reads as TypeScript, Java, Python, HTML, a couple of C# repos from the Unity coursework, and some C++ and Prolog from first and second year.
+
+Interviewer: That's thirty repositories and fifty-two commits, though.
+
+Kavindu Wijegunasekara: Lots of small repos, one per module or experiment. My commits are small, sixty lines or so on average, because I push incrementally, mostly on the portfolio site and notes repos. It's not a heavy contribution history and I wouldn't pretend it is.
+
+Interviewer: No pull requests at all.
+
+Kavindu Wijegunasekara: They're solo repositories, so I push straight to main. Branch and PR discipline I've only practised at work and in the group microservices project, which lives under a teammate's account.
+
+Interviewer: Where did the stars and followers come from?
+
+Kavindu Wijegunasekara: Four stars and eleven followers, mostly people from INTECS and the IEEE branch after I built event sites. It's a social number, not an engineering one.
+
+Interviewer: How long have you been writing Swift?
+
+Kavindu Wijegunasekara: Since September 2025, so under a year. Before that I was Unity and C# during the internship, from February. Total professional experience is about a year.
+
+Interviewer: And the microservices platform on your CV?
+
+Kavindu Wijegunasekara: University project, August to December 2024, four of us, Spring Boot with Kafka and Keycloak. Not production.","Kavindu Wijegunasekara - Software Engineer
+GitHub: github.com/kavinduprabasara | LinkedIn: Kavinduprabasara | Moratuwa, Sri Lanka
+(CV header also prints the handle as ""kavinduwijegunasekara"", which is the personal domain, not the GitHub account)
+
+SUMMARY
+BSc (Hons) Information Technology candidate at the University of Moratuwa with a record of adapting to diverse tech stacks, from Spring Boot microservices to VR experiences in Unity.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+4Axis Technologies Pte Ltd - Associate Software Engineer, Sept 2025 - Present
+- Developed features for the DrawKids application using Swift, SwiftUI, Firebase and Huawei Cloud DB
+4Axis Technologies Pte Ltd - Software Engineer Intern, Feb 2025 - Sept 2025
+- Developed and optimised Drawing Desk VR, published on the Meta Quest Store and PICO App Store, and led the adaptation for PICO devices
+- Contributed sound profile optimisation, scene switching, spray presets and artwork saving to the Graffity Art Drawing app
+- Worked with Unity and C#
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, 2022 - 2026, CGPA 3.60/4.0
+
+PROJECTS
+- Best Body Japan (BBJ) - main developer, SwiftUI fitness competition app (Sept 2025 - Present)
+- Drawing Desk VR - C#, Unity, PICO port
+- Microservices E-Commerce Platform (Aug 2024 - Dec 2024) - Next.js, TypeScript, React, Spring Boot, Java, MySQL, MongoDB, Kafka, Keycloak, Docker, Spring Cloud Gateway
+- Anothershot photography web application - Next.js, Nest.js, TypeScript, MongoDB, Cloudinary, Stripe, Prisma ORM
+
+VOLUNTEERING: IEEE Student Branch UoM (publicity lead 23/24); INTECS president 2025-2026; DevLabs software developer","GitHub MSR evidence for github.com/kavinduprabasara: {""profile_resolved"": true, ""total_commits"": 52, ""frequency_per_week"": 3.47, ""average_commit_size_lines"": 64.21, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 30, ""total_stars"": 4, ""total_forks"": 0, ""followers"": 11, ""primary_languages"": {""TypeScript"": 4, ""HTML"": 3, ""Python"": 3, ""Java"": 3, ""C#"": 2, ""C++"": 2, ""Prolog"": 1, ""Kotlin"": 1, ""JavaScript"": 1, ""CSS"": 1}, ""sample_commit_messages"": [""Add initial HTML structure for portfolio website"", ""Refactor index.html for design enhancements"", ""feat: ANN notes"", ""chore: setup actions"", ""Remove duplicate 'flutter' from skill icons""]}",strong_alignment,0
+kavin602,Kavindu Wijegunasekara,Full Stack Engineer,https://github.com/kavinduprabasara,"Simulated interview for Kavindu Wijegunasekara applying for the role of Full Stack Engineer:
+
+Interviewer: The GitHub handle printed on your CV doesn't resolve to an account with any work on it.
+
+Kavindu Wijegunasekara: That'll be the header, sorry. It prints my personal domain, kavinduwijegunasekara, next to the GitHub icon. My actual GitHub account is kavinduprabasara, which is the same handle as my LinkedIn. It's a formatting problem in my template and it's confused people before.
+
+Interviewer: Let's use the right one. You said your microservices project is on your GitHub.
+
+Kavindu Wijegunasekara: I said that loosely. The repository is under one of my teammates' accounts because he initialised it. I contributed to it but it isn't in my thirty repos. What is mine publicly is the portfolio site, some coursework and the notes repos.
+
+Interviewer: You claim to have led that project.
+
+Kavindu Wijegunasekara: I led it in the sense of architecture and splitting the services, in a four-person student team over one semester. Not leading engineers professionally.
+
+Interviewer: You describe strong CI/CD on your CV.
+
+Kavindu Wijegunasekara: I've set up GitHub Actions on a couple of my own repos, which is in my commit history, and at work the pipelines exist but I don't own them. Call it working knowledge.
+
+Interviewer: Your commits average around sixty lines. Is that deliberate?
+
+Kavindu Wijegunasekara: Yes, though mostly it's because those repos are small websites and notes. I wouldn't claim it proves anything about how I work on a large codebase.
+
+Interviewer: Total experience?
+
+Kavindu Wijegunasekara: One year at 4Axis, seven months of that as an intern.","Kavindu Wijegunasekara - Software Engineer
+GitHub: github.com/kavinduprabasara | LinkedIn: Kavinduprabasara | Moratuwa, Sri Lanka
+(CV header also prints the handle as ""kavinduwijegunasekara"", which is the personal domain, not the GitHub account)
+
+SUMMARY
+BSc (Hons) Information Technology candidate at the University of Moratuwa with a record of adapting to diverse tech stacks, from Spring Boot microservices to VR experiences in Unity.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+4Axis Technologies Pte Ltd - Associate Software Engineer, Sept 2025 - Present
+- Developed features for the DrawKids application using Swift, SwiftUI, Firebase and Huawei Cloud DB
+4Axis Technologies Pte Ltd - Software Engineer Intern, Feb 2025 - Sept 2025
+- Developed and optimised Drawing Desk VR, published on the Meta Quest Store and PICO App Store, and led the adaptation for PICO devices
+- Contributed sound profile optimisation, scene switching, spray presets and artwork saving to the Graffity Art Drawing app
+- Worked with Unity and C#
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, 2022 - 2026, CGPA 3.60/4.0
+
+PROJECTS
+- Best Body Japan (BBJ) - main developer, SwiftUI fitness competition app (Sept 2025 - Present)
+- Drawing Desk VR - C#, Unity, PICO port
+- Microservices E-Commerce Platform (Aug 2024 - Dec 2024) - Next.js, TypeScript, React, Spring Boot, Java, MySQL, MongoDB, Kafka, Keycloak, Docker, Spring Cloud Gateway
+- Anothershot photography web application - Next.js, Nest.js, TypeScript, MongoDB, Cloudinary, Stripe, Prisma ORM
+
+VOLUNTEERING: IEEE Student Branch UoM (publicity lead 23/24); INTECS president 2025-2026; DevLabs software developer","GitHub MSR evidence for github.com/kavinduprabasara: {""profile_resolved"": true, ""total_commits"": 52, ""frequency_per_week"": 3.47, ""average_commit_size_lines"": 64.21, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 30, ""total_stars"": 4, ""total_forks"": 0, ""followers"": 11, ""primary_languages"": {""TypeScript"": 4, ""HTML"": 3, ""Python"": 3, ""Java"": 3, ""C#"": 2, ""C++"": 2, ""Prolog"": 1, ""Kotlin"": 1, ""JavaScript"": 1, ""CSS"": 1}, ""sample_commit_messages"": [""Add initial HTML structure for portfolio website"", ""Refactor index.html for design enhancements"", ""feat: ANN notes"", ""chore: setup actions"", ""Remove duplicate 'flutter' from skill icons""]}",partial_alignment,0
+kavin603,Kavindu Wijegunasekara,Senior iOS Engineer,https://github.com/kavinduprabasara,"Simulated interview for Kavindu Wijegunasekara applying for the role of Senior iOS Engineer:
+
+Interviewer: How long have you been building iOS applications?
+
+Kavindu Wijegunasekara: Three years with SwiftUI, since it matured. I've shipped several apps to the App Store.
+
+Interviewer: Your CV shows the associate role starting September 2025, and the Swift work beginning there.
+
+Kavindu Wijegunasekara: I was building Swift apps personally long before that.
+
+Interviewer: Are those on GitHub?
+
+Kavindu Wijegunasekara: Yes, my Swift projects are all public. You can see the SwiftUI apps, the VR source, quite a lot of it.
+
+Interviewer: We scanned the account. Thirty repositories, and the languages are TypeScript, HTML, Python, Java, C#, C++, Kotlin, JavaScript, CSS and Prolog. There is no Swift.
+
+Kavindu Wijegunasekara: The Swift repos must be private, then.
+
+Interviewer: You said public a moment ago. The scan counts private repositories in the total as well.
+
+Kavindu Wijegunasekara: I may have deleted some when I cleaned up my profile.
+
+Interviewer: How would you describe your contribution volume?
+
+Kavindu Wijegunasekara: Very heavy. Hundreds of commits a year, large features, plus a lot of code review through pull requests.
+
+Interviewer: Fifty-two commits, averaging sixty-four lines, and zero pull requests across the account.
+
+Kavindu Wijegunasekara: My work commits don't sync to the public profile.
+
+Interviewer: You also say you were sole developer of the VR title on the Meta Quest store.
+
+Kavindu Wijegunasekara: I built it end to end.
+
+Interviewer: Your CV says you developed and optimised it and led the PICO adaptation, as an intern on an existing product.
+
+Kavindu Wijegunasekara: That's the same thing in practice.","Kavindu Wijegunasekara - Software Engineer
+GitHub: github.com/kavinduprabasara | LinkedIn: Kavinduprabasara | Moratuwa, Sri Lanka
+(CV header also prints the handle as ""kavinduwijegunasekara"", which is the personal domain, not the GitHub account)
+
+SUMMARY
+BSc (Hons) Information Technology candidate at the University of Moratuwa with a record of adapting to diverse tech stacks, from Spring Boot microservices to VR experiences in Unity.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+4Axis Technologies Pte Ltd - Associate Software Engineer, Sept 2025 - Present
+- Developed features for the DrawKids application using Swift, SwiftUI, Firebase and Huawei Cloud DB
+4Axis Technologies Pte Ltd - Software Engineer Intern, Feb 2025 - Sept 2025
+- Developed and optimised Drawing Desk VR, published on the Meta Quest Store and PICO App Store, and led the adaptation for PICO devices
+- Contributed sound profile optimisation, scene switching, spray presets and artwork saving to the Graffity Art Drawing app
+- Worked with Unity and C#
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, 2022 - 2026, CGPA 3.60/4.0
+
+PROJECTS
+- Best Body Japan (BBJ) - main developer, SwiftUI fitness competition app (Sept 2025 - Present)
+- Drawing Desk VR - C#, Unity, PICO port
+- Microservices E-Commerce Platform (Aug 2024 - Dec 2024) - Next.js, TypeScript, React, Spring Boot, Java, MySQL, MongoDB, Kafka, Keycloak, Docker, Spring Cloud Gateway
+- Anothershot photography web application - Next.js, Nest.js, TypeScript, MongoDB, Cloudinary, Stripe, Prisma ORM
+
+VOLUNTEERING: IEEE Student Branch UoM (publicity lead 23/24); INTECS president 2025-2026; DevLabs software developer","GitHub MSR evidence for github.com/kavinduprabasara: {""profile_resolved"": true, ""total_commits"": 52, ""frequency_per_week"": 3.47, ""average_commit_size_lines"": 64.21, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 30, ""total_stars"": 4, ""total_forks"": 0, ""followers"": 11, ""primary_languages"": {""TypeScript"": 4, ""HTML"": 3, ""Python"": 3, ""Java"": 3, ""C#"": 2, ""C++"": 2, ""Prolog"": 1, ""Kotlin"": 1, ""JavaScript"": 1, ""CSS"": 1}, ""sample_commit_messages"": [""Add initial HTML structure for portfolio website"", ""Refactor index.html for design enhancements"", ""feat: ANN notes"", ""chore: setup actions"", ""Remove duplicate 'flutter' from skill icons""]}",strong_misalignment,1
+malit301,Malith Weerarathne,QA Engineer,https://github.com/malith,"Simulated interview for Malith Weerarathne applying for the role of QA Engineer:
+
+Interviewer: Malith, what professional experience do you have?
+
+Malith Weerarathne: One internship. Eight months at hSenid Business Solutions, February to October 2025, as an intern QA engineer on their HRM product. That's it, and my CV says zero years professional experience for that reason.
+
+Interviewer: What did you automate there?
+
+Malith Weerarathne: Katalon Studio, regression coverage for HRM modules. Katalon projects live in the company's own repository, and I no longer have access.
+
+Interviewer: The GitHub link on your CV resolves to an account with no repositories and no commits.
+
+Malith Weerarathne: I know, and I should fix that. That handle is an old account I registered years ago and never used. I don't have a public GitHub presence worth showing. My university project code is in group repositories owned by teammates and my individual project is on my own machine and a private GitLab.
+
+Interviewer: So if I look for evidence of your Selenium and Playwright work, I won't find it.
+
+Malith Weerarathne: Not on that profile, no. I can walk you through the code in a screen share, or push the plant nursery suite to a public repo before the next round. I'd rather tell you it isn't there than have you look and wonder.
+
+Interviewer: Which is stronger for you, Selenium or Playwright?
+
+Malith Weerarathne: Selenium with Cucumber, because that's the fourth-year group project and I wrote the step definitions, the data seeding hooks and the page objects. Playwright I used alone on the villas booking project, so it's less rigorous.
+
+Interviewer: Certifications?
+
+Malith Weerarathne: None. I've been reading the ISTQB Foundation syllabus but I haven't sat it.","Malith Weerarathne - QA Engineer
+GitHub: github.com/malith | LinkedIn: linkedin.com/in/malithweerarathne | Panadura, Sri Lanka
+
+SUMMARY
+QA undergraduate skilled in test automation, bug tracking and quality delivery. Experienced in designing test cases and structured testing processes.
+Total professional experience stated on CV: 0 years (internship only).
+
+EXPERIENCE
+hSenid Business Solutions - Intern QA Engineer, Feb 2025 - Oct 2025
+- Performed manual and automated testing on HRM systems, identifying and reporting bugs
+- Designed and executed functional and regression test cases from requirements
+- Used Katalon Studio for automation; participated in Agile ceremonies and QA planning
+
+EDUCATION
+B.Sc. (Hons) Information Technology and Management, University of Moratuwa, 2022 - Present, CGPA 3.60
+
+PROJECTS
+- Automated QA Suite for Plant Nursery Web App (4th year group project, 2026) - Java, Maven, Cucumber, Selenium WebDriver, Rest Assured, JUnit/TestNG; role: step definitions, API and UI automation, data seeding hooks, Page Object Model
+- First Light Villas Reservation Management System (3rd year individual project, 2024-2025) - Next.js, Playwright, MongoDB, Tailwind CSS, Stripe
+- Track Master Smart Camera Bag (1st year IoT project) - Arduino, GSM module, ThingSpeak
+- Vehicle Hub Car Rental Management System (2nd year, 2023-2024) - ASP.NET Core, React.js, MsSQL, Stripe
+
+SKILLS: manual testing, functional, regression, UI and API testing, Playwright, Katalon Studio, Selenium WebDriver, Rest Assured, Cucumber, Apache JMeter, Java, C#, JavaScript, TypeScript, React.js, Next.js, MySQL, MsSQL, MongoDB, Git, GitHub
+
+CERTIFICATIONS: none listed","GitHub MSR evidence for github.com/malith: {""profile_resolved"": true, ""total_commits"": 0, ""frequency_per_week"": 0.0, ""average_commit_size_lines"": 0.0, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 0, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 1, ""primary_languages"": {}, ""sample_commit_messages"": []}",strong_alignment,0
+malit302,Malith Weerarathne,QA Automation Engineer,https://github.com/malith,"Simulated interview for Malith Weerarathne applying for the role of QA Automation Engineer:
+
+Interviewer: Tell me about your GitHub.
+
+Malith Weerarathne: I've got around fifteen repositories there, mostly QA automation. Selenium frameworks, the Playwright suite, some React work.
+
+Interviewer: The profile on your CV shows zero repositories, zero commits and one follower.
+
+Malith Weerarathne: They're private, that's why. Private repos don't show to outside viewers.
+
+Interviewer: The scan counts private repositories in the total. It returned zero.
+
+Malith Weerarathne: Then it's a tooling issue on your side. I definitely have the code there.
+
+Interviewer: A moment ago you also said the Selenium framework had stars and a couple of forks from classmates.
+
+Malith Weerarathne: A few people forked it, yes.
+
+Interviewer: On a private repository with no repositories in the account.
+
+Malith Weerarathne: I may be mixing up which account. I have more than one.
+
+Interviewer: How long have you worked in QA?
+
+Malith Weerarathne: About two years now, counting the project work.
+
+Interviewer: Your CV states zero years and a single eight-month internship.
+
+Malith Weerarathne: The CV is conservative. I've been doing test automation since second year, so I count that.
+
+Interviewer: Did you use JMeter in production?
+
+Malith Weerarathne: Yes, I ran load tests on the HRM system before releases.
+
+Interviewer: Your CV lists JMeter under skills, and describes your internship as manual testing, functional and regression cases, and Katalon automation.
+
+Malith Weerarathne: Performance testing was part of it informally.","Malith Weerarathne - QA Engineer
+GitHub: github.com/malith | LinkedIn: linkedin.com/in/malithweerarathne | Panadura, Sri Lanka
+
+SUMMARY
+QA undergraduate skilled in test automation, bug tracking and quality delivery. Experienced in designing test cases and structured testing processes.
+Total professional experience stated on CV: 0 years (internship only).
+
+EXPERIENCE
+hSenid Business Solutions - Intern QA Engineer, Feb 2025 - Oct 2025
+- Performed manual and automated testing on HRM systems, identifying and reporting bugs
+- Designed and executed functional and regression test cases from requirements
+- Used Katalon Studio for automation; participated in Agile ceremonies and QA planning
+
+EDUCATION
+B.Sc. (Hons) Information Technology and Management, University of Moratuwa, 2022 - Present, CGPA 3.60
+
+PROJECTS
+- Automated QA Suite for Plant Nursery Web App (4th year group project, 2026) - Java, Maven, Cucumber, Selenium WebDriver, Rest Assured, JUnit/TestNG; role: step definitions, API and UI automation, data seeding hooks, Page Object Model
+- First Light Villas Reservation Management System (3rd year individual project, 2024-2025) - Next.js, Playwright, MongoDB, Tailwind CSS, Stripe
+- Track Master Smart Camera Bag (1st year IoT project) - Arduino, GSM module, ThingSpeak
+- Vehicle Hub Car Rental Management System (2nd year, 2023-2024) - ASP.NET Core, React.js, MsSQL, Stripe
+
+SKILLS: manual testing, functional, regression, UI and API testing, Playwright, Katalon Studio, Selenium WebDriver, Rest Assured, Cucumber, Apache JMeter, Java, C#, JavaScript, TypeScript, React.js, Next.js, MySQL, MsSQL, MongoDB, Git, GitHub
+
+CERTIFICATIONS: none listed","GitHub MSR evidence for github.com/malith: {""profile_resolved"": true, ""total_commits"": 0, ""frequency_per_week"": 0.0, ""average_commit_size_lines"": 0.0, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 0, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 1, ""primary_languages"": {}, ""sample_commit_messages"": []}",partial_alignment,1
+malit303,Malith Weerarathne,Senior QA Automation Lead,https://github.com/malith,"Simulated interview for Malith Weerarathne applying for the role of Senior QA Automation Lead:
+
+Interviewer: You're applying for a lead role. What's your track record?
+
+Malith Weerarathne: Three years in QA automation, the last year and a half leading a team of six at hSenid. I owned the automation strategy for the HRM suite.
+
+Interviewer: Your CV says intern QA engineer, February to October 2025, and states zero years of professional experience.
+
+Malith Weerarathne: The title was intern, the work was lead level.
+
+Interviewer: You claim forty-plus repositories and daily contributions on GitHub.
+
+Malith Weerarathne: Yes, I'm on GitHub every day. Frameworks, utilities, my personal test libraries.
+
+Interviewer: The account on your CV has no repositories, no commits, no pull requests and no activity of any kind.
+
+Malith Weerarathne: GitHub must have reset the account. That has happened to me before.
+
+Interviewer: Are you ISTQB certified?
+
+Malith Weerarathne: Yes, Foundation and Advanced Test Manager.
+
+Interviewer: Your CV lists no certifications at all.
+
+Malith Weerarathne: The CV is out of date, I passed them recently.
+
+Interviewer: When?
+
+Malith Weerarathne: Earlier this year. I don't have the certificate numbers with me.
+
+Interviewer: You also mention Selenium Grid running thousands of tests nightly.
+
+Malith Weerarathne: Correct, we ran about three thousand tests per night.
+
+Interviewer: Your CV describes Katalon Studio automation on HRM modules and a university project suite. No grid, no nightly pipeline.
+
+Malith Weerarathne: The CV doesn't capture everything I did.","Malith Weerarathne - QA Engineer
+GitHub: github.com/malith | LinkedIn: linkedin.com/in/malithweerarathne | Panadura, Sri Lanka
+
+SUMMARY
+QA undergraduate skilled in test automation, bug tracking and quality delivery. Experienced in designing test cases and structured testing processes.
+Total professional experience stated on CV: 0 years (internship only).
+
+EXPERIENCE
+hSenid Business Solutions - Intern QA Engineer, Feb 2025 - Oct 2025
+- Performed manual and automated testing on HRM systems, identifying and reporting bugs
+- Designed and executed functional and regression test cases from requirements
+- Used Katalon Studio for automation; participated in Agile ceremonies and QA planning
+
+EDUCATION
+B.Sc. (Hons) Information Technology and Management, University of Moratuwa, 2022 - Present, CGPA 3.60
+
+PROJECTS
+- Automated QA Suite for Plant Nursery Web App (4th year group project, 2026) - Java, Maven, Cucumber, Selenium WebDriver, Rest Assured, JUnit/TestNG; role: step definitions, API and UI automation, data seeding hooks, Page Object Model
+- First Light Villas Reservation Management System (3rd year individual project, 2024-2025) - Next.js, Playwright, MongoDB, Tailwind CSS, Stripe
+- Track Master Smart Camera Bag (1st year IoT project) - Arduino, GSM module, ThingSpeak
+- Vehicle Hub Car Rental Management System (2nd year, 2023-2024) - ASP.NET Core, React.js, MsSQL, Stripe
+
+SKILLS: manual testing, functional, regression, UI and API testing, Playwright, Katalon Studio, Selenium WebDriver, Rest Assured, Cucumber, Apache JMeter, Java, C#, JavaScript, TypeScript, React.js, Next.js, MySQL, MsSQL, MongoDB, Git, GitHub
+
+CERTIFICATIONS: none listed","GitHub MSR evidence for github.com/malith: {""profile_resolved"": true, ""total_commits"": 0, ""frequency_per_week"": 0.0, ""average_commit_size_lines"": 0.0, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 0, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 1, ""primary_languages"": {}, ""sample_commit_messages"": []}",strong_misalignment,1
+nimet701,Nimeth Nimdinu,AI/ML Engineer,https://github.com/nimeth02,"Simulated interview for Nimeth Nimdinu applying for the role of AI/ML Engineer:
+
+Interviewer: Nimeth, your CV is machine learning but your GitHub is mostly JavaScript. Reconcile that for me.
+
+Nimeth Nimdinu: Fair question. Forty-three repositories, and the split is roughly fourteen JavaScript, ten TypeScript, seven Jupyter notebooks and single repos of Python, Java, C# and so on. The ML work is in the notebook repos, not in packaged Python projects. The GNN candidate matching research is still private because it's my final year submission, and the tea farming assistant work sat in a project repo I haven't opened up.
+
+Interviewer: So a language breakdown understates your Python.
+
+Nimeth Nimdinu: It does, but only because notebooks are where I experiment. I'd not claim to be a strong Python engineer in the software sense. I write research code, and it shows.
+
+Interviewer: Your average commit size is close to twenty thousand lines. What's going on there?
+
+Nimeth Nimdinu: Notebook outputs and lock files, mostly. When you commit an .ipynb with embedded plots and data, the diff is enormous. Some of it is genuinely bad practice, bulk uploads of a whole project in one commit. It is not evidence of twenty thousand lines of hand-written code.
+
+Interviewer: You do have a real pull request history, unlike most candidates I see.
+
+Nimeth Nimdinu: Eleven pull requests, ten merged. A lot of those came from the SonarCloud quality gate work at Creative Software, where I was deliberately introducing quality issues on a branch to test whether the gate caught them. So the merge rate looks healthy but the PRs were small and self-reviewed.
+
+Interviewer: What's your total professional experience?
+
+Nimeth Nimdinu: One year. Creative Software as an R&D intern from March to September 2025, then part-time at NovaCodex from November.
+
+Interviewer: Largest model you've fine-tuned?
+
+Nimeth Nimdinu: GPT-2, with LoRA and 4-bit quantisation on a single GPU. Nothing at frontier scale, and I've never trained anything large from scratch.","Nimeth Nimdinu - AI/ML Engineer
+GitHub: github.com/nimeth02 | LinkedIn: linkedin.com/in/nimeth-nimdinu | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in AI and machine learning, with industry experience building AI-powered applications and intelligent systems.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+NovaCodex - Associate Software Engineer (Part-time), Nov 2025 - May 2026
+- Developing real estate broker platforms including ticketing and transaction management
+- Root cause analysis on ticketing system defects and workflow bottlenecks
+- Stack: PyTorch, GNN, TGNN, FastAPI, Node.js, Next.js, AWS, MongoDB
+Creative Software - Intern Software Engineer (R&D), Mar 2025 - Sep 2025
+- Built a developer productivity analytics system using DORA metrics
+- Explored LLM-based automation, agent architectures and AI-driven workflows
+- Microfrontend architecture and SDK-based integration
+- Implemented CI/CD pipelines with Azure DevOps and on-premise Apache Tomcat deployments
+- Stack: Python, PyQt6, n8n, LangChain, LangGraph, Semantic Kernel, ASP.NET Core
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.80/4.0
+
+PROJECTS
+- Ontology-guided GNN for semantic candidate matching (lead researcher) - Python, Neo4j/RDF, PyTorch, PyTorch Geometric, spaCy, pandas, scikit-learn
+- Multi-Agent A2A System - Python, CrewAI, LangGraph, Google ADK, FastAPI, LangChain
+- Domain-Adapted Farming LLM - GPT-2 with LoRA and SFT, 4-bit quantisation, Hugging Face
+- Tea Farming Support Assistant - LangChain, LangGraph, Pinecone, FastAPI, Next.js
+- Developer productivity analytical system - Python, .NET Core, React, TypeScript, MSSQL, Azure, PyQt6
+
+CERTIFICATES: Azure Fundamentals (AZ-900), AI Agents Using RAG, Gen AI with Transformers","GitHub MSR evidence for github.com/nimeth02: {""profile_resolved"": true, ""total_commits"": 47, ""frequency_per_week"": 3.92, ""average_commit_size_lines"": 19464.85, ""merging_percentage"": 17.02, ""total_prs"": 11, ""accepted_prs"": 10, ""approval_rate"": 0.909, ""total_repos"": 43, ""total_stars"": 6, ""total_forks"": 1, ""followers"": 6, ""primary_languages"": {""JavaScript"": 14, ""TypeScript"": 10, ""Jupyter Notebook"": 7, ""C#"": 2, ""Java"": 1, ""Python"": 1, ""HTML"": 1, ""C++"": 1}, ""sample_commit_messages"": [""Merge pull request #2 from nimeth02/feature/quality-test"", ""Add SonarCloud CI pipeline"", ""Update RoleManagement.tsx"", ""Introduce quality issues 3"", ""Delete azure-pipelines.yml""]}",strong_alignment,0
+nimet702,Nimeth Nimdinu,Machine Learning Engineer,https://github.com/nimeth02,"Simulated interview for Nimeth Nimdinu applying for the role of Machine Learning Engineer:
+
+Interviewer: Describe your engineering discipline.
+
+Nimeth Nimdinu: Incremental and consistent. Small commits, feature branches, pull requests for everything. My GitHub history reflects steady daily development across all forty-three of my projects.
+
+Interviewer: The average commit on that account is roughly nineteen thousand lines.
+
+Nimeth Nimdinu: That's just how GitHub counts notebooks.
+
+Interviewer: Some are notebooks. The pattern also shows several months with no activity at all, then a week with nine commits.
+
+Nimeth Nimdinu: I'd call that consistent enough. Everyone has quiet periods.
+
+Interviewer: You described forty-three projects. How many are substantial?
+
+Nimeth Nimdinu: All of them are real projects.
+
+Interviewer: Several appear to be single-commit repositories with messages like ""d"" and ""f"".
+
+Nimeth Nimdinu: Those are placeholders for work that continued elsewhere.
+
+Interviewer: You said all your research is public and verifiable.
+
+Nimeth Nimdinu: It is, broadly. The ontology GNN work, the multi-agent system, the fine-tuning pipelines.
+
+Interviewer: We couldn't find any of those three in the account. There is one Python repository.
+
+Nimeth Nimdinu: They may be under a different visibility setting. The point is the work exists.
+
+Interviewer: How many stars across your repositories?
+
+Nimeth Nimdinu: A few hundred between them, I've had decent traction on the AI ones.
+
+Interviewer: Six stars and one fork in total.
+
+Nimeth Nimdinu: Then GitHub is undercounting, because I know people use that code.","Nimeth Nimdinu - AI/ML Engineer
+GitHub: github.com/nimeth02 | LinkedIn: linkedin.com/in/nimeth-nimdinu | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in AI and machine learning, with industry experience building AI-powered applications and intelligent systems.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+NovaCodex - Associate Software Engineer (Part-time), Nov 2025 - May 2026
+- Developing real estate broker platforms including ticketing and transaction management
+- Root cause analysis on ticketing system defects and workflow bottlenecks
+- Stack: PyTorch, GNN, TGNN, FastAPI, Node.js, Next.js, AWS, MongoDB
+Creative Software - Intern Software Engineer (R&D), Mar 2025 - Sep 2025
+- Built a developer productivity analytics system using DORA metrics
+- Explored LLM-based automation, agent architectures and AI-driven workflows
+- Microfrontend architecture and SDK-based integration
+- Implemented CI/CD pipelines with Azure DevOps and on-premise Apache Tomcat deployments
+- Stack: Python, PyQt6, n8n, LangChain, LangGraph, Semantic Kernel, ASP.NET Core
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.80/4.0
+
+PROJECTS
+- Ontology-guided GNN for semantic candidate matching (lead researcher) - Python, Neo4j/RDF, PyTorch, PyTorch Geometric, spaCy, pandas, scikit-learn
+- Multi-Agent A2A System - Python, CrewAI, LangGraph, Google ADK, FastAPI, LangChain
+- Domain-Adapted Farming LLM - GPT-2 with LoRA and SFT, 4-bit quantisation, Hugging Face
+- Tea Farming Support Assistant - LangChain, LangGraph, Pinecone, FastAPI, Next.js
+- Developer productivity analytical system - Python, .NET Core, React, TypeScript, MSSQL, Azure, PyQt6
+
+CERTIFICATES: Azure Fundamentals (AZ-900), AI Agents Using RAG, Gen AI with Transformers","GitHub MSR evidence for github.com/nimeth02: {""profile_resolved"": true, ""total_commits"": 47, ""frequency_per_week"": 3.92, ""average_commit_size_lines"": 19464.85, ""merging_percentage"": 17.02, ""total_prs"": 11, ""accepted_prs"": 10, ""approval_rate"": 0.909, ""total_repos"": 43, ""total_stars"": 6, ""total_forks"": 1, ""followers"": 6, ""primary_languages"": {""JavaScript"": 14, ""TypeScript"": 10, ""Jupyter Notebook"": 7, ""C#"": 2, ""Java"": 1, ""Python"": 1, ""HTML"": 1, ""C++"": 1}, ""sample_commit_messages"": [""Merge pull request #2 from nimeth02/feature/quality-test"", ""Add SonarCloud CI pipeline"", ""Update RoleManagement.tsx"", ""Introduce quality issues 3"", ""Delete azure-pipelines.yml""]}",partial_alignment,1
+nimet703,Nimeth Nimdinu,Senior AI Engineer,https://github.com/nimeth02,"Simulated interview for Nimeth Nimdinu applying for the role of Senior AI Engineer:
+
+Interviewer: What scale of model have you worked with?
+
+Nimeth Nimdinu: I fine-tuned a seventy billion parameter model for an agricultural client and cut hallucinations by around ninety-eight percent.
+
+Interviewer: Your CV describes a domain-adapted GPT-2 with LoRA and 4-bit quantisation.
+
+Nimeth Nimdinu: GPT-2 was the prototype. The production model was much larger.
+
+Interviewer: How much of that is visible publicly?
+
+Nimeth Nimdinu: All of it. My GitHub is the best record of my work, five hundred plus commits over the last year, mostly Python, and the research repos have a couple of hundred stars.
+
+Interviewer: The account shows forty-seven commits, six stars, and exactly one Python repository out of forty-three.
+
+Nimeth Nimdinu: The scan must be looking at an old snapshot.
+
+Interviewer: How long have you worked in machine learning?
+
+Nimeth Nimdinu: Four years, three of them professionally.
+
+Interviewer: Your CV lists a six-month R&D internship from March 2025 and a part-time associate role from November 2025. One year total.
+
+Nimeth Nimdinu: The CV only lists formal employment. I was consulting on ML before that.
+
+Interviewer: Which clients?
+
+Nimeth Nimdinu: I'd need to check my NDAs before naming them.
+
+Interviewer: You also claim you own the deployed GNN matching system at scale.
+
+Nimeth Nimdinu: Yes, it runs in production and serves live matching traffic.
+
+Interviewer: The CV lists it as lead researcher on an ongoing final-year project with an evaluation set you built yourself.
+
+Nimeth Nimdinu: Research and production are the same codebase in my case.","Nimeth Nimdinu - AI/ML Engineer
+GitHub: github.com/nimeth02 | LinkedIn: linkedin.com/in/nimeth-nimdinu | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in AI and machine learning, with industry experience building AI-powered applications and intelligent systems.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+NovaCodex - Associate Software Engineer (Part-time), Nov 2025 - May 2026
+- Developing real estate broker platforms including ticketing and transaction management
+- Root cause analysis on ticketing system defects and workflow bottlenecks
+- Stack: PyTorch, GNN, TGNN, FastAPI, Node.js, Next.js, AWS, MongoDB
+Creative Software - Intern Software Engineer (R&D), Mar 2025 - Sep 2025
+- Built a developer productivity analytics system using DORA metrics
+- Explored LLM-based automation, agent architectures and AI-driven workflows
+- Microfrontend architecture and SDK-based integration
+- Implemented CI/CD pipelines with Azure DevOps and on-premise Apache Tomcat deployments
+- Stack: Python, PyQt6, n8n, LangChain, LangGraph, Semantic Kernel, ASP.NET Core
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.80/4.0
+
+PROJECTS
+- Ontology-guided GNN for semantic candidate matching (lead researcher) - Python, Neo4j/RDF, PyTorch, PyTorch Geometric, spaCy, pandas, scikit-learn
+- Multi-Agent A2A System - Python, CrewAI, LangGraph, Google ADK, FastAPI, LangChain
+- Domain-Adapted Farming LLM - GPT-2 with LoRA and SFT, 4-bit quantisation, Hugging Face
+- Tea Farming Support Assistant - LangChain, LangGraph, Pinecone, FastAPI, Next.js
+- Developer productivity analytical system - Python, .NET Core, React, TypeScript, MSSQL, Azure, PyQt6
+
+CERTIFICATES: Azure Fundamentals (AZ-900), AI Agents Using RAG, Gen AI with Transformers","GitHub MSR evidence for github.com/nimeth02: {""profile_resolved"": true, ""total_commits"": 47, ""frequency_per_week"": 3.92, ""average_commit_size_lines"": 19464.85, ""merging_percentage"": 17.02, ""total_prs"": 11, ""accepted_prs"": 10, ""approval_rate"": 0.909, ""total_repos"": 43, ""total_stars"": 6, ""total_forks"": 1, ""followers"": 6, ""primary_languages"": {""JavaScript"": 14, ""TypeScript"": 10, ""Jupyter Notebook"": 7, ""C#"": 2, ""Java"": 1, ""Python"": 1, ""HTML"": 1, ""C++"": 1}, ""sample_commit_messages"": [""Merge pull request #2 from nimeth02/feature/quality-test"", ""Add SonarCloud CI pipeline"", ""Update RoleManagement.tsx"", ""Introduce quality issues 3"", ""Delete azure-pipelines.yml""]}",strong_misalignment,1
+nipun201,Nipuna Deshan,Fullstack & Blockchain Developer,https://github.com/DeshanHiripitiya,"Simulated interview for Nipuna Deshan applying for the role of Fullstack & Blockchain Developer:
+
+Interviewer: Nipuna, your CV is blockchain-heavy but your public GitHub isn't. Explain that.
+
+Nipuna Deshan: It isn't, and I'd rather say so up front. All of the Sendr DeFi work and both npm packages were done inside Spera Labs' private organisation. The packages are published under the company scope, not my personal account. My own GitHub is mostly JavaScript coursework and small projects, around twenty repos, no stars, and honestly not much recent activity.
+
+Interviewer: The data shows nine commits.
+
+Nipuna Deshan: That sounds right. A vocabulary game with a Node backend, a WebSocket experiment, a couple of initial commits. I commit in big lumps when I finish something rather than incrementally, which is why the diffs are enormous.
+
+Interviewer: No pull requests at all.
+
+Nipuna Deshan: On my personal repos, no, I'm the only person in them so I push to main. At work we used PRs and I had reviews from the tech lead, but that's internal.
+
+Interviewer: How deep is your Solidity?
+
+Nipuna Deshan: Reading level. I integrated against contracts and Uniswap, wrote event listeners, handled confirmation depth and reorg backfill. I did not author the production contracts. There's no Solidity in my public repos because I genuinely haven't written much.
+
+Interviewer: What's your total professional experience?
+
+Nipuna Deshan: One year two months, March 2025 to March 2026, six months of it as an intern.
+
+Interviewer: And the QA automation framework on your CV?
+
+Nipuna Deshan: University project. Playwright with Cucumber.js, Page Object Model, UI and API coverage. That one is in my GitHub if you want to look at it.","Nipuna Deshan - Fullstack & Blockchain Developer
+GitHub: github.com/DeshanHiripitiya | LinkedIn: linkedin.com/in/nipuna.deshan | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, with hands-on industry experience in full-stack development.
+Total experience stated on CV: 1 year 2 months.
+
+EXPERIENCE
+Spera Labs - Associate Software Engineer, Sep 2025 - Mar 2026
+- Developed core features for the Sendr DeFi exchange: liquidity pool creation, token swapping, Uniswap integration, real-time services (WebSocket, ZeroMQ), blockchain event listeners with monitoring, logging and rate limiting
+- Built and published two npm packages (Web3 Deposit Sync, Web3 Deposit Detect) in TypeScript
+- Contributed authentication, RBAC, database backup and file sync features to an internal HRM system
+Spera Labs - Intern Software Engineer, Mar 2025 - Sep 2025
+- Built features for PAB, a social platform for book readers: friend management, real-time chat, referrals, news/events, club management
+- Implemented a database backup system integrated with Google Drive
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.20/4.0
+
+PROJECTS
+- Sendr DeFi Exchange - Node.js, MongoDB, Redis, Solidity, Ethereum, TypeScript, WebSocket, ZeroMQ
+- Pick a Book social platform - Node.js, Express.js, MongoDB
+- Studio Management System (team lead) - React, Node.js, Express.js, MSSQL
+- Plant Management System QA Automation Framework - Node.js, Playwright, Cucumber.js, JavaScript
+
+SKILLS: JavaScript, TypeScript, Python, Java, Solidity, React, Node.js, Express.js, Docker, Git, npm package development and publishing, MSSQL, PostgreSQL, MongoDB, Redis, Ethereum, Uniswap, smart contracts, Playwright, Cucumber.js, BDD, POM","GitHub MSR evidence for github.com/DeshanHiripitiya: {""profile_resolved"": true, ""total_commits"": 9, ""frequency_per_week"": 2.25, ""average_commit_size_lines"": 2233.67, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 22, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 3, ""primary_languages"": {""JavaScript"": 13, ""TypeScript"": 3, ""C#"": 1, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""Python"": 1}, ""sample_commit_messages"": [""feat: implement game logic, session management, and user entity tracking"", ""web socket to realtime update"", ""Initial commit with backend"", ""commit""]}",strong_alignment,0
+nipun202,Nipuna Deshan,Backend Engineer (Node.js),https://github.com/DeshanHiripitiya,"Simulated interview for Nipuna Deshan applying for the role of Backend Engineer (Node.js):
+
+Interviewer: How would you describe your engineering habits?
+
+Nipuna Deshan: Very disciplined. I commit daily, small focused commits, and I'm a heavy user of pull requests and code review. My GitHub shows that consistency.
+
+Interviewer: Your public history has nine commits, averaging over two thousand lines each, and zero pull requests.
+
+Nipuna Deshan: Those are just the repos I made public. The pattern is different in private work.
+
+Interviewer: Two thousand lines per commit is the opposite of small focused commits.
+
+Nipuna Deshan: I'd say the line count is inflated by generated files.
+
+Interviewer: You also said you led code review for your team.
+
+Nipuna Deshan: I reviewed a lot of my teammates' work, yes. I was effectively the reviewer on the DeFi backend.
+
+Interviewer: Your CV lists you as an associate engineer for six months after a six-month internship. Who reported to you?
+
+Nipuna Deshan: Nobody formally. I mean I reviewed informally.
+
+Interviewer: Let's take the npm packages. How many downloads?
+
+Nipuna Deshan: Thousands a week at this point, they're used across the ecosystem.
+
+Interviewer: Your CV describes them as packages for the company's own deposit monitoring. Can you name them exactly?
+
+Nipuna Deshan: Web3 Deposit Sync and Deposit Detect. I don't have the exact registry names.
+
+Interviewer: And your TypeScript depth? Your public repos are thirteen JavaScript to three TypeScript.
+
+Nipuna Deshan: TypeScript is my main language, has been for years. The JavaScript repos are old.","Nipuna Deshan - Fullstack & Blockchain Developer
+GitHub: github.com/DeshanHiripitiya | LinkedIn: linkedin.com/in/nipuna.deshan | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, with hands-on industry experience in full-stack development.
+Total experience stated on CV: 1 year 2 months.
+
+EXPERIENCE
+Spera Labs - Associate Software Engineer, Sep 2025 - Mar 2026
+- Developed core features for the Sendr DeFi exchange: liquidity pool creation, token swapping, Uniswap integration, real-time services (WebSocket, ZeroMQ), blockchain event listeners with monitoring, logging and rate limiting
+- Built and published two npm packages (Web3 Deposit Sync, Web3 Deposit Detect) in TypeScript
+- Contributed authentication, RBAC, database backup and file sync features to an internal HRM system
+Spera Labs - Intern Software Engineer, Mar 2025 - Sep 2025
+- Built features for PAB, a social platform for book readers: friend management, real-time chat, referrals, news/events, club management
+- Implemented a database backup system integrated with Google Drive
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.20/4.0
+
+PROJECTS
+- Sendr DeFi Exchange - Node.js, MongoDB, Redis, Solidity, Ethereum, TypeScript, WebSocket, ZeroMQ
+- Pick a Book social platform - Node.js, Express.js, MongoDB
+- Studio Management System (team lead) - React, Node.js, Express.js, MSSQL
+- Plant Management System QA Automation Framework - Node.js, Playwright, Cucumber.js, JavaScript
+
+SKILLS: JavaScript, TypeScript, Python, Java, Solidity, React, Node.js, Express.js, Docker, Git, npm package development and publishing, MSSQL, PostgreSQL, MongoDB, Redis, Ethereum, Uniswap, smart contracts, Playwright, Cucumber.js, BDD, POM","GitHub MSR evidence for github.com/DeshanHiripitiya: {""profile_resolved"": true, ""total_commits"": 9, ""frequency_per_week"": 2.25, ""average_commit_size_lines"": 2233.67, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 22, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 3, ""primary_languages"": {""JavaScript"": 13, ""TypeScript"": 3, ""C#"": 1, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""Python"": 1}, ""sample_commit_messages"": [""feat: implement game logic, session management, and user entity tracking"", ""web socket to realtime update"", ""Initial commit with backend"", ""commit""]}",partial_alignment,1
+nipun203,Nipuna Deshan,Senior Blockchain Engineer,https://github.com/DeshanHiripitiya,"Simulated interview for Nipuna Deshan applying for the role of Senior Blockchain Engineer:
+
+Interviewer: Walk me through your blockchain background.
+
+Nipuna Deshan: I've been in the space five years. I architected and wrote the smart contracts for the Sendr exchange, including the AMM and the liquidity pool logic, and I audited them myself before deployment.
+
+Interviewer: Your CV says associate software engineer, September 2025 to March 2026, and lists you as working on integration and event listeners.
+
+Nipuna Deshan: The CV understates the role. I led that work.
+
+Interviewer: How much Solidity is in your public repositories?
+
+Nipuna Deshan: A lot of it. My GitHub has my contract work, test suites, deployment scripts.
+
+Interviewer: The scan shows twenty-two repositories with no Solidity at all. Thirteen JavaScript, three TypeScript, one each of C#, Java, Python, CSS and a notebook.
+
+Nipuna Deshan: The language detection must be misreading them. Solidity often gets classified as JavaScript.
+
+Interviewer: You claim to be a maintainer of widely used packages. You have zero stars and zero forks across all repositories, and three followers.
+
+Nipuna Deshan: Stars are a popularity metric, they don't measure engineering quality.
+
+Interviewer: How many commits would you estimate you've pushed publicly?
+
+Nipuna Deshan: Several hundred over the years. I'm on GitHub every day.
+
+Interviewer: Nine commits total, and the profile shows two active weeks in the last year.
+
+Nipuna Deshan: I use multiple accounts. My main development account isn't the one on the CV.
+
+Interviewer: Can you give me that account?
+
+Nipuna Deshan: I'd rather not, it has personal projects on it.","Nipuna Deshan - Fullstack & Blockchain Developer
+GitHub: github.com/DeshanHiripitiya | LinkedIn: linkedin.com/in/nipuna.deshan | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, with hands-on industry experience in full-stack development.
+Total experience stated on CV: 1 year 2 months.
+
+EXPERIENCE
+Spera Labs - Associate Software Engineer, Sep 2025 - Mar 2026
+- Developed core features for the Sendr DeFi exchange: liquidity pool creation, token swapping, Uniswap integration, real-time services (WebSocket, ZeroMQ), blockchain event listeners with monitoring, logging and rate limiting
+- Built and published two npm packages (Web3 Deposit Sync, Web3 Deposit Detect) in TypeScript
+- Contributed authentication, RBAC, database backup and file sync features to an internal HRM system
+Spera Labs - Intern Software Engineer, Mar 2025 - Sep 2025
+- Built features for PAB, a social platform for book readers: friend management, real-time chat, referrals, news/events, club management
+- Implemented a database backup system integrated with Google Drive
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.20/4.0
+
+PROJECTS
+- Sendr DeFi Exchange - Node.js, MongoDB, Redis, Solidity, Ethereum, TypeScript, WebSocket, ZeroMQ
+- Pick a Book social platform - Node.js, Express.js, MongoDB
+- Studio Management System (team lead) - React, Node.js, Express.js, MSSQL
+- Plant Management System QA Automation Framework - Node.js, Playwright, Cucumber.js, JavaScript
+
+SKILLS: JavaScript, TypeScript, Python, Java, Solidity, React, Node.js, Express.js, Docker, Git, npm package development and publishing, MSSQL, PostgreSQL, MongoDB, Redis, Ethereum, Uniswap, smart contracts, Playwright, Cucumber.js, BDD, POM","GitHub MSR evidence for github.com/DeshanHiripitiya: {""profile_resolved"": true, ""total_commits"": 9, ""frequency_per_week"": 2.25, ""average_commit_size_lines"": 2233.67, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 22, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 3, ""primary_languages"": {""JavaScript"": 13, ""TypeScript"": 3, ""C#"": 1, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""Python"": 1}, ""sample_commit_messages"": [""feat: implement game logic, session management, and user entity tracking"", ""web socket to realtime update"", ""Initial commit with backend"", ""commit""]}",strong_misalignment,1
+prane101,Praneeth Kulathilaka,Associate Software Engineer (Backend / Integrations),https://github.com/Praneeth-Kulathilaka,"Simulated interview for Praneeth Kulathilaka applying for the role of Associate Software Engineer (Backend / Integrations):
+
+Interviewer: Praneeth, how long have you been working professionally?
+
+Praneeth Kulathilaka: A year and five months. I joined Qlub as an intern in February 2025 and moved to a part-time associate role in August. I'm still finishing my degree, so it's part-time now.
+
+Interviewer: What's your strongest language?
+
+Praneeth Kulathilaka: Go. Most of the integration services at Qlub are Go, and my own repositories are mostly Go and JavaScript. If you look at my GitHub you'll see three or four Go repos and a similar number of JavaScript ones, plus some C++ from coursework. Python I use, but for one thing specifically, the spec-driven pipeline project.
+
+Interviewer: Tell me about that pipeline.
+
+Praneeth Kulathilaka: It takes a structured feature spec and produces code, tests and deployment artefacts through the Gemini API. Python, Pydantic for the schemas, Docker Compose to run it, GitHub Actions for CI, pytest and ruff. I added SonarCloud to it as well, which is in the commit history if you want to check.
+
+Interviewer: How active are you on GitHub?
+
+Praneeth Kulathilaka: Modestly. Around fifty commits across the last year on personal repos, in bursts rather than daily. My commits are large because I tend to push a working slice rather than every keystroke, which I know is not ideal practice.
+
+Interviewer: Pull requests, code review?
+
+Praneeth Kulathilaka: On my personal repos, almost none, two PRs total and both were mine. Real review happens at work in the company's internal repositories, which you won't see publicly. I don't want to give you the impression I run an open-source project. I have one star across everything.
+
+Interviewer: What about production infrastructure?
+
+Praneeth Kulathilaka: I'm comfortable with Docker. Kubernetes I have not operated, our platform team owns that. My work is the integration layer, POS bridges, proxy services, and the MCP server that gives our support tooling scoped read-only database access.","Praneeth Kulathilaka - Associate Software Engineer
+GitHub: github.com/Praneeth-Kulathilaka | LinkedIn: linkedin.com/in/praneeth-kulathilaka | Moratuwa, Sri Lanka
+
+SUMMARY
+Associate Software Engineer at Qlub and final-year IT undergraduate at the University of Moratuwa, with a background in designing and maintaining complex third-party integrations, debugging scalable applications and working in Agile teams.
+Total experience stated on CV: 1 year 5 months.
+
+EXPERIENCE
+Qlub - Associate Software Engineer (Part-time), Aug 2025 - Present
+- Optimised custom proxy services for scraping integrations supporting QR-based payment processing and terminal-to-cloud communication
+- Engineered SoftPOS integrations for order transactions
+- Built automated web scraping pipelines for merchant data synchronisation
+- Implemented MCP (Model Context Protocol) for secure database integrations
+Qlub - Software Engineer Intern, Feb 2025 - Jul 2025
+- Designed integration layers bridging QR payment platforms with third-party POS systems using REST APIs and webhooks
+- Built SQL-based database bridges for transaction synchronisation
+- Served as SRE support developer on high-priority production incidents
+Tech stack: Go (Golang), Python, MCP, PostgreSQL, MSSQL, MySQL, Oracle DB, Redis, Docker, REST APIs
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.69/4.0
+
+PROJECTS
+- Robust and Trustworthy Fraud Transaction Detection (ongoing research) - Bi-LSTM, XAI, data engineering
+- AI-Native Spec-Driven Development Pipeline (individual, May 2026) - Python, Google Gemini API, Pydantic, Docker, GitHub Actions, pytest, ruff
+- Qlub QR Payment and POS Integrations - Go, Python, PostgreSQL, REST APIs, Redis, Docker, SQL, MCP
+- ApartFlow Residence Management System - Node.js, React, Flutter, MySQL, PayHere
+- Green Haven e-commerce - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ, Stripe, OAuth
+
+ACHIEVEMENTS: HackX finalist (top 10) 2023; SLIOT finalist (top 10) 2024","GitHub MSR evidence for github.com/Praneeth-Kulathilaka: {""profile_resolved"": true, ""total_commits"": 53, ""frequency_per_week"": 3.79, ""average_commit_size_lines"": 523.89, ""merging_percentage"": 3.77, ""total_prs"": 2, ""accepted_prs"": 2, ""approval_rate"": 1.0, ""total_repos"": 15, ""total_stars"": 1, ""total_forks"": 0, ""followers"": 2, ""primary_languages"": {""Go"": 3, ""JavaScript"": 3, ""C++"": 2, ""Python"": 1, ""TypeScript"": 1, ""Java"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""feat/ai native spec driven pipeline implementation"", ""Add SonarCloud CI pipeline"", ""feat!: Authorization middleware and protected routes initiated"", ""fix!: Pass the square access key through login"", ""Payment v2""]}",strong_alignment,0
+prane102,Praneeth Kulathilaka,Backend Engineer (Payments),https://github.com/Praneeth-Kulathilaka,"Simulated interview for Praneeth Kulathilaka applying for the role of Backend Engineer (Payments):
+
+Interviewer: Give me your years of experience.
+
+Praneeth Kulathilaka: Coming up on two years at Qlub.
+
+Interviewer: Your CV says February 2025 to now, and that adds to one year five months.
+
+Praneeth Kulathilaka: You're right, seventeen months. I was rounding up and I shouldn't. February 2025 to now, first six months as an intern.
+
+Interviewer: You describe yourself as a Go and Python engineer. Your public repositories are three Go and one Python.
+
+Praneeth Kulathilaka: That's fair and it's a bit misleading in my favour. Go is what I write daily at work. Python is real but narrow: the spec-driven pipeline, and some data engineering scripts for my fraud detection research, which isn't public yet. I'd call myself strong in Go and competent in Python, not equal in both.
+
+Interviewer: You say you commit regularly. The data shows fifty-three commits and long empty stretches.
+
+Praneeth Kulathilaka: Regular in the weeks I'm on something, yes, and nothing for a month when university is heavy or the work is in a private repo. Averaged over the year it's about three or four a week when active. I wouldn't claim continuous activity.
+
+Interviewer: And your open-source footprint?
+
+Praneeth Kulathilaka: Very small. Two pull requests, both merged, one star. It's a portfolio, not a project with users.
+
+Interviewer: You listed GraphQL and Firebase on your skills.
+
+Praneeth Kulathilaka: Those are exposure-level. I've built with them in university projects, not at work. I put them under skills, but if you asked me to design a GraphQL schema for your scale I'd be learning on the job.","Praneeth Kulathilaka - Associate Software Engineer
+GitHub: github.com/Praneeth-Kulathilaka | LinkedIn: linkedin.com/in/praneeth-kulathilaka | Moratuwa, Sri Lanka
+
+SUMMARY
+Associate Software Engineer at Qlub and final-year IT undergraduate at the University of Moratuwa, with a background in designing and maintaining complex third-party integrations, debugging scalable applications and working in Agile teams.
+Total experience stated on CV: 1 year 5 months.
+
+EXPERIENCE
+Qlub - Associate Software Engineer (Part-time), Aug 2025 - Present
+- Optimised custom proxy services for scraping integrations supporting QR-based payment processing and terminal-to-cloud communication
+- Engineered SoftPOS integrations for order transactions
+- Built automated web scraping pipelines for merchant data synchronisation
+- Implemented MCP (Model Context Protocol) for secure database integrations
+Qlub - Software Engineer Intern, Feb 2025 - Jul 2025
+- Designed integration layers bridging QR payment platforms with third-party POS systems using REST APIs and webhooks
+- Built SQL-based database bridges for transaction synchronisation
+- Served as SRE support developer on high-priority production incidents
+Tech stack: Go (Golang), Python, MCP, PostgreSQL, MSSQL, MySQL, Oracle DB, Redis, Docker, REST APIs
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.69/4.0
+
+PROJECTS
+- Robust and Trustworthy Fraud Transaction Detection (ongoing research) - Bi-LSTM, XAI, data engineering
+- AI-Native Spec-Driven Development Pipeline (individual, May 2026) - Python, Google Gemini API, Pydantic, Docker, GitHub Actions, pytest, ruff
+- Qlub QR Payment and POS Integrations - Go, Python, PostgreSQL, REST APIs, Redis, Docker, SQL, MCP
+- ApartFlow Residence Management System - Node.js, React, Flutter, MySQL, PayHere
+- Green Haven e-commerce - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ, Stripe, OAuth
+
+ACHIEVEMENTS: HackX finalist (top 10) 2023; SLIOT finalist (top 10) 2024","GitHub MSR evidence for github.com/Praneeth-Kulathilaka: {""profile_resolved"": true, ""total_commits"": 53, ""frequency_per_week"": 3.79, ""average_commit_size_lines"": 523.89, ""merging_percentage"": 3.77, ""total_prs"": 2, ""accepted_prs"": 2, ""approval_rate"": 1.0, ""total_repos"": 15, ""total_stars"": 1, ""total_forks"": 0, ""followers"": 2, ""primary_languages"": {""Go"": 3, ""JavaScript"": 3, ""C++"": 2, ""Python"": 1, ""TypeScript"": 1, ""Java"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""feat/ai native spec driven pipeline implementation"", ""Add SonarCloud CI pipeline"", ""feat!: Authorization middleware and protected routes initiated"", ""fix!: Pass the square access key through login"", ""Payment v2""]}",partial_alignment,0
+prane103,Praneeth Kulathilaka,Senior Backend Engineer (Go),https://github.com/Praneeth-Kulathilaka,"Simulated interview for Praneeth Kulathilaka applying for the role of Senior Backend Engineer (Go):
+
+Interviewer: How much Go experience do you have?
+
+Praneeth Kulathilaka: Just over four years. I've been writing Go since my first year and professionally for the last three.
+
+Interviewer: Your CV shows employment starting February 2025, and your degree started in 2022.
+
+Praneeth Kulathilaka: The CV only lists the formal roles. I was contracting before that, it just isn't documented.
+
+Interviewer: Tell me about your open-source work.
+
+Praneeth Kulathilaka: I maintain several Go libraries. The payment integration library has a few hundred stars and I review contributions regularly, probably fifty or sixty merged pull requests over the last two years.
+
+Interviewer: Your GitHub shows two pull requests total, one star across fifteen repositories, and two followers.
+
+Praneeth Kulathilaka: The numbers on the profile don't reflect it because most of the work was under organisation accounts that were later made private.
+
+Interviewer: What's your commit cadence?
+
+Praneeth Kulathilaka: Daily. I'd say a thousand commits a year, easily. I'm a big believer in small, frequent commits.
+
+Interviewer: The history shows fifty-three commits, averaging over five hundred lines each.
+
+Praneeth Kulathilaka: GitHub squashes them, so the count you see is compressed.
+
+Interviewer: You also claim production Kubernetes and a deployed fraud detection model.
+
+Praneeth Kulathilaka: Yes, I run our clusters and the Bi-LSTM fraud model is live in production serving real transaction traffic.
+
+Interviewer: Your CV describes that as an ongoing research project, and your employer is a payments integration team.
+
+Praneeth Kulathilaka: The research became the production system. I led that.","Praneeth Kulathilaka - Associate Software Engineer
+GitHub: github.com/Praneeth-Kulathilaka | LinkedIn: linkedin.com/in/praneeth-kulathilaka | Moratuwa, Sri Lanka
+
+SUMMARY
+Associate Software Engineer at Qlub and final-year IT undergraduate at the University of Moratuwa, with a background in designing and maintaining complex third-party integrations, debugging scalable applications and working in Agile teams.
+Total experience stated on CV: 1 year 5 months.
+
+EXPERIENCE
+Qlub - Associate Software Engineer (Part-time), Aug 2025 - Present
+- Optimised custom proxy services for scraping integrations supporting QR-based payment processing and terminal-to-cloud communication
+- Engineered SoftPOS integrations for order transactions
+- Built automated web scraping pipelines for merchant data synchronisation
+- Implemented MCP (Model Context Protocol) for secure database integrations
+Qlub - Software Engineer Intern, Feb 2025 - Jul 2025
+- Designed integration layers bridging QR payment platforms with third-party POS systems using REST APIs and webhooks
+- Built SQL-based database bridges for transaction synchronisation
+- Served as SRE support developer on high-priority production incidents
+Tech stack: Go (Golang), Python, MCP, PostgreSQL, MSSQL, MySQL, Oracle DB, Redis, Docker, REST APIs
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.69/4.0
+
+PROJECTS
+- Robust and Trustworthy Fraud Transaction Detection (ongoing research) - Bi-LSTM, XAI, data engineering
+- AI-Native Spec-Driven Development Pipeline (individual, May 2026) - Python, Google Gemini API, Pydantic, Docker, GitHub Actions, pytest, ruff
+- Qlub QR Payment and POS Integrations - Go, Python, PostgreSQL, REST APIs, Redis, Docker, SQL, MCP
+- ApartFlow Residence Management System - Node.js, React, Flutter, MySQL, PayHere
+- Green Haven e-commerce - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ, Stripe, OAuth
+
+ACHIEVEMENTS: HackX finalist (top 10) 2023; SLIOT finalist (top 10) 2024","GitHub MSR evidence for github.com/Praneeth-Kulathilaka: {""profile_resolved"": true, ""total_commits"": 53, ""frequency_per_week"": 3.79, ""average_commit_size_lines"": 523.89, ""merging_percentage"": 3.77, ""total_prs"": 2, ""accepted_prs"": 2, ""approval_rate"": 1.0, ""total_repos"": 15, ""total_stars"": 1, ""total_forks"": 0, ""followers"": 2, ""primary_languages"": {""Go"": 3, ""JavaScript"": 3, ""C++"": 2, ""Python"": 1, ""TypeScript"": 1, ""Java"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""feat/ai native spec driven pipeline implementation"", ""Add SonarCloud CI pipeline"", ""feat!: Authorization middleware and protected routes initiated"", ""fix!: Pass the square access key through login"", ""Payment v2""]}",strong_misalignment,1
+theek401,Theekshana Kulathunga,Quality Assurance Engineer,https://github.com/Theekshana-Kulathunga,"Simulated interview for Theekshana Kulathunga applying for the role of Quality Assurance Engineer:
+
+Interviewer: Theekshana, your CV lists a GitHub handle but we couldn't retrieve anything for it.
+
+Theekshana Kulathunga: That's correct and it's my fault for listing it. I created the account, I've never pushed to it. Everything I've built sits somewhere else: my internship work is inside Sri Lanka Telecom's internal repositories, and the university projects are on the faculty GitLab and in team repos owned by other members.
+
+Interviewer: So there's no public evidence of your automation work.
+
+Theekshana Kulathunga: None. I can show you the plant sales suite on a call, or push a sanitised copy. What I won't do is tell you it's already public.
+
+Interviewer: What's your actual experience?
+
+Theekshana Kulathunga: Less than a year. One internship, March to October 2025, as a software engineer intern, not a QA engineer. I'm applying for QA because that's the direction I want, and my QA work has been the university project, not paid employment.
+
+Interviewer: Describe the automation project honestly then.
+
+Theekshana Kulathunga: Java with Playwright, Cucumber and Serenity BDD, REST Assured for the API layer, running in Jenkins with Allure reports. I wrote the role-based access scenarios and the API validation. It's a coursework system, not a product with users.
+
+Interviewer: And the RAG research?
+
+Theekshana Kulathunga: Final year, still in progress. Python, LangChain, ChromaDB, FastAPI, Gemini for the generation step. I've built the retrieval pipeline; the evaluation is thin because I don't have good ground truth for code-mixing yet.
+
+Interviewer: Anything on your CV you'd remove?
+
+Theekshana Kulathunga: AWS. I've used it in coursework only, and Sonarqube is the same. They're exposure, not experience.","Theekshana Kulathunga - Quality Assurance Engineer
+GitHub: github.com/Theekshana-Kulathunga | LinkedIn: Theekshana-Kulathunga | Colombo, Sri Lanka
+
+SUMMARY
+Final-year undergraduate at the University of Moratuwa with a foundation in software quality assurance, test automation and testing methodologies, and experience supporting CI/CD-driven development.
+Total experience stated on CV: less than 1 year.
+
+EXPERIENCE
+Sri Lanka Telecom PLC - Software Engineer Intern, Mar 2025 - Oct 2025
+- Developed enterprise web applications using React.js, Node.js and PostgreSQL
+- Built an internship management system for onboarding and trainee tracking
+- Conducted machine learning research on telecom call data
+- Automated commission and incentive calculation workflows for the Sales Incentive Automation System (SIAS)
+
+EDUCATION
+BSc (Hons) Information Technology and Management, University of Moratuwa, May 2022 - Dec 2026
+
+PROJECTS
+- Code-Mixing Analysis in English Sermons (final year research) - Python, Pandas, FastAPI, LangChain, ChromaDB, Gemini, RAG
+- Plant Sales Management System - Java, Playwright, Cucumber, Serenity BDD, JUnit, REST Assured, Git, Jenkins, Allure reporting
+- Sales and Inventory Management System - React, React-Redux, Nest.js, PostgreSQL, Stripe, Docker
+- InvoixPro invoice tracking - React, Node.js, MongoDB, Docker, GitHub Actions
+- Black Box for Vehicles - C, Atmega 32, GSM GPRS GPS
+- Smart Bill Management System - MERN, JWT, RBAC, Cloudinary, Docker
+
+SKILLS: Java, Python, JavaScript, TypeScript, React, Next.js, Nest.js, Express.js, Playwright, Cypress, Selenium, JMeter, Sonarqube, Git, Docker, CI/CD, PostgreSQL, MSSQL, MySQL, AWS, OOP, Agile/Scrum, SOLID","GitHub MSR evidence for github.com/Theekshana-Kulathunga: {""profile_resolved"": false, ""note"": ""No MSR record returned for the handle listed on the CV; no public commit, PR or repository data available for comparison.""}",strong_alignment,0
+theek402,Theekshana Kulathunga,QA Engineer (Automation),https://github.com/Theekshana-Kulathunga,"Simulated interview for Theekshana Kulathunga applying for the role of QA Engineer (Automation):
+
+Interviewer: Can we look at your GitHub during this call?
+
+Theekshana Kulathunga: Yes, all my project work should be there.
+
+Interviewer: The handle on your CV returns nothing. No repositories, no commits.
+
+Theekshana Kulathunga: Really? Then I've misspoken, sorry. I set that account up in second year and I think I never actually pushed anything to it. Our group work went to a shared repository under a teammate's account and the internship code was internal. I'd assumed my profile showed the group projects, and it clearly doesn't.
+
+Interviewer: So the CV overstates your public footprint.
+
+Theekshana Kulathunga: The link is there and it's effectively empty, so yes, in effect it does. I'll either populate it or take it off.
+
+Interviewer: You described yourself as having strong CI/CD experience.
+
+Theekshana Kulathunga: That's from the plant sales project, Jenkins running the Serenity suite with Allure reporting, plus GitHub Actions on the invoice tracking project. At Sri Lanka Telecom the pipelines were owned by another team and I only consumed them. So: I've configured CI for university projects, I haven't owned a production pipeline.
+
+Interviewer: You listed both Playwright and Cypress and Selenium.
+
+Theekshana Kulathunga: Playwright I've genuinely used. Selenium and Cypress were single modules in coursework. If you asked me to build a suite tomorrow I'd pick Playwright because it's the only one I'd be quick in.
+
+Interviewer: How long was your internship?
+
+Theekshana Kulathunga: Eight months, March to October 2025.","Theekshana Kulathunga - Quality Assurance Engineer
+GitHub: github.com/Theekshana-Kulathunga | LinkedIn: Theekshana-Kulathunga | Colombo, Sri Lanka
+
+SUMMARY
+Final-year undergraduate at the University of Moratuwa with a foundation in software quality assurance, test automation and testing methodologies, and experience supporting CI/CD-driven development.
+Total experience stated on CV: less than 1 year.
+
+EXPERIENCE
+Sri Lanka Telecom PLC - Software Engineer Intern, Mar 2025 - Oct 2025
+- Developed enterprise web applications using React.js, Node.js and PostgreSQL
+- Built an internship management system for onboarding and trainee tracking
+- Conducted machine learning research on telecom call data
+- Automated commission and incentive calculation workflows for the Sales Incentive Automation System (SIAS)
+
+EDUCATION
+BSc (Hons) Information Technology and Management, University of Moratuwa, May 2022 - Dec 2026
+
+PROJECTS
+- Code-Mixing Analysis in English Sermons (final year research) - Python, Pandas, FastAPI, LangChain, ChromaDB, Gemini, RAG
+- Plant Sales Management System - Java, Playwright, Cucumber, Serenity BDD, JUnit, REST Assured, Git, Jenkins, Allure reporting
+- Sales and Inventory Management System - React, React-Redux, Nest.js, PostgreSQL, Stripe, Docker
+- InvoixPro invoice tracking - React, Node.js, MongoDB, Docker, GitHub Actions
+- Black Box for Vehicles - C, Atmega 32, GSM GPRS GPS
+- Smart Bill Management System - MERN, JWT, RBAC, Cloudinary, Docker
+
+SKILLS: Java, Python, JavaScript, TypeScript, React, Next.js, Nest.js, Express.js, Playwright, Cypress, Selenium, JMeter, Sonarqube, Git, Docker, CI/CD, PostgreSQL, MSSQL, MySQL, AWS, OOP, Agile/Scrum, SOLID","GitHub MSR evidence for github.com/Theekshana-Kulathunga: {""profile_resolved"": false, ""note"": ""No MSR record returned for the handle listed on the CV; no public commit, PR or repository data available for comparison.""}",partial_alignment,0
+theek403,Theekshana Kulathunga,Senior QA Engineer,https://github.com/Theekshana-Kulathunga,"Simulated interview for Theekshana Kulathunga applying for the role of Senior QA Engineer:
+
+Interviewer: How many years of QA experience?
+
+Theekshana Kulathunga: Just over two years, working across telecom and enterprise systems.
+
+Interviewer: Your CV says less than one year and lists a single internship from March to October 2025, with the title software engineer intern.
+
+Theekshana Kulathunga: I was doing QA throughout that, and I count my project work as professional experience.
+
+Interviewer: Where can I see your automation frameworks?
+
+Theekshana Kulathunga: My GitHub. The Serenity framework, the RAG pipeline, the MERN projects, they're all public and reasonably well starred.
+
+Interviewer: We queried the handle on your CV. Nothing resolves. No repositories, no commits, no followers.
+
+Theekshana Kulathunga: The profile must be set to private mode.
+
+Interviewer: You said it was public and starred a moment ago.
+
+Theekshana Kulathunga: I've changed the visibility since I started applying, to stop people copying my work.
+
+Interviewer: You also state that the RAG research is published.
+
+Theekshana Kulathunga: It's under review at a journal, effectively published.
+
+Interviewer: Your CV lists it as an in-progress final year research project.
+
+Theekshana Kulathunga: The CV was written before the submission.
+
+Interviewer: Did you own the SIAS commission system end to end?
+
+Theekshana Kulathunga: I designed and delivered it single-handedly for the whole sales division.
+
+Interviewer: The CV describes automating commission and incentive workflows as one of five bullet points in an internship.
+
+Theekshana Kulathunga: It was the main thing I did there.","Theekshana Kulathunga - Quality Assurance Engineer
+GitHub: github.com/Theekshana-Kulathunga | LinkedIn: Theekshana-Kulathunga | Colombo, Sri Lanka
+
+SUMMARY
+Final-year undergraduate at the University of Moratuwa with a foundation in software quality assurance, test automation and testing methodologies, and experience supporting CI/CD-driven development.
+Total experience stated on CV: less than 1 year.
+
+EXPERIENCE
+Sri Lanka Telecom PLC - Software Engineer Intern, Mar 2025 - Oct 2025
+- Developed enterprise web applications using React.js, Node.js and PostgreSQL
+- Built an internship management system for onboarding and trainee tracking
+- Conducted machine learning research on telecom call data
+- Automated commission and incentive calculation workflows for the Sales Incentive Automation System (SIAS)
+
+EDUCATION
+BSc (Hons) Information Technology and Management, University of Moratuwa, May 2022 - Dec 2026
+
+PROJECTS
+- Code-Mixing Analysis in English Sermons (final year research) - Python, Pandas, FastAPI, LangChain, ChromaDB, Gemini, RAG
+- Plant Sales Management System - Java, Playwright, Cucumber, Serenity BDD, JUnit, REST Assured, Git, Jenkins, Allure reporting
+- Sales and Inventory Management System - React, React-Redux, Nest.js, PostgreSQL, Stripe, Docker
+- InvoixPro invoice tracking - React, Node.js, MongoDB, Docker, GitHub Actions
+- Black Box for Vehicles - C, Atmega 32, GSM GPRS GPS
+- Smart Bill Management System - MERN, JWT, RBAC, Cloudinary, Docker
+
+SKILLS: Java, Python, JavaScript, TypeScript, React, Next.js, Nest.js, Express.js, Playwright, Cypress, Selenium, JMeter, Sonarqube, Git, Docker, CI/CD, PostgreSQL, MSSQL, MySQL, AWS, OOP, Agile/Scrum, SOLID","GitHub MSR evidence for github.com/Theekshana-Kulathunga: {""profile_resolved"": false, ""note"": ""No MSR record returned for the handle listed on the CV; no public commit, PR or repository data available for comparison.""}",strong_misalignment,1
+yasit801,Yasith Sarada,Full Stack Developer (.NET / React),https://github.com/Yasithsarada,"Simulated interview for Yasith Sarada applying for the role of Full Stack Developer (.NET / React):
+
+Interviewer: Yasith, how much .NET experience do you actually have?
+
+Yasith Sarada: About a year if I'm generous, and it's uneven. Seven months at Unicorn Solutions from February to August 2025, where the product was ASP.NET Core with React, and then LevoHub from January to March 2026, which was .NET Core with Entity Framework and PostgreSQL. Outside those two, nothing. My CV says ten months total professional experience and that's the honest number.
+
+Interviewer: Your GitHub doesn't look like a .NET developer's account.
+
+Yasith Sarada: It doesn't. Twenty-seven repos, and the breakdown is eight JavaScript, seven Dart, two C#, two TypeScript, then odds and ends. The Dart is Flutter coursework, the C# is two small projects. The .NET work I've been paid for is in company repositories, and LevoHub belongs to the client.
+
+Interviewer: So if I judged you only on GitHub, I'd call you a Flutter and JavaScript developer.
+
+Yasith Sarada: You would, and you'd be missing the paid work, which is the trade-off of having your professional code be private. I'd rather flag it than let you assume the C# repos represent the depth.
+
+Interviewer: Your commit history is heavier than most, though.
+
+Yasith Sarada: Ninety-eight commits, about three a week when I'm active. Seven pull requests, six merged, one closed, and roughly one in nine of my commits is a merge, because on the group projects we did branch and merge properly. That part I'm reasonably happy with.
+
+Interviewer: Tell me about the Gen-AI hackathon.
+
+Yasith Sarada: Two days, internal, our team won. I set up Azure AI Foundry and wired an MCP server so the agent could call the product's own APIs. It was a prototype, not something that shipped.
+
+Interviewer: Cloud depth?
+
+Yasith Sarada: Azure at a user level, with guidance. Containers, App Service, pipelines, cost estimates. I've never owned a subscription.","Yasith Sarada - Full Stack Developer
+GitHub: github.com/Yasithsarada | LinkedIn: linkedin.com/in/yasith-sarada | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, proficient in full-stack development.
+Total experience stated on CV: 10 months.
+
+EXPERIENCE
+Unicorn Solutions PVT (LTD) - Intern Software Engineer, Feb 2025 - Aug 2025
+- Upgraded enterprise applications from React 16 to React 18 across multiple modules
+- Part of the winning team in an internal Gen-AI hackathon, setting up Azure AI Foundry with LLM-based agentic usage and initialising MCP servers
+- Built a QA test case management system with Excel import/export, Azure AD authentication and advanced search
+- Explored Azure services with guidance (containers, CI/CD deployments, database services, cost estimation, app services)
+- Managed Docker containerisation and Azure deployments
+DoNext PVT (LTD) - Web developer (internship), Mar 2022 - May 2022
+- Assisted in developing web applications using React (JS and TS) and Node.js
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026
+
+PROJECTS
+- LevoHub construction workflow management (project manager and dev, Jan 2026 - Mar 2026) - .NET Core, React, TypeScript, Entity Core, PostgreSQL
+- Kathawo real-time social platform (May 2024 - Dec 2024) - Node.js, Express.js, Socket.io, Prisma ORM, PostgreSQL, Cloudinary, cron
+- Halloween event platform (freelance, 2024) - React, Tailwind CSS
+- MindMap 3D knowledge visualisation - React, TypeScript, .NET Core, Entity Core, LLM integration
+- Studio Management System (team lead) - React, Flutter, Node.js, TypeScript, MSSQL, Azure
+- Test Case Management System, Zephyr replacement - React, TypeScript, .NET Core, MSSQL, Entity Framework, Azure DevOps
+- Green Heven plantation e-commerce (team lead) - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ
+
+SKILLS: Java, C#, JavaScript, Dart, TypeScript, .NET Core, React, Node.js, Express.js, Flutter, AWS, Docker, CI/CD, Azure, Git, Firebase, MSSQL, PostgreSQL, MongoDB
+LANGUAGES: English (fluent), Sinhala (native), German (basic)","GitHub MSR evidence for github.com/Yasithsarada: {""profile_resolved"": true, ""total_commits"": 98, ""frequency_per_week"": 3.27, ""average_commit_size_lines"": 692.45, ""merging_percentage"": 11.22, ""total_prs"": 7, ""accepted_prs"": 6, ""approval_rate"": 0.857, ""total_repos"": 27, ""total_stars"": 2, ""total_forks"": 0, ""followers"": 5, ""primary_languages"": {""JavaScript"": 8, ""Dart"": 7, ""C#"": 2, ""TypeScript"": 2, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""Update auth_serevices.dart"", ""Update router.dart"", ""themes are added for light and dark themes"", ""Merge pull request #4 from Yasithsarada/new-y"", ""responsive-basic""]}",strong_alignment,0
+yasit802,Yasith Sarada,Backend Engineer (.NET Core),https://github.com/Yasithsarada,"Simulated interview for Yasith Sarada applying for the role of Backend Engineer (.NET Core):
+
+Interviewer: How many years have you worked with .NET?
+
+Yasith Sarada: More than two years now. It's my main stack.
+
+Interviewer: Your CV lists one internship, February to August 2025, on ASP.NET Core, and LevoHub from January to March 2026. That's under a year of .NET.
+
+Yasith Sarada: I'd count the university projects and the freelance work alongside it, so I say two.
+
+Interviewer: Your CV's total experience line says ten months.
+
+Yasith Sarada: That's employment only. My working knowledge is longer.
+
+Interviewer: Let's check the third source. Of your twenty-seven public repositories, two are C#. The rest are JavaScript, Dart and TypeScript.
+
+Yasith Sarada: Most of my C# is in private work repositories.
+
+Interviewer: The earliest C# activity on the account is under a year old, which lines up with your CV rather than with two years.
+
+Yasith Sarada: GitHub only shows when I pushed, not when I learned it.
+
+Interviewer: You described yourself as the architect on LevoHub.
+
+Yasith Sarada: I was project manager and lead developer, yes, I made the architectural calls.
+
+Interviewer: How large was the team?
+
+Yasith Sarada: Around ten people.
+
+Interviewer: The CV lists it as a client project where you were project manager and developer, with no team size.
+
+Yasith Sarada: Counting the client's staff it was about that.
+
+Interviewer: And your Azure depth?
+
+Yasith Sarada: I own our cloud infrastructure end to end, deployments, cost, security.
+
+Interviewer: The CV says you explored Azure services with guidance during the internship.
+
+Yasith Sarada: That was written early in the internship.","Yasith Sarada - Full Stack Developer
+GitHub: github.com/Yasithsarada | LinkedIn: linkedin.com/in/yasith-sarada | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, proficient in full-stack development.
+Total experience stated on CV: 10 months.
+
+EXPERIENCE
+Unicorn Solutions PVT (LTD) - Intern Software Engineer, Feb 2025 - Aug 2025
+- Upgraded enterprise applications from React 16 to React 18 across multiple modules
+- Part of the winning team in an internal Gen-AI hackathon, setting up Azure AI Foundry with LLM-based agentic usage and initialising MCP servers
+- Built a QA test case management system with Excel import/export, Azure AD authentication and advanced search
+- Explored Azure services with guidance (containers, CI/CD deployments, database services, cost estimation, app services)
+- Managed Docker containerisation and Azure deployments
+DoNext PVT (LTD) - Web developer (internship), Mar 2022 - May 2022
+- Assisted in developing web applications using React (JS and TS) and Node.js
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026
+
+PROJECTS
+- LevoHub construction workflow management (project manager and dev, Jan 2026 - Mar 2026) - .NET Core, React, TypeScript, Entity Core, PostgreSQL
+- Kathawo real-time social platform (May 2024 - Dec 2024) - Node.js, Express.js, Socket.io, Prisma ORM, PostgreSQL, Cloudinary, cron
+- Halloween event platform (freelance, 2024) - React, Tailwind CSS
+- MindMap 3D knowledge visualisation - React, TypeScript, .NET Core, Entity Core, LLM integration
+- Studio Management System (team lead) - React, Flutter, Node.js, TypeScript, MSSQL, Azure
+- Test Case Management System, Zephyr replacement - React, TypeScript, .NET Core, MSSQL, Entity Framework, Azure DevOps
+- Green Heven plantation e-commerce (team lead) - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ
+
+SKILLS: Java, C#, JavaScript, Dart, TypeScript, .NET Core, React, Node.js, Express.js, Flutter, AWS, Docker, CI/CD, Azure, Git, Firebase, MSSQL, PostgreSQL, MongoDB
+LANGUAGES: English (fluent), Sinhala (native), German (basic)","GitHub MSR evidence for github.com/Yasithsarada: {""profile_resolved"": true, ""total_commits"": 98, ""frequency_per_week"": 3.27, ""average_commit_size_lines"": 692.45, ""merging_percentage"": 11.22, ""total_prs"": 7, ""accepted_prs"": 6, ""approval_rate"": 0.857, ""total_repos"": 27, ""total_stars"": 2, ""total_forks"": 0, ""followers"": 5, ""primary_languages"": {""JavaScript"": 8, ""Dart"": 7, ""C#"": 2, ""TypeScript"": 2, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""Update auth_serevices.dart"", ""Update router.dart"", ""themes are added for light and dark themes"", ""Merge pull request #4 from Yasithsarada/new-y"", ""responsive-basic""]}",partial_alignment,1
+yasit803,Yasith Sarada,Lead Full Stack Engineer,https://github.com/Yasithsarada,"Simulated interview for Yasith Sarada applying for the role of Lead Full Stack Engineer:
+
+Interviewer: Give me the headline on your experience.
+
+Yasith Sarada: Five years full stack, the last two leading teams. .NET Core, React, Azure, and I've delivered platforms for construction, social and e-commerce clients.
+
+Interviewer: Your CV states ten months of professional experience and you graduate in June 2026.
+
+Yasith Sarada: The CV is understated because it only counts salaried roles.
+
+Interviewer: You say most of your code is public.
+
+Yasith Sarada: Yes, my GitHub is extensive. Well over a thousand commits, mostly C# and TypeScript, and a lot of it is starred and forked by other developers.
+
+Interviewer: The account shows ninety-eight commits, two stars, no forks and five followers. The dominant languages are JavaScript and Dart, with two C# repositories.
+
+Yasith Sarada: That must be a partial scan. GitHub's API paginates and tools often miss most of it.
+
+Interviewer: You claim you led a team of twelve on LevoHub while also employed full time at Unicorn Solutions.
+
+Yasith Sarada: Both were manageable. I worked evenings on Levo.
+
+Interviewer: Your CV dates LevoHub as January to March 2026 and Unicorn as February to August 2025. They don't overlap.
+
+Yasith Sarada: The dates on the CV are approximate.
+
+Interviewer: You also list the Gen-AI hackathon as a product you shipped.
+
+Yasith Sarada: I built the agentic feature that went into the product.
+
+Interviewer: The CV describes it as contributing to a winning hackathon team over two days.
+
+Yasith Sarada: The hackathon was the origin, the feature was mine.","Yasith Sarada - Full Stack Developer
+GitHub: github.com/Yasithsarada | LinkedIn: linkedin.com/in/yasith-sarada | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, proficient in full-stack development.
+Total experience stated on CV: 10 months.
+
+EXPERIENCE
+Unicorn Solutions PVT (LTD) - Intern Software Engineer, Feb 2025 - Aug 2025
+- Upgraded enterprise applications from React 16 to React 18 across multiple modules
+- Part of the winning team in an internal Gen-AI hackathon, setting up Azure AI Foundry with LLM-based agentic usage and initialising MCP servers
+- Built a QA test case management system with Excel import/export, Azure AD authentication and advanced search
+- Explored Azure services with guidance (containers, CI/CD deployments, database services, cost estimation, app services)
+- Managed Docker containerisation and Azure deployments
+DoNext PVT (LTD) - Web developer (internship), Mar 2022 - May 2022
+- Assisted in developing web applications using React (JS and TS) and Node.js
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026
+
+PROJECTS
+- LevoHub construction workflow management (project manager and dev, Jan 2026 - Mar 2026) - .NET Core, React, TypeScript, Entity Core, PostgreSQL
+- Kathawo real-time social platform (May 2024 - Dec 2024) - Node.js, Express.js, Socket.io, Prisma ORM, PostgreSQL, Cloudinary, cron
+- Halloween event platform (freelance, 2024) - React, Tailwind CSS
+- MindMap 3D knowledge visualisation - React, TypeScript, .NET Core, Entity Core, LLM integration
+- Studio Management System (team lead) - React, Flutter, Node.js, TypeScript, MSSQL, Azure
+- Test Case Management System, Zephyr replacement - React, TypeScript, .NET Core, MSSQL, Entity Framework, Azure DevOps
+- Green Heven plantation e-commerce (team lead) - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ
+
+SKILLS: Java, C#, JavaScript, Dart, TypeScript, .NET Core, React, Node.js, Express.js, Flutter, AWS, Docker, CI/CD, Azure, Git, Firebase, MSSQL, PostgreSQL, MongoDB
+LANGUAGES: English (fluent), Sinhala (native), German (basic)","GitHub MSR evidence for github.com/Yasithsarada: {""profile_resolved"": true, ""total_commits"": 98, ""frequency_per_week"": 3.27, ""average_commit_size_lines"": 692.45, ""merging_percentage"": 11.22, ""total_prs"": 7, ""accepted_prs"": 6, ""approval_rate"": 0.857, ""total_repos"": 27, ""total_stars"": 2, ""total_forks"": 0, ""followers"": 5, ""primary_languages"": {""JavaScript"": 8, ""Dart"": 7, ""C#"": 2, ""TypeScript"": 2, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""Update auth_serevices.dart"", ""Update router.dart"", ""themes are added for light and dark themes"", ""Merge pull request #4 from Yasithsarada/new-y"", ""responsive-basic""]}",strong_misalignment,1
+irush504,Irushi Silva,QA Engineer (Contract),https://github.com/IruSilva,"Simulated interview for Irushi Silva applying for the role of QA Engineer (Contract):
+
+Interviewer: Let's talk about your GitHub activity. How much have you committed there?
+
+Irushi Silva: I'd guess somewhere around fifteen to twenty commits total, mostly on the university automation framework.
+
+Interviewer: The public record shows twelve.
+
+Irushi Silva: That sounds about right, actually — I was rounding up from memory, I don't check the count often. Twelve feels closer to correct than my first guess.
+
+Interviewer: And your commit size? Some of them look unusually large.
+
+Irushi Silva: Yes, a few are in the thousands of lines because I built the framework offline and pushed at milestones rather than incrementally. I know that's not best practice for a team setting.
+
+Interviewer: Any pull request experience?
+
+Irushi Silva: None on GitHub, no. My PR and review experience was on GitLab during my internship, not reflected on this profile.
+
+Interviewer: What about your certifications — anything in progress you haven't listed yet?
+
+Irushi Silva: Not right now. I'm considering the ISTQB Advanced track eventually, but I haven't started it, so I didn't want to put anything half-finished on the CV.","Irushi Silva - Associate QA Engineer
+GitHub: github.com/IruSilva | LinkedIn: irushi-silva-9930 | Kandana, Sri Lanka
+
+SUMMARY
+ISTQB CTFL and CT-MAT certified QA professional with one year of hands-on QA internship experience across POS, iPad POS, web dashboard, e-commerce and inventory products.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+Eleos Web Pvt. Ltd. - Software Quality Assurance Intern, Feb 2025 - Jan 2026
+- Supported test planning by reviewing requirements, workflows, validation rules and API specifications; designed and maintained scenarios and cases with positive, negative and edge-case coverage
+- Executed manual functional, regression, system integration, UI/web, desktop POS, iPad POS, smoke, exploratory and release-validation testing across demo and live environments
+- Tested REST APIs and JSON responses with Postman; performed basic SQL/PostgreSQL verification, Shopify order-flow validation and REST-to-GraphQL checks
+- Reproduced, logged, tracked, retested and verified Jira defects through resolution
+- Developed reusable data-driven Playwright tests using Page Object Model; supported GitLab commit checks and CI/CD
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, expected Jul 2026, GPA 3.51
+
+CERTIFICATIONS
+- ISTQB Certified Tester Foundation Level (CTFL, Core) v4.0, Oct 2025
+- ISTQB Certified Tester Mobile Application Testing (CT-MAT, Specialist), Mar 2026
+
+PROJECTS
+- Plant Sales Management App UI and API test automation (University of Moratuwa) - Selenium WebDriver, Java, Cucumber BDD, REST Assured, Swagger UI
+- Kassie Dashboard Stock Take Module test automation (Eleos Web) - JavaScript, Playwright, Page Object Model, JSON, GitLab, CI/CD","GitHub MSR evidence for github.com/IruSilva: {""profile_resolved"": true, ""total_commits"": 12, ""frequency_per_week"": 2.0, ""average_commit_size_lines"": 4279.5, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 7, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 0, ""primary_languages"": {""Java"": 3, ""TypeScript"": 2, ""C++"": 1}, ""sample_commit_messages"": [""Feat: Initialize UI/API automation framework and add config management (Page ...)"", ""Refactor category tests with data-driven UI automation"", ""Updated category API StepDefinitions"", ""Add SonarCloud CI pipeline""]}",moderate_alignment,0
+kavin604,Kavindu Wijegunasekara,Backend Engineer (Contract),https://github.com/kavinduprabasara,"Simulated interview for Kavindu Wijegunasekara applying for the role of Backend Engineer (Contract):
+
+Interviewer: Roughly how much have you committed on your public GitHub?
+
+Kavindu Wijegunasekara: Around a hundred and fifty commits, I'd say. I'm on there fairly consistently.
+
+Interviewer: The scan returns fifty-two across thirty repositories.
+
+Kavindu Wijegunasekara: That number seems low to me. GitHub doesn't always count everything properly.
+
+Interviewer: In what way?
+
+Kavindu Wijegunasekara: I'm not sure of the mechanism, but I know I've pushed more than that. I'd stand by a hundred and fifty.
+
+Interviewer: These are all public repositories under your own account, so there's nothing hidden from the count. Is it possible you're estimating high?
+
+Kavindu Wijegunasekara: I don't think so, no.
+
+Interviewer: You also mentioned your portfolio repository picked up some traction.
+
+Kavindu Wijegunasekara: Yes, forty or so stars on that one, which was nice to see.
+
+Interviewer: Your account shows four stars in total, across all thirty repositories.
+
+Kavindu Wijegunasekara: Then it's probably counting differently again. I remember it being higher.
+
+Interviewer: Let's move on to your VR work at 4Axis...","Kavindu Wijegunasekara - Software Engineer
+GitHub: github.com/kavinduprabasara | LinkedIn: Kavinduprabasara | Moratuwa, Sri Lanka
+(CV header also prints the handle as ""kavinduwijegunasekara"", which is the personal domain, not the GitHub account)
+
+SUMMARY
+BSc (Hons) Information Technology candidate at the University of Moratuwa with a record of adapting to diverse tech stacks, from Spring Boot microservices to VR experiences in Unity.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+4Axis Technologies Pte Ltd - Associate Software Engineer, Sept 2025 - Present
+- Developed features for the DrawKids application using Swift, SwiftUI, Firebase and Huawei Cloud DB
+4Axis Technologies Pte Ltd - Software Engineer Intern, Feb 2025 - Sept 2025
+- Developed and optimised Drawing Desk VR, published on the Meta Quest Store and PICO App Store, and led the adaptation for PICO devices
+- Contributed sound profile optimisation, scene switching, spray presets and artwork saving to the Graffity Art Drawing app
+- Worked with Unity and C#
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, 2022 - 2026, CGPA 3.60/4.0
+
+PROJECTS
+- Best Body Japan (BBJ) - main developer, SwiftUI fitness competition app (Sept 2025 - Present)
+- Drawing Desk VR - C#, Unity, PICO port
+- Microservices E-Commerce Platform (Aug 2024 - Dec 2024) - Next.js, TypeScript, React, Spring Boot, Java, MySQL, MongoDB, Kafka, Keycloak, Docker, Spring Cloud Gateway
+- Anothershot photography web application - Next.js, Nest.js, TypeScript, MongoDB, Cloudinary, Stripe, Prisma ORM
+
+VOLUNTEERING: IEEE Student Branch UoM (publicity lead 23/24); INTECS president 2025-2026; DevLabs software developer","GitHub MSR evidence for github.com/kavinduprabasara: {""profile_resolved"": true, ""total_commits"": 52, ""frequency_per_week"": 3.47, ""average_commit_size_lines"": 64.21, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 30, ""total_stars"": 4, ""total_forks"": 0, ""followers"": 11, ""primary_languages"": {""TypeScript"": 4, ""HTML"": 3, ""Python"": 3, ""Java"": 3, ""C#"": 2, ""C++"": 2, ""Prolog"": 1, ""Kotlin"": 1, ""JavaScript"": 1, ""CSS"": 1}, ""sample_commit_messages"": [""Add initial HTML structure for portfolio website"", ""Refactor index.html for design enhancements"", ""feat: ANN notes"", ""chore: setup actions"", ""Remove duplicate 'flutter' from skill icons""]}",moderate_misalignment,1
+nimet704,Nimeth Nimdinu,Machine Learning Engineer (Research Track),https://github.com/nimeth02,"Simulated interview for Nimeth Nimdinu applying for the role of Machine Learning Engineer (Research Track):
+
+Interviewer: How active is your GitHub, roughly?
+
+Nimeth Nimdinu: I'd say somewhere around fifty commits, spread across quite a few repos — a lot of experimentation for the GNN research and some smaller AI agent projects.
+
+Interviewer: The record shows forty-seven, so that's close. What about pull requests?
+
+Nimeth Nimdinu: Eleven, most of them from a couple of team projects at NovaCodex and Creative Software — one or two got sent back for changes but the rest were approved without much back and forth.
+
+Interviewer: That matches — ten of eleven approved. Your merge percentage is around seventeen percent, higher than most candidates I see. Why?
+
+Nimeth Nimdinu: Some of my repos track a research pipeline where I merge experiment branches back into main fairly often — GNN training runs, mostly. It inflates the ratio a bit but it's genuine merge activity, not padding.
+
+Interviewer: Fair enough. Tell me about the ontology-guided GNN project...","Nimeth Nimdinu - AI/ML Engineer
+GitHub: github.com/nimeth02 | LinkedIn: linkedin.com/in/nimeth-nimdinu | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in AI and machine learning, with industry experience building AI-powered applications and intelligent systems.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+NovaCodex - Associate Software Engineer (Part-time), Nov 2025 - May 2026
+- Developing real estate broker platforms including ticketing and transaction management
+- Root cause analysis on ticketing system defects and workflow bottlenecks
+- Stack: PyTorch, GNN, TGNN, FastAPI, Node.js, Next.js, AWS, MongoDB
+Creative Software - Intern Software Engineer (R&D), Mar 2025 - Sep 2025
+- Built a developer productivity analytics system using DORA metrics
+- Explored LLM-based automation, agent architectures and AI-driven workflows
+- Microfrontend architecture and SDK-based integration
+- Implemented CI/CD pipelines with Azure DevOps and on-premise Apache Tomcat deployments
+- Stack: Python, PyQt6, n8n, LangChain, LangGraph, Semantic Kernel, ASP.NET Core
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.80/4.0
+
+PROJECTS
+- Ontology-guided GNN for semantic candidate matching (lead researcher) - Python, Neo4j/RDF, PyTorch, PyTorch Geometric, spaCy, pandas, scikit-learn
+- Multi-Agent A2A System - Python, CrewAI, LangGraph, Google ADK, FastAPI, LangChain
+- Domain-Adapted Farming LLM - GPT-2 with LoRA and SFT, 4-bit quantisation, Hugging Face
+- Tea Farming Support Assistant - LangChain, LangGraph, Pinecone, FastAPI, Next.js
+- Developer productivity analytical system - Python, .NET Core, React, TypeScript, MSSQL, Azure, PyQt6
+
+CERTIFICATES: Azure Fundamentals (AZ-900), AI Agents Using RAG, Gen AI with Transformers","GitHub MSR evidence for github.com/nimeth02: {""profile_resolved"": true, ""total_commits"": 47, ""frequency_per_week"": 3.92, ""average_commit_size_lines"": 19464.85, ""merging_percentage"": 17.02, ""total_prs"": 11, ""accepted_prs"": 10, ""approval_rate"": 0.909, ""total_repos"": 43, ""total_stars"": 6, ""total_forks"": 1, ""followers"": 6, ""primary_languages"": {""JavaScript"": 14, ""TypeScript"": 10, ""Jupyter Notebook"": 7, ""C#"": 2, ""Java"": 1, ""Python"": 1, ""HTML"": 1, ""C++"": 1}, ""sample_commit_messages"": [""Merge pull request #2 from nimeth02/feature/quality-test"", ""Add SonarCloud CI pipeline"", ""Update RoleManagement.tsx"", ""Introduce quality issues 3"", ""Delete azure-pipelines.yml""]}",moderate_alignment,0
+nipun204,Nipuna Deshan,Backend Developer (DeFi/Blockchain),https://github.com/DeshanHiripitiya,"Simulated interview for Nipuna Deshan applying for the role of Backend Developer (DeFi/Blockchain):
+
+Interviewer: How active would you say your public GitHub is?
+
+Nipuna Deshan: Reasonably active. Somewhere in the forties for commits, I think, across the university and personal projects.
+
+Interviewer: The record shows nine commits across twenty-two repositories.
+
+Nipuna Deshan: Nine seems off. Some of my pushes may not have synced properly.
+
+Interviewer: Not synced in what sense? These are public repositories that resolve normally.
+
+Nipuna Deshan: I've had issues before where commits didn't register. I'd put the real figure closer to forty.
+
+Interviewer: To be clear — you're saying roughly thirty commits are missing from a public account, without a specific cause?
+
+Nipuna Deshan: That's what it looks like to me, yes.
+
+Interviewer: You also said earlier that the Pick a Book project attracted some interest.
+
+Nipuna Deshan: A few stars, yes, maybe five or six from classmates.
+
+Interviewer: The account shows zero stars and zero forks across every repository.
+
+Nipuna Deshan: I'm fairly sure there were some. It may have been reset at some point.
+
+Interviewer: Let's talk about the two published npm packages instead...","Nipuna Deshan - Fullstack & Blockchain Developer
+GitHub: github.com/DeshanHiripitiya | LinkedIn: linkedin.com/in/nipuna.deshan | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, with hands-on industry experience in full-stack development.
+Total experience stated on CV: 1 year 2 months.
+
+EXPERIENCE
+Spera Labs - Associate Software Engineer, Sep 2025 - Mar 2026
+- Developed core features for the Sendr DeFi exchange: liquidity pool creation, token swapping, Uniswap integration, real-time services (WebSocket, ZeroMQ), blockchain event listeners with monitoring, logging and rate limiting
+- Built and published two npm packages (Web3 Deposit Sync, Web3 Deposit Detect) in TypeScript
+- Contributed authentication, RBAC, database backup and file sync features to an internal HRM system
+Spera Labs - Intern Software Engineer, Mar 2025 - Sep 2025
+- Built features for PAB, a social platform for book readers: friend management, real-time chat, referrals, news/events, club management
+- Implemented a database backup system integrated with Google Drive
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.20/4.0
+
+PROJECTS
+- Sendr DeFi Exchange - Node.js, MongoDB, Redis, Solidity, Ethereum, TypeScript, WebSocket, ZeroMQ
+- Pick a Book social platform - Node.js, Express.js, MongoDB
+- Studio Management System (team lead) - React, Node.js, Express.js, MSSQL
+- Plant Management System QA Automation Framework - Node.js, Playwright, Cucumber.js, JavaScript
+
+SKILLS: JavaScript, TypeScript, Python, Java, Solidity, React, Node.js, Express.js, Docker, Git, npm package development and publishing, MSSQL, PostgreSQL, MongoDB, Redis, Ethereum, Uniswap, smart contracts, Playwright, Cucumber.js, BDD, POM","GitHub MSR evidence for github.com/DeshanHiripitiya: {""profile_resolved"": true, ""total_commits"": 9, ""frequency_per_week"": 2.25, ""average_commit_size_lines"": 2233.67, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 22, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 3, ""primary_languages"": {""JavaScript"": 13, ""TypeScript"": 3, ""C#"": 1, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""Python"": 1}, ""sample_commit_messages"": [""feat: implement game logic, session management, and user entity tracking"", ""web socket to realtime update"", ""Initial commit with backend"", ""commit""]}",moderate_misalignment,1
+prane104,Praneeth Kulathilaka,Backend Engineer (Payments),https://github.com/Praneeth-Kulathilaka,"Simulated interview for Praneeth Kulathilaka applying for the role of Backend Engineer (Payments):
+
+Interviewer: Your tech stack is mostly Go and Python from what I can see. Anything else you've worked with that isn't showing up publicly?
+
+Praneeth Kulathilaka: I've experimented a bit with Rust for a side project, though it never made it into a public repo — just local exploration, nothing production-grade.
+
+Interviewer: Fair enough. Your merge percentage is quite low, under four percent. Why is that?
+
+Praneeth Kulathilaka: Most of my public repos are solo projects where I commit straight to main, so there's not much branching to merge. The two pull requests I do have were both accepted — those were from the SRE support work at Qlub.
+
+Interviewer: That matches — two PRs, both approved. How would you describe your commit frequency?
+
+Praneeth Kulathilaka: Fairly steady, I'd guess three to four times a week on average when I'm actively working on something.
+
+Interviewer: That's close to what's recorded, just under four. Tell me about the fraud detection research project...","Praneeth Kulathilaka - Associate Software Engineer
+GitHub: github.com/Praneeth-Kulathilaka | LinkedIn: linkedin.com/in/praneeth-kulathilaka | Moratuwa, Sri Lanka
+
+SUMMARY
+Associate Software Engineer at Qlub and final-year IT undergraduate at the University of Moratuwa, with a background in designing and maintaining complex third-party integrations, debugging scalable applications and working in Agile teams.
+Total experience stated on CV: 1 year 5 months.
+
+EXPERIENCE
+Qlub - Associate Software Engineer (Part-time), Aug 2025 - Present
+- Optimised custom proxy services for scraping integrations supporting QR-based payment processing and terminal-to-cloud communication
+- Engineered SoftPOS integrations for order transactions
+- Built automated web scraping pipelines for merchant data synchronisation
+- Implemented MCP (Model Context Protocol) for secure database integrations
+Qlub - Software Engineer Intern, Feb 2025 - Jul 2025
+- Designed integration layers bridging QR payment platforms with third-party POS systems using REST APIs and webhooks
+- Built SQL-based database bridges for transaction synchronisation
+- Served as SRE support developer on high-priority production incidents
+Tech stack: Go (Golang), Python, MCP, PostgreSQL, MSSQL, MySQL, Oracle DB, Redis, Docker, REST APIs
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.69/4.0
+
+PROJECTS
+- Robust and Trustworthy Fraud Transaction Detection (ongoing research) - Bi-LSTM, XAI, data engineering
+- AI-Native Spec-Driven Development Pipeline (individual, May 2026) - Python, Google Gemini API, Pydantic, Docker, GitHub Actions, pytest, ruff
+- Qlub QR Payment and POS Integrations - Go, Python, PostgreSQL, REST APIs, Redis, Docker, SQL, MCP
+- ApartFlow Residence Management System - Node.js, React, Flutter, MySQL, PayHere
+- Green Haven e-commerce - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ, Stripe, OAuth
+
+ACHIEVEMENTS: HackX finalist (top 10) 2023; SLIOT finalist (top 10) 2024","GitHub MSR evidence for github.com/Praneeth-Kulathilaka: {""profile_resolved"": true, ""total_commits"": 53, ""frequency_per_week"": 3.79, ""average_commit_size_lines"": 523.89, ""merging_percentage"": 3.77, ""total_prs"": 2, ""accepted_prs"": 2, ""approval_rate"": 1.0, ""total_repos"": 15, ""total_stars"": 1, ""total_forks"": 0, ""followers"": 2, ""primary_languages"": {""Go"": 3, ""JavaScript"": 3, ""C++"": 2, ""Python"": 1, ""TypeScript"": 1, ""Java"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""feat/ai native spec driven pipeline implementation"", ""Add SonarCloud CI pipeline"", ""feat!: Authorization middleware and protected routes initiated"", ""fix!: Pass the square access key through login"", ""Payment v2""]}",moderate_alignment,0
+yasit804,Yasith Sarada,Full Stack Developer (React/.NET),https://github.com/Yasithsarada,"Simulated interview for Yasith Sarada applying for the role of Full Stack Developer (React/.NET):
+
+Interviewer: How would you describe your commit habits?
+
+Yasith Sarada: Pretty disciplined, honestly — I try to commit every single day, even if it's something small. It's a habit I built up over the internship.
+
+Interviewer: Your weekly average works out to a little over three commits a week, which is well under one a day.
+
+Yasith Sarada: I mean, that's the raw commit count, but I'm still writing code daily — the commits just don't always make it in the same day. I'd still call it a daily habit in terms of actual work.
+
+Interviewer: But not a daily commit habit, which is what you described.
+
+Yasith Sarada: I see the distinction, but in practice I don't think it changes much — the output is still consistent, just the git history doesn't reflect the day-to-day rhythm exactly.
+
+Interviewer: Let's go through the LevoHub project...","Yasith Sarada - Full Stack Developer
+GitHub: github.com/Yasithsarada | LinkedIn: linkedin.com/in/yasith-sarada | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, proficient in full-stack development.
+Total experience stated on CV: 10 months.
+
+EXPERIENCE
+Unicorn Solutions PVT (LTD) - Intern Software Engineer, Feb 2025 - Aug 2025
+- Upgraded enterprise applications from React 16 to React 18 across multiple modules
+- Part of the winning team in an internal Gen-AI hackathon, setting up Azure AI Foundry with LLM-based agentic usage and initialising MCP servers
+- Built a QA test case management system with Excel import/export, Azure AD authentication and advanced search
+- Explored Azure services with guidance (containers, CI/CD deployments, database services, cost estimation, app services)
+- Managed Docker containerisation and Azure deployments
+DoNext PVT (LTD) - Web developer (internship), Mar 2022 - May 2022
+- Assisted in developing web applications using React (JS and TS) and Node.js
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026
+
+PROJECTS
+- LevoHub construction workflow management (project manager and dev, Jan 2026 - Mar 2026) - .NET Core, React, TypeScript, Entity Core, PostgreSQL
+- Kathawo real-time social platform (May 2024 - Dec 2024) - Node.js, Express.js, Socket.io, Prisma ORM, PostgreSQL, Cloudinary, cron
+- Halloween event platform (freelance, 2024) - React, Tailwind CSS
+- MindMap 3D knowledge visualisation - React, TypeScript, .NET Core, Entity Core, LLM integration
+- Studio Management System (team lead) - React, Flutter, Node.js, TypeScript, MSSQL, Azure
+- Test Case Management System, Zephyr replacement - React, TypeScript, .NET Core, MSSQL, Entity Framework, Azure DevOps
+- Green Heven plantation e-commerce (team lead) - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ
+
+SKILLS: Java, C#, JavaScript, Dart, TypeScript, .NET Core, React, Node.js, Express.js, Flutter, AWS, Docker, CI/CD, Azure, Git, Firebase, MSSQL, PostgreSQL, MongoDB
+LANGUAGES: English (fluent), Sinhala (native), German (basic)","GitHub MSR evidence for github.com/Yasithsarada: {""profile_resolved"": true, ""total_commits"": 98, ""frequency_per_week"": 3.27, ""average_commit_size_lines"": 692.45, ""merging_percentage"": 11.22, ""total_prs"": 7, ""accepted_prs"": 6, ""approval_rate"": 0.857, ""total_repos"": 27, ""total_stars"": 2, ""total_forks"": 0, ""followers"": 5, ""primary_languages"": {""JavaScript"": 8, ""Dart"": 7, ""C#"": 2, ""TypeScript"": 2, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""Update auth_serevices.dart"", ""Update router.dart"", ""themes are added for light and dark themes"", ""Merge pull request #4 from Yasithsarada/new-y"", ""responsive-basic""]}",moderate_misalignment,1
+irush505,Irushi Silva,QA Engineer (Automation Focus),https://github.com/IruSilva,"Simulated interview for Irushi Silva applying for the role of QA Engineer (Automation Focus):
+
+Interviewer: How many commits would you say you've made across your projects?
+
+Irushi Silva: Honestly I'm not sure — maybe twenty-five or so? I don't really track the number, I just commit when something's working.
+
+Interviewer: That's fine, a lot of people don't track it precisely. Let's talk about your ISTQB certifications — when did you complete the Mobile Application Testing specialism?
+
+Irushi Silva: March 2026. I did the Core CTFL first in October 2025, then moved on to the mobile specialism once I felt ready.
+
+Interviewer: And your test automation stack — Playwright, Cucumber, Serenity BDD, REST Assured. Which of those have you used most recently?
+
+Irushi Silva: Playwright, definitely — that's what the Kassie Dashboard stock-take module automation used. The Cucumber and Serenity combination was more from the university plant sales project.","Irushi Silva - Associate QA Engineer
+GitHub: github.com/IruSilva | LinkedIn: irushi-silva-9930 | Kandana, Sri Lanka
+
+SUMMARY
+ISTQB CTFL and CT-MAT certified QA professional with one year of hands-on QA internship experience across POS, iPad POS, web dashboard, e-commerce and inventory products.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+Eleos Web Pvt. Ltd. - Software Quality Assurance Intern, Feb 2025 - Jan 2026
+- Supported test planning by reviewing requirements, workflows, validation rules and API specifications; designed and maintained scenarios and cases with positive, negative and edge-case coverage
+- Executed manual functional, regression, system integration, UI/web, desktop POS, iPad POS, smoke, exploratory and release-validation testing across demo and live environments
+- Tested REST APIs and JSON responses with Postman; performed basic SQL/PostgreSQL verification, Shopify order-flow validation and REST-to-GraphQL checks
+- Reproduced, logged, tracked, retested and verified Jira defects through resolution
+- Developed reusable data-driven Playwright tests using Page Object Model; supported GitLab commit checks and CI/CD
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, expected Jul 2026, GPA 3.51
+
+CERTIFICATIONS
+- ISTQB Certified Tester Foundation Level (CTFL, Core) v4.0, Oct 2025
+- ISTQB Certified Tester Mobile Application Testing (CT-MAT, Specialist), Mar 2026
+
+PROJECTS
+- Plant Sales Management App UI and API test automation (University of Moratuwa) - Selenium WebDriver, Java, Cucumber BDD, REST Assured, Swagger UI
+- Kassie Dashboard Stock Take Module test automation (Eleos Web) - JavaScript, Playwright, Page Object Model, JSON, GitLab, CI/CD","GitHub MSR evidence for github.com/IruSilva: {""profile_resolved"": true, ""total_commits"": 12, ""frequency_per_week"": 2.0, ""average_commit_size_lines"": 4279.5, ""merging_percentage"": 0.0, ""total_prs"": 0, ""accepted_prs"": 0, ""approval_rate"": 0.0, ""total_repos"": 7, ""total_stars"": 0, ""total_forks"": 0, ""followers"": 0, ""primary_languages"": {""Java"": 3, ""TypeScript"": 2, ""C++"": 1}, ""sample_commit_messages"": [""Feat: Initialize UI/API automation framework and add config management (Page ...)"", ""Refactor category tests with data-driven UI automation"", ""Updated category API StepDefinitions"", ""Add SonarCloud CI pipeline""]}",ambiguous_alignment,0
+nimet705,Nimeth Nimdinu,Machine Learning Engineer (Applied Research),https://github.com/nimeth02,"Simulated interview for Nimeth Nimdinu applying for the role of Machine Learning Engineer (Applied Research):
+
+Interviewer: How many repositories do you actively maintain?
+
+Nimeth Nimdinu: Somewhere around twenty five, I think — a lot of them are experiment repos from the GNN research and the agent projects, so the exact count kind of drifts.
+
+Interviewer: Understood, research repos tend to multiply. Tell me about the ontology-guided GNN project you led.
+
+Nimeth Nimdinu: It's a semantic candidate-matching system. We used Neo4j for the ontology graph, PyTorch Geometric for the GNN layers, and spaCy for entity extraction from job descriptions. I was the lead researcher on it.
+
+Interviewer: And your role at NovaCodex — is that still ongoing?
+
+Nimeth Nimdinu: Yes, part-time since November. I'm mainly doing root cause analysis on the ticketing platform right now.","Nimeth Nimdinu - AI/ML Engineer
+GitHub: github.com/nimeth02 | LinkedIn: linkedin.com/in/nimeth-nimdinu | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in AI and machine learning, with industry experience building AI-powered applications and intelligent systems.
+Total experience stated on CV: 1 year.
+
+EXPERIENCE
+NovaCodex - Associate Software Engineer (Part-time), Nov 2025 - May 2026
+- Developing real estate broker platforms including ticketing and transaction management
+- Root cause analysis on ticketing system defects and workflow bottlenecks
+- Stack: PyTorch, GNN, TGNN, FastAPI, Node.js, Next.js, AWS, MongoDB
+Creative Software - Intern Software Engineer (R&D), Mar 2025 - Sep 2025
+- Built a developer productivity analytics system using DORA metrics
+- Explored LLM-based automation, agent architectures and AI-driven workflows
+- Microfrontend architecture and SDK-based integration
+- Implemented CI/CD pipelines with Azure DevOps and on-premise Apache Tomcat deployments
+- Stack: Python, PyQt6, n8n, LangChain, LangGraph, Semantic Kernel, ASP.NET Core
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.80/4.0
+
+PROJECTS
+- Ontology-guided GNN for semantic candidate matching (lead researcher) - Python, Neo4j/RDF, PyTorch, PyTorch Geometric, spaCy, pandas, scikit-learn
+- Multi-Agent A2A System - Python, CrewAI, LangGraph, Google ADK, FastAPI, LangChain
+- Domain-Adapted Farming LLM - GPT-2 with LoRA and SFT, 4-bit quantisation, Hugging Face
+- Tea Farming Support Assistant - LangChain, LangGraph, Pinecone, FastAPI, Next.js
+- Developer productivity analytical system - Python, .NET Core, React, TypeScript, MSSQL, Azure, PyQt6
+
+CERTIFICATES: Azure Fundamentals (AZ-900), AI Agents Using RAG, Gen AI with Transformers","GitHub MSR evidence for github.com/nimeth02: {""profile_resolved"": true, ""total_commits"": 47, ""frequency_per_week"": 3.92, ""average_commit_size_lines"": 19464.85, ""merging_percentage"": 17.02, ""total_prs"": 11, ""accepted_prs"": 10, ""approval_rate"": 0.909, ""total_repos"": 43, ""total_stars"": 6, ""total_forks"": 1, ""followers"": 6, ""primary_languages"": {""JavaScript"": 14, ""TypeScript"": 10, ""Jupyter Notebook"": 7, ""C#"": 2, ""Java"": 1, ""Python"": 1, ""HTML"": 1, ""C++"": 1}, ""sample_commit_messages"": [""Merge pull request #2 from nimeth02/feature/quality-test"", ""Add SonarCloud CI pipeline"", ""Update RoleManagement.tsx"", ""Introduce quality issues 3"", ""Delete azure-pipelines.yml""]}",ambiguous_alignment,0
+prane105,Praneeth Kulathilaka,Backend Engineer (Distributed Systems),https://github.com/Praneeth-Kulathilaka,"Simulated interview for Praneeth Kulathilaka applying for the role of Backend Engineer (Distributed Systems):
+
+Interviewer: How often would you say you commit code, roughly?
+
+Praneeth Kulathilaka: I'd guess maybe five or six times a week when I'm deep in something — though it really depends on the project, some weeks are quiet.
+
+Interviewer: That's a reasonable pace. Let's go through the Qlub SoftPOS integration work — what exactly did you own there?
+
+Praneeth Kulathilaka: The proxy service optimisation for the scraping integrations, and I built the SoftPOS transaction flow for terminal-to-cloud communication. I also did the SRE support rotation during my internship.
+
+Interviewer: And the MCP implementation for database integrations — whose idea was that?
+
+Praneeth Kulathilaka: Mine, actually. I proposed it after seeing how much boilerplate we were writing for each new database connector.","Praneeth Kulathilaka - Associate Software Engineer
+GitHub: github.com/Praneeth-Kulathilaka | LinkedIn: linkedin.com/in/praneeth-kulathilaka | Moratuwa, Sri Lanka
+
+SUMMARY
+Associate Software Engineer at Qlub and final-year IT undergraduate at the University of Moratuwa, with a background in designing and maintaining complex third-party integrations, debugging scalable applications and working in Agile teams.
+Total experience stated on CV: 1 year 5 months.
+
+EXPERIENCE
+Qlub - Associate Software Engineer (Part-time), Aug 2025 - Present
+- Optimised custom proxy services for scraping integrations supporting QR-based payment processing and terminal-to-cloud communication
+- Engineered SoftPOS integrations for order transactions
+- Built automated web scraping pipelines for merchant data synchronisation
+- Implemented MCP (Model Context Protocol) for secure database integrations
+Qlub - Software Engineer Intern, Feb 2025 - Jul 2025
+- Designed integration layers bridging QR payment platforms with third-party POS systems using REST APIs and webhooks
+- Built SQL-based database bridges for transaction synchronisation
+- Served as SRE support developer on high-priority production incidents
+Tech stack: Go (Golang), Python, MCP, PostgreSQL, MSSQL, MySQL, Oracle DB, Redis, Docker, REST APIs
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026, CGPA 3.69/4.0
+
+PROJECTS
+- Robust and Trustworthy Fraud Transaction Detection (ongoing research) - Bi-LSTM, XAI, data engineering
+- AI-Native Spec-Driven Development Pipeline (individual, May 2026) - Python, Google Gemini API, Pydantic, Docker, GitHub Actions, pytest, ruff
+- Qlub QR Payment and POS Integrations - Go, Python, PostgreSQL, REST APIs, Redis, Docker, SQL, MCP
+- ApartFlow Residence Management System - Node.js, React, Flutter, MySQL, PayHere
+- Green Haven e-commerce - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ, Stripe, OAuth
+
+ACHIEVEMENTS: HackX finalist (top 10) 2023; SLIOT finalist (top 10) 2024","GitHub MSR evidence for github.com/Praneeth-Kulathilaka: {""profile_resolved"": true, ""total_commits"": 53, ""frequency_per_week"": 3.79, ""average_commit_size_lines"": 523.89, ""merging_percentage"": 3.77, ""total_prs"": 2, ""accepted_prs"": 2, ""approval_rate"": 1.0, ""total_repos"": 15, ""total_stars"": 1, ""total_forks"": 0, ""followers"": 2, ""primary_languages"": {""Go"": 3, ""JavaScript"": 3, ""C++"": 2, ""Python"": 1, ""TypeScript"": 1, ""Java"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""feat/ai native spec driven pipeline implementation"", ""Add SonarCloud CI pipeline"", ""feat!: Authorization middleware and protected routes initiated"", ""fix!: Pass the square access key through login"", ""Payment v2""]}",ambiguous_alignment,0
+yasit805,Yasith Sarada,Full Stack Developer (Platform Team),https://github.com/Yasithsarada,"Simulated interview for Yasith Sarada applying for the role of Full Stack Developer (Platform Team):
+
+Interviewer: Roughly how many repositories do you have on GitHub?
+
+Yasith Sarada: I'd say somewhere in the high thirties, low forties maybe — between university coursework, freelance work and personal projects, it's built up over time.
+
+Interviewer: That's a solid portfolio. Walk me through the LevoHub project — what was your role?
+
+Yasith Sarada: Project manager and developer both. I set up the .NET Core backend with Entity Core, and built the construction workflow state machine — tracking a project from initial estimate through to completion.
+
+Interviewer: And the Gen-AI hackathon at Unicorn Solutions — what did your team actually build?
+
+Yasith Sarada: We set up Azure AI Foundry with an agentic workflow — the agents handled ticket triage and drafted first-pass responses using MCP servers for context. We won, which was a nice surprise.","Yasith Sarada - Full Stack Developer
+GitHub: github.com/Yasithsarada | LinkedIn: linkedin.com/in/yasith-sarada | Moratuwa, Sri Lanka
+
+SUMMARY
+Final-year IT undergraduate at the University of Moratuwa specialising in software engineering and AI, proficient in full-stack development.
+Total experience stated on CV: 10 months.
+
+EXPERIENCE
+Unicorn Solutions PVT (LTD) - Intern Software Engineer, Feb 2025 - Aug 2025
+- Upgraded enterprise applications from React 16 to React 18 across multiple modules
+- Part of the winning team in an internal Gen-AI hackathon, setting up Azure AI Foundry with LLM-based agentic usage and initialising MCP servers
+- Built a QA test case management system with Excel import/export, Azure AD authentication and advanced search
+- Explored Azure services with guidance (containers, CI/CD deployments, database services, cost estimation, app services)
+- Managed Docker containerisation and Azure deployments
+DoNext PVT (LTD) - Web developer (internship), Mar 2022 - May 2022
+- Assisted in developing web applications using React (JS and TS) and Node.js
+
+EDUCATION
+BSc (Hons) Information Technology, University of Moratuwa, Jun 2022 - Jun 2026
+
+PROJECTS
+- LevoHub construction workflow management (project manager and dev, Jan 2026 - Mar 2026) - .NET Core, React, TypeScript, Entity Core, PostgreSQL
+- Kathawo real-time social platform (May 2024 - Dec 2024) - Node.js, Express.js, Socket.io, Prisma ORM, PostgreSQL, Cloudinary, cron
+- Halloween event platform (freelance, 2024) - React, Tailwind CSS
+- MindMap 3D knowledge visualisation - React, TypeScript, .NET Core, Entity Core, LLM integration
+- Studio Management System (team lead) - React, Flutter, Node.js, TypeScript, MSSQL, Azure
+- Test Case Management System, Zephyr replacement - React, TypeScript, .NET Core, MSSQL, Entity Framework, Azure DevOps
+- Green Heven plantation e-commerce (team lead) - Node.js, React, Docker, MSSQL, Redis, gRPC, RabbitMQ
+
+SKILLS: Java, C#, JavaScript, Dart, TypeScript, .NET Core, React, Node.js, Express.js, Flutter, AWS, Docker, CI/CD, Azure, Git, Firebase, MSSQL, PostgreSQL, MongoDB
+LANGUAGES: English (fluent), Sinhala (native), German (basic)","GitHub MSR evidence for github.com/Yasithsarada: {""profile_resolved"": true, ""total_commits"": 98, ""frequency_per_week"": 3.27, ""average_commit_size_lines"": 692.45, ""merging_percentage"": 11.22, ""total_prs"": 7, ""accepted_prs"": 6, ""approval_rate"": 0.857, ""total_repos"": 27, ""total_stars"": 2, ""total_forks"": 0, ""followers"": 5, ""primary_languages"": {""JavaScript"": 8, ""Dart"": 7, ""C#"": 2, ""TypeScript"": 2, ""Jupyter Notebook"": 1, ""Java"": 1, ""CSS"": 1, ""HTML"": 1}, ""sample_commit_messages"": [""Update auth_serevices.dart"", ""Update router.dart"", ""themes are added for light and dark themes"", ""Merge pull request #4 from Yasithsarada/new-y"", ""responsive-basic""]}",ambiguous_alignment,0

@@ -1,0 +1,14 @@
+{
+  "_id": "9c285d73-ebd6-4735-9ca7-ba0b80844c84",
+  "candidate_id": null,
+  "filename": "Software Engineer Interview.m4a",
+  "status": "FAILED",
+  "created_at": "2026-06-16T04:15:45.501235",
+  "finished_at": "2026-06-16T04:19:31.187119",
+  "raw_transcript": null,
+  "cleaned_transcript": null,
+  "claims": null,
+  "explainability_report": [],
+  "comparisons": {},
+  "error": "Transcription failed: <class 'celery.concurrency.solo.TaskPool'> does not implement kill_job"
+}

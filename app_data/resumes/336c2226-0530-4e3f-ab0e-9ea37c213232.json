@@ -1,0 +1,443 @@
+{
+  "_id": "336c2226-0530-4e3f-ab0e-9ea37c213232",
+  "filename": "Kavindu Wijegunasekara SE (4).pdf",
+  "uploaded_at": "2026-07-29T03:55:28.382845",
+  "entities": {
+    "full_name": "Kavindu Wijegunasekara",
+    "email": "kavinduwijegunasekara@gmail.com",
+    "phone": "+94 76-214-9477",
+    "github": "githubkavinduwijegunasekara",
+    "linkedin": "linkedinKavinduprabasara",
+    "skills": [
+      "Swift",
+      "Java",
+      "Python",
+      "C",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Kotlin",
+      "SwiftUI",
+      "Next.js",
+      "React.js",
+      "Nest.js",
+      "Express.js",
+      "Jetpack Compose",
+      "Prisma ORM",
+      "MySQL",
+      "MongoDB",
+      "Unity",
+      "Blender",
+      "Figma",
+      "HackerRank",
+      "Xcode",
+      "Android Studio",
+      "Firebase",
+      "Huawei Cloud DB",
+      "Spring Boot",
+      "Kafka",
+      "Keycloak",
+      "Docker",
+      "Spring Cloud Gateway",
+      "Cloudinary",
+      "Stripe"
+    ],
+    "education": [
+      {
+        "institution": "University of Moratuwa",
+        "degree": "Bachelor of Science (Hons)",
+        "field_of_study": "Information Technology",
+        "start_date": "2022",
+        "end_date": "2026",
+        "gpa": "3.60/4.0"
+      },
+      {
+        "institution": "Rahula College Matara",
+        "degree": "G.C.E Advanced Levels",
+        "field_of_study": "Combined Mathematics, Chemistry, Physics",
+        "start_date": "2017",
+        "end_date": "2020",
+        "gpa": null
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "4Axis Technologies Pte Ltd",
+        "role": "Associate Software Engineer",
+        "start_date": "Sept 2025",
+        "end_date": "Present",
+        "description": "Developed features for DrawKids application using Swift, SwiftUI, Firebase, and Huawei Cloud DB. Contributed to enhancing app functionality and user experience for mobile platforms.",
+        "technologies": [
+          "Swift",
+          "SwiftUI",
+          "Firebase",
+          "Huawei Cloud DB"
+        ]
+      },
+      {
+        "company": "4Axis Technologies Pte Ltd",
+        "role": "Software Engineer Intern",
+        "start_date": "Feb 2025",
+        "end_date": "Sept 2025",
+        "description": "Developed and optimized Drawing Desk VR, a VR drawing practice app available on Meta Quest Store and PICO App Store, by enhancing interactivity and leading the adaptation for PICO devices. Contributed to Graffity Art Drawing app by optimizing sound profiles, implementing scene switching, creating spray presets, and adding artwork saving functionality. Worked with Unity and C# to create immersive VR experiences.",
+        "technologies": [
+          "Unity",
+          "C#"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Best Body Japan (BBJ)",
+        "description": "Main developer of a SwiftUI mobile application for a fitness competition platform, built as part of the Associate Software Engineer role at 4Axis Technologies. The app enables users to participate in fitness competitions, track progress, and engage with the community.",
+        "technologies": [
+          "Swift",
+          "SwiftUI"
+        ],
+        "link": null
+      },
+      {
+        "name": "Drawing Desk VR",
+        "description": "Converted the Drawing Desk VR application for PICO VR, implemented new features, and fixed bugs to improve stability and overall user experience.",
+        "technologies": [
+          "C#",
+          "Unity"
+        ],
+        "link": null
+      },
+      {
+        "name": "Microservices E-Commerce Platform",
+        "description": "Led development of a microservices-based e-commerce platform with customer-facing frontend, admin dashboard, and Spring Boot backend services. Implemented order processing system with real-time inventory tracking and built admin dashboard with analytics, product management, and customer management features.",
+        "technologies": [
+          "Next.js",
+          "TypeScript",
+          "React",
+          "Spring Boot",
+          "Java",
+          "MySQL",
+          "MongoDB",
+          "Kafka",
+          "Keycloak",
+          "Docker",
+          "Spring Cloud Gateway"
+        ],
+        "link": null
+      },
+      {
+        "name": "Anothershot - Photography Web Application",
+        "description": "A platform for discovering, booking, and paying photographers online, featuring interactive portfolios and community engagement. Integrated payment gateway, set up Cloudinary for image management, and converted the app into a PWA to boost accessibility and user engagement.",
+        "technologies": [
+          "Next.js",
+          "Nest.js",
+          "TypeScript",
+          "MongoDB",
+          "Cloudinary",
+          "Stripe",
+          "PrismaORM"
+        ],
+        "link": "anothershots.com"
+      }
+    ],
+    "certifications": [],
+    "languages": [],
+    "total_years_experience": "1 year",
+    "claimed_role": "Software Engineer"
+  },
+  "normalized_skills": [
+    {
+      "original": "Swift",
+      "canonical": "Swift",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Java",
+      "canonical": "Java",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Python",
+      "canonical": "Python",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "C",
+      "canonical": "C",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "C#",
+      "canonical": "C#",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "JavaScript",
+      "canonical": "JavaScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "TypeScript",
+      "canonical": "TypeScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Kotlin",
+      "canonical": "Kotlin",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "SwiftUI",
+      "canonical": "SwiftUI",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Next.js",
+      "canonical": "Next.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "React.js",
+      "canonical": "React",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Nest.js",
+      "canonical": "Nest.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Express.js",
+      "canonical": "Express.js",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Jetpack Compose",
+      "canonical": "Jetpack Compose",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Prisma ORM",
+      "canonical": "Prisma ORM",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "MySQL",
+      "canonical": "SQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "MongoDB",
+      "canonical": "MongoDB",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Unity",
+      "canonical": "Unity",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Blender",
+      "canonical": "Blender",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Figma",
+      "canonical": "Figma",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "HackerRank",
+      "canonical": "HackerRank",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Xcode",
+      "canonical": "Xcode",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Android Studio",
+      "canonical": "Android Studio",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Firebase",
+      "canonical": "Firebase",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Huawei Cloud DB",
+      "canonical": "Huawei Cloud DB",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Spring Boot",
+      "canonical": "Spring Boot",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Kafka",
+      "canonical": "Kafka",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Keycloak",
+      "canonical": "Keycloak",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Docker",
+      "canonical": "Docker",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Spring Cloud Gateway",
+      "canonical": "Spring Cloud Gateway",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Cloudinary",
+      "canonical": "Cloudinary",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Stripe",
+      "canonical": "Stripe",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    }
+  ],
+  "explainability_traces": [
+    {
+      "field": "full_name",
+      "extracted_value": "Kavindu Wijegunasekara",
+      "raw_snippet": "... --- [Page 1] --- Kavindu Wijegunasekara /githubkavinduwijegunasekara | /linkedinKavinduprabasara | /gl bekavinduwijegunasekara.me /envel pe ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "email",
+      "extracted_value": "kavinduwijegunasekara@gmail.com",
+      "raw_snippet": "... /githubkavinduwijegunasekara | /linkedinKavinduprabasara | /gl bekavinduwijegunasekara.me /envel pekavinduwijegunasekara@gmail.com | obile+94 76-214-9477 Summary Problem-solver and BSc (Hons) Information Technology candidate at th ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "phone",
+      "extracted_value": "+94 76-214-9477",
+      "raw_snippet": "... inKavinduprabasara | /gl bekavinduwijegunasekara.me /envel pekavinduwijegunasekara@gmail.com | obile+94 76-214-9477 Summary Problem-solver and BSc (Hons) Information Technology candidate at the University of Moratuw ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "github",
+      "extracted_value": "githubkavinduwijegunasekara",
+      "raw_snippet": "... --- [Page 1] --- Kavindu Wijegunasekara /githubkavinduwijegunasekara | /linkedinKavinduprabasara | /gl bekavinduwijegunasekara.me /envel pekavinduwijegunasekara@gmail.c ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "linkedin",
+      "extracted_value": "linkedinKavinduprabasara",
+      "raw_snippet": "... --- [Page 1] --- Kavindu Wijegunasekara /githubkavinduwijegunasekara | /linkedinKavinduprabasara | /gl bekavinduwijegunasekara.me /envel pekavinduwijegunasekara@gmail.com | obile+94 76-214-9477 Su ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "claimed_role",
+      "extracted_value": "Software Engineer",
+      "raw_snippet": "... s in Unity, I thrive on tackling challenges across the full technology spectrum. Having completed a Software Engineering internship, I am seeking a Software Engineer role to contribute innovative solutions while conti ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[0].institution",
+      "extracted_value": "University of Moratuwa",
+      "raw_snippet": "... obile+94 76-214-9477 Summary Problem-solver and BSc (Hons) Information Technology candidate at the University of Moratuwa with a proven track record of adapting to diverse tech stacks to deliver impactful solutions. From ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[1].institution",
+      "extracted_value": "Rahula College Matara",
+      "raw_snippet": "... ormation Technology at University of Moratuwa (CGPA: 3.60/4.0) 2017 - 2020 G.C.E Advanced Levels at Rahula College Matara (Combined Mathematics - A, Chemistry - A, Physics - B) Volunteering IEEE Student Branch University ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[0].company",
+      "extracted_value": "4Axis Technologies Pte Ltd",
+      "raw_snippet": "... hile continuously expanding my technical versatility. Work Experience Associate Software Engineer - 4Axis Technologies Pte Ltd Sept 2025 - Present Developed features for DrawKids application using Swift, SwiftUI, Firebase, and ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[1].company",
+      "extracted_value": "4Axis Technologies Pte Ltd",
+      "raw_snippet": "... hile continuously expanding my technical versatility. Work Experience Associate Software Engineer - 4Axis Technologies Pte Ltd Sept 2025 - Present Developed features for DrawKids application using Swift, SwiftUI, Firebase, and ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[0].name",
+      "extracted_value": "Best Body Japan (BBJ)",
+      "raw_snippet": "... g artwork saving functionality Worked with Unity and C# to create immersive VR experiences Projects Best Body Japan (BBJ) Sept 2025 - Present Main developer of a SwiftUI mobile application for a fitness competition platfo ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[1].name",
+      "extracted_value": "Drawing Desk VR",
+      "raw_snippet": "... Software Engineer Intern - 4Axis Technologies Pte Ltd Feb 2025 - Sept 2025 Developed and optimized Drawing Desk VR, a VR drawing practice app available on Meta Quest Store and PICO App Store, by enhancing interacti ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[2].name",
+      "extracted_value": "Microservices E-Commerce Platform",
+      "raw_snippet": "... features, and fixed bugs to improve stability and overall user experience. Technologies: C#, Unity Microservices E-Commerce Platform Aug 2024 - Dec 2024 Led development of a microservices-based e-commerce platform with customer-faci ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[3].name",
+      "extracted_value": "Anothershot - Photography Web Application",
+      "raw_snippet": "... Spring Boot, Java, MySQL, MongoDB, Kafka, Keycloak, Docker, Spring Cloud Gateway  --- [Page 2] --- Anothershot - Photography Web Application anothershots.com A platform for discovering, booking, and paying photographers online, featuring in ...",
+      "confidence": 1.0
+    }
+  ],
+  "confidence_score": 0.8,
+  "segmented_sections": {
+    "summary": "Problem-solver and BSc (Hons) Information Technology candidate at the University of Moratuwa with\na proven track record of adapting to diverse tech stacks to deliver impactful solutions. From building\nmicroservices architectures with Spring Boot to developing immersive VR experiences in Unity, I thrive\non tackling challenges across the full technology spectrum. Having completed a Software Engineering\ninternship, I am seeking a Software Engineer role to contribute innovative solutions while continuously\nexpanding my technical versatility.",
+    "education": "2022 - 2026 Bachelor of Science (Hons) in Information Technology at University of Moratuwa\n(CGPA: 3.60/4.0)\n2017 - 2020 G.C.E Advanced Levels at Rahula College Matara (Combined Mathematics - A,\nChemistry - A, Physics - B)\nVolunteering\nIEEE Student Branch University of Moratuwa 2022 - 2024\nStudent Branch Publicity Committee Member (Term 22/23): Spearheaded promotionalefforts for key\nevents like NFB Championship 2023 and RiseupMora 2023, elevating event visibility and participation\nStudent Branch Publicity Committee Lead (Term 23/24): Led strategic marketing campaigns and\nserved as Chairperson for NFB Championship 2024\nINTECS - Information Technology Society, Faculty of IT 2023 - 2026\nPresident (2025 - 2026): Chief organizer of the IT Faculty Career Fair 2026\nPresident (2025 - 2026): Organizing FIT Launchpad, a startup competition for the Faculty of IT\nCommittee Member (2024 - 2025): Actively involved in organizing HackMoral 6.0 (inter-batch\nhackathon) and designed/developed the event website\nCommittee Member (2024 - 2025): Chief organizer of Coderush 2025 (IT Faculty hackathon)\nDevLabs by Faculty of IT 2023 - Present\nSoftware Developer (2023 - 2024): Integral member of development teams for Project RIBA and Devlabs\nPortfolio Website",
+    "work_experience": "Associate Software Engineer - 4Axis Technologies Pte Ltd Sept 2025 - Present\nDeveloped features for DrawKids application using Swift, SwiftUI, Firebase, and Huawei Cloud DB\nContributed to enhancing app functionality and user experience for mobile platforms\nSoftware Engineer Intern - 4Axis Technologies Pte Ltd Feb 2025 - Sept 2025\nDeveloped and optimized Drawing Desk VR, a VR drawing practice app available on Meta Quest Store\nand PICO App Store, by enhancing interactivity and leading the adaptation for PICO devices\nContributed to Graffity Art Drawing app by optimizing sound profiles, implementing scene switching,\ncreating spray presets, and adding artwork saving functionality\nWorked with Unity and C# to create immersive VR experiences",
+    "skills": "Drawing Desk VR Feb 2025 - Sept 2025\nConverted the Drawing Desk VR application for PICO VR, implemented new features, and fixed bugs to\nMicroservices E-Commerce Platform Aug 2024 - Dec 2024\nLed development of a microservices-based e-commerce platform with customer-facing frontend, admin\ndashboard, and Spring Boot backend services. Implemented order processing system with real-time inven-\ntory tracking and built admin dashboard with analytics, product management, and customer management\nfeatures.\nTechnologies: Next.js, TypeScript, React, Spring Boot, Java, MySQL, MongoDB, Kafka, Keycloak,\nDocker, Spring Cloud Gateway\n--- [Page 2] ---\nAnothershot - Photography Web Application anothershots.com\nA platform for discovering, booking, and paying photographers online, featuring interactive portfolios and\ncommunity engagement. Integrated payment gateway, set up Cloudinary for image management, and\nconverted the app into a PWA to boost accessibility and user engagement.\nTechnologies: Next.js, Nest.js, TypeScript, MongoDB, Cloudinary, Stripe, PrismaORM\nProgramming Languages Swift, Java, Python, C, C#, JavaScript, TypeScript, Kotlin\nFrameworks/Libraries SwiftUI Next.js, React.js, Nest.js, Express.js, Jetpack Compose, Prisma ORM\nDatabase MySQL, MongoDB\nTools & Other Unity, Blender, Figma, HackerRank , Xcode,Andoid Studio\nReferees\nMr. Nimna Perera Mr. B.H Sudantha\nSoftware Engineer, 99x Dean, Faculty of Information Technology\nTel: +94 71 015 5336 University of Moratuwa\nEmail: nimnaperera98@gmail.com Tel: +94 71 572 1744\nEmail: sudanthabh@uom.lk",
+    "projects": "Best Body Japan (BBJ) Sept 2025 - Present\nMain developer of a SwiftUI mobile application for a fitness competition platform, built as part of the\nAssociate Software Engineer role at 4Axis Technologies. The app enables users to participate in fitness\ncompetitions, track progress, and engage with the community.",
+    "header_contact": "--- [Page 1] ---\nKavindu Wijegunasekara\n/githubkavinduwijegunasekara | /linkedinKavinduprabasara | /gl bekavinduwijegunasekara.me\n/envel pekavinduwijegunasekara@gmail.com | obile+94 76-214-9477"
+  },
+  "validation_report": {
+    "email_verified": true,
+    "phone_verified": true,
+    "github_verified": false,
+    "linkedin_verified": false,
+    "date_anomalies_detected": false,
+    "anomalies": []
+  }
+}

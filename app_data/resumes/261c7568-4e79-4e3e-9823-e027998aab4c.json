@@ -1,0 +1,521 @@
+{
+  "_id": "261c7568-4e79-4e3e-9823-e027998aab4c",
+  "filename": "Irushi_Silva_Associate_QA_Engineer_CV (1).pdf",
+  "uploaded_at": "2026-07-29T12:32:59.339719",
+  "entities": {
+    "full_name": "Irushi Silva",
+    "email": "irushisilva1234@gmail.com",
+    "phone": "+94701051302",
+    "github": "IruSilva",
+    "linkedin": "irushi-silva-9930",
+    "skills": [
+      "ISTQB CTFL",
+      "ISTQB CT-MAT",
+      "QA Process",
+      "Test Planning",
+      "Manual Testing",
+      "SDLC",
+      "STLC",
+      "Testing Methodologies",
+      "Agile/Scrum Fundamentals",
+      "Requirements Review",
+      "Test Scenario Design",
+      "Test Case Design",
+      "Test Case Maintenance",
+      "Test Execution",
+      "Coverage",
+      "Evidence",
+      "Reporting",
+      "Defect Lifecycle",
+      "Retesting",
+      "QA Documentation",
+      "Release Validation",
+      "Functional Testing",
+      "Regression Testing",
+      "System Integration Testing",
+      "UI/Web Testing",
+      "Mobile/Cross-Platform Testing",
+      "Smoke Testing",
+      "Exploratory Testing",
+      "API Testing",
+      "Postman",
+      "REST APIs",
+      "GraphQL",
+      "JSON Validation",
+      "SQL",
+      "PostgreSQL",
+      "Jira",
+      "Confluence",
+      "Selenium WebDriver",
+      "Playwright",
+      "Cucumber BDD",
+      "Page Object Model",
+      "Data-Driven Testing",
+      "REST Assured",
+      "Swagger UI",
+      "Java",
+      "JavaScript",
+      "OOP Fundamentals",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "CI/CD",
+      "Maven"
+    ],
+    "education": [
+      {
+        "institution": "University of Moratuwa",
+        "degree": "Bachelor of Science (Honours)",
+        "field_of_study": "Information Technology",
+        "start_date": null,
+        "end_date": "Jul 2026",
+        "gpa": "3.51"
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Eleos Web Pvt. Ltd.",
+        "role": "Software Quality Assurance Intern",
+        "start_date": "Feb 2025",
+        "end_date": "Jan 2026",
+        "description": "Supported test planning by reviewing requirements, workflows, validation rules, business rules, and API specifications; designed and maintained structured scenarios and detailed cases with positive, negative, and edge-case coverage, evidence, reports, and release documentation. Executed manual functional, regression, system integration, UI/web, desktop POS, iPad POS, smoke, exploratory, and release-validation tests across demo and live environments, covering role-based access, synchronization, validation, workflow, and error-handling paths. Tested REST APIs and JSON responses with Postman; performed basic SQL/PostgreSQL data verification, front-end/back-end synchronization checks, Shopify product and order-flow validation, and REST-to-GraphQL checks across integrated POS and dashboard modules. Reproduced, logged, tracked, retested, and verified Jira defects through resolution with clear steps, expected and actual results, evidence, and impact notes; collaborated with developers and QA team members to confirm fixes. Developed reusable, data-driven Playwright tests using Page Object Model practices; supported GitLab commit checks, CI/CD, smoke and release validation, maintained Jira/Confluence artifacts, and contributed to Agile release planning and structured release notes.",
+        "technologies": [
+          "Postman",
+          "SQL",
+          "PostgreSQL",
+          "Jira",
+          "Playwright",
+          "Page Object Model",
+          "GitLab",
+          "CI/CD",
+          "Confluence",
+          "Agile"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plant Sales Management App - UI and API Test Automation",
+        "description": "Derived UI and API cases from SRS and Swagger specifications; automated role-based UI workflows with Selenium WebDriver and Cucumber BDD and REST API validation with REST Assured, covering authorization, status codes, JSON/schema behavior, field validation, and error handling.",
+        "technologies": [
+          "Selenium",
+          "Java",
+          "Cucumber BDD",
+          "REST Assured",
+          "Swagger UI"
+        ],
+        "link": null
+      },
+      {
+        "name": "Kassie Dashboard Stock Take Module - Test Automation",
+        "description": "Developed reusable, data-driven Playwright tests for Add New Stock Take, Upload Stock Take, Stock Take Merge, Negative Stock, and Outstanding Stock Take workflows using Page Object Model practices, selectors, assertions, and JSON test data; covered positive, negative, upload-validation, and defect-discovery scenarios.",
+        "technologies": [
+          "JavaScript",
+          "Playwright",
+          "Page Object Model",
+          "JSON",
+          "GitLab",
+          "CI/CD"
+        ],
+        "link": null
+      }
+    ],
+    "certifications": [
+      {
+        "name": "ISTQB Certified Tester - Foundation Level (CTFL; Core) v4.0",
+        "issuing_organization": "ISTQB",
+        "issue_date": "Oct 2025"
+      },
+      {
+        "name": "ISTQB Certified Tester - Mobile Application Testing (CT-MAT; Specialist) v2019",
+        "issuing_organization": "ISTQB",
+        "issue_date": "Mar 2026"
+      }
+    ],
+    "languages": [],
+    "total_years_experience": "1 year",
+    "claimed_role": "Associate QA Engineer"
+  },
+  "normalized_skills": [
+    {
+      "original": "ISTQB CTFL",
+      "canonical": "ISTQB CTFL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "ISTQB CT-MAT",
+      "canonical": "ISTQB CT-MAT",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "QA Process",
+      "canonical": "QA Process",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Test Planning",
+      "canonical": "Test Planning",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Manual Testing",
+      "canonical": "Manual Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "SDLC",
+      "canonical": "SDLC",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "STLC",
+      "canonical": "STLC",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Testing Methodologies",
+      "canonical": "Testing Methodologies",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Agile/Scrum Fundamentals",
+      "canonical": "Agile/Scrum Fundamentals",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Requirements Review",
+      "canonical": "Requirements Review",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Test Scenario Design",
+      "canonical": "Test Scenario Design",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Test Case Design",
+      "canonical": "Test Case Design",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Test Case Maintenance",
+      "canonical": "Test Case Maintenance",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Test Execution",
+      "canonical": "Test Execution",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Coverage",
+      "canonical": "Coverage",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Evidence",
+      "canonical": "Evidence",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Reporting",
+      "canonical": "Reporting",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Defect Lifecycle",
+      "canonical": "Defect Lifecycle",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Retesting",
+      "canonical": "Retesting",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "QA Documentation",
+      "canonical": "QA Documentation",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Release Validation",
+      "canonical": "Release Validation",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Functional Testing",
+      "canonical": "Functional Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Regression Testing",
+      "canonical": "Regression Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "System Integration Testing",
+      "canonical": "System Integration Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "UI/Web Testing",
+      "canonical": "UI/Web Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Mobile/Cross-Platform Testing",
+      "canonical": "Mobile/Cross-Platform Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Smoke Testing",
+      "canonical": "Smoke Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Exploratory Testing",
+      "canonical": "Exploratory Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "API Testing",
+      "canonical": "API Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Postman",
+      "canonical": "Postman",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "REST APIs",
+      "canonical": "REST APIs",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "GraphQL",
+      "canonical": "GraphQL",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "JSON Validation",
+      "canonical": "JSON Validation",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "SQL",
+      "canonical": "SQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "PostgreSQL",
+      "canonical": "PostgreSQL",
+      "category": "Database",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "Jira",
+      "canonical": "Jira",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Confluence",
+      "canonical": "Confluence",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Selenium WebDriver",
+      "canonical": "Selenium WebDriver",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Playwright",
+      "canonical": "Playwright",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Cucumber BDD",
+      "canonical": "Cucumber BDD",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Page Object Model",
+      "canonical": "Page Object Model",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Data-Driven Testing",
+      "canonical": "Data-Driven Testing",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "REST Assured",
+      "canonical": "REST Assured",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Swagger UI",
+      "canonical": "Swagger UI",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Java",
+      "canonical": "Java",
+      "category": "Backend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "JavaScript",
+      "canonical": "JavaScript",
+      "category": "Frontend",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "OOP Fundamentals",
+      "canonical": "OOP Fundamentals",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Git",
+      "canonical": "Git",
+      "category": "DevOps",
+      "similarity_score": 1.0
+    },
+    {
+      "original": "CI/CD",
+      "canonical": "CI/CD",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    },
+    {
+      "original": "Maven",
+      "canonical": "Maven",
+      "category": "Other/General",
+      "similarity_score": 0.0
+    }
+  ],
+  "explainability_traces": [
+    {
+      "field": "full_name",
+      "extracted_value": "Irushi Silva",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "email",
+      "extracted_value": "irushisilva1234@gmail.com",
+      "raw_snippet": "... T Certified|1 Year QA Experience|Manual, API & Automation|Jira, SQL, Selenium & Playwright /envel peirushisilva1234@gmail.com phone+94 70 105 1302 /linkedinirushi-silva-9930 /githubIruSilva ap- arker-altKandana, Sri Lanka Pro ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "phone",
+      "extracted_value": "+94701051302",
+      "raw_snippet": "Not traceably found in raw text (potential inference or format normalization)",
+      "confidence": 0.4
+    },
+    {
+      "field": "github",
+      "extracted_value": "IruSilva",
+      "raw_snippet": "... laywright /envel peirushisilva1234@gmail.com phone+94 70 105 1302 /linkedinirushi-silva-9930 /githubIruSilva ap- arker-altKandana, Sri Lanka Professional Summary Detail-oriented ISTQB CTFL and CT-MAT certifie ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "linkedin",
+      "extracted_value": "irushi-silva-9930",
+      "raw_snippet": "... n|Jira, SQL, Selenium & Playwright /envel peirushisilva1234@gmail.com phone+94 70 105 1302 /linkedinirushi-silva-9930 /githubIruSilva ap- arker-altKandana, Sri Lanka Professional Summary Detail-oriented ISTQB CTFL and ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "claimed_role",
+      "extracted_value": "Associate QA Engineer",
+      "raw_snippet": "... --- [Page 1] --- Irushi Sil v a Associate QA Engineer ISTQB CTFL & CT-MAT Certified|1 Year QA Experience|Manual, API & Automation|Jira, SQL, Selenium & P ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "education[0].institution",
+      "extracted_value": "University of Moratuwa",
+      "raw_snippet": "... s. Brings strong attention to detail, clear documentation, and collaborative QA delivery. Education University of MoratuwaMoratuwa, Sri Lanka Bachelor of Science (Honours) in Information Technology; GPA (5th Semester): 3.5 ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "work_experience[0].company",
+      "extracted_value": "Eleos Web Pvt. Ltd.",
+      "raw_snippet": "... 2026 Certificate No: SL-CTFE-2603-866 Experience Software Quality Assurance InternFeb 2025 Jan 2026 Eleos Web Pvt. Ltd. Sri Lanka Test Planning, Test Cases and Coverage: Supported test planning by reviewing requirements ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[0].name",
+      "extracted_value": "Plant Sales Management App - UI and API Test Automation",
+      "raw_snippet": "... facts, and contributed to Agile release planning and structured release notes. Selected QA Projects Plant Sales Management App - UI and API Test AutomationUniversity of Moratuwa QA Tester / Automation Tester|Selenium, Java, Cucumber BDD, REST Assured, Swa ...",
+      "confidence": 1.0
+    },
+    {
+      "field": "projects[1].name",
+      "extracted_value": "Kassie Dashboard Stock Take Module - Test Automation",
+      "raw_snippet": "... , covering authorization, status codes, JSON/schema behavior, field validation, and error handling. Kassie Dashboard Stock Take Module - Test AutomationEleos Web Pvt. Ltd. QA Automation Intern|JavaScript, Playwright, Page Object Model, JSON, GitLab, CI ...",
+      "confidence": 1.0
+    }
+  ],
+  "confidence_score": 0.68,
+  "segmented_sections": {
+    "summary": "Detail-oriented ISTQB CTFL and CT-MAT certified QA professional with one year of hands-on software QA internship experience.\nSkilled in supporting test planning, designing and maintaining test scenarios and cases, and executing manual functional, regression,\nsystem integration, UI, API, smoke, exploratory, and release validation across POS, iPad POS, web dashboard, e-commerce, and\ninventory products. Experienced in Postman API testing, basic SQL/PostgreSQL data verification, and Jira defect logging, tracking,\nretesting, and closure verification. Hands-on with Selenium WebDriver, Playwright, REST Assured, Java, JavaScript, Git/GitLab,\nand CI/CD exposure, with working knowledge of SDLC, STLC, testing methodologies, and Agile/Scrum practices. Brings strong\nattention to detail, clear documentation, and collaborative QA delivery.",
+    "education": "University of MoratuwaMoratuwa, Sri Lanka\nBachelor of Science (Honours) in Information Technology; GPA (5th Semester): 3.51 Expected Jul 2026",
+    "work_experience": "Software Quality Assurance InternFeb 2025 Jan 2026\nEleos Web Pvt. Ltd. Sri Lanka\nTest Planning, Test Cases and Coverage: Supported test planning by reviewing requirements, workflows, validation\nrules, business rules, and API specifications; designed and maintained structured scenarios and detailed cases with positive,\nnegative, and edge-case coverage, evidence, reports, and release documentation.\nManualFunctional, Regression, IntegrationandUITesting: Executedmanualfunctional, regression, systemintegration,\nUI/web, desktop POS, iPad POS, smoke, exploratory, and release-validation tests across demo and live environments, covering\nrole-based access, synchronization, validation, workflow, and error-handling paths.\nAPI Testing and SQL Data Verification: Tested REST APIs and JSON responses with Postman; performed basic\nSQL/PostgreSQL data verification, front-end/back-end synchronization checks, Shopify product and order-flow validation,\nand REST-to-GraphQL checks across integrated POS and dashboard modules.\nDefect Lifecycle and Team Collaboration: Reproduced, logged, tracked, retested, and verified Jira defects through\nresolution with clear steps, expected and actual results, evidence, and impact notes; collaborated with developers and QA\nteam members to confirm fixes.\nAutomation and Agile QA Delivery: Developed reusable, data-driven Playwright tests using Page Object Model practices;\nsupported GitLab commit checks, CI/CD, smoke and release validation, maintained Jira/Confluence artifacts, and contributed\nto Agile release planning and structured release notes.",
+    "skills": "QA Process, Test Planning and Manual Testing: SDLC, STLC, Testing Methodologies, Agile/Scrum Fundamentals,\nRequirements Review, Test Planning Support, Test Scenario and Test Case Design/Maintenance, Test Execution, Coverage,\nEvidence, Reporting, Defect Lifecycle, Retesting, QA Documentation, Release Validation\nFunctional, API, Data and Test Management: Functional, Regression, System Integration, UI/Web, Mobile/Cross-\nPlatform, Smoke, Exploratory and API Testing; Postman, REST APIs, GraphQL, JSON Validation, Basic SQL, PostgreSQL,\nJira, Confluence\nAutomation, Programming and Delivery Tools: Selenium WebDriver, Playwright, Cucumber BDD, Page Object Model,\nData-Driven Testing, REST Assured, Swagger UI, Java, JavaScript, OOP Fundamentals, Git/GitHub/GitLab, CI/CD Exposure,\nMaven\nLeadership and Activities\nMain Batch Representative, Year 23/24| Member, UOM IEEE Robotics & Automation Society| Member, University Girls\nBasketball Team|Deputy Head Prefect, De Mazenod College Kandana\nProfessional Referees\nMr. Nuwan Wickramasinghe|Senior Software Engineer, Eleos Web Pvt. Ltd.|nuwan@eleos.com|+94 71 071 2814\nMr. Lakshitha Madushan|Manager - IT, Cargills Bank PLC|lakshitha.m@cargillsbank.com|+94 71 960 7457",
+    "projects": "Plant Sales Management App - UI and API Test AutomationUniversity of Moratuwa\nQA Tester / Automation Tester|Selenium, Java, Cucumber BDD, REST Assured, Swagger UI\nRequirements-Based UI and API Automation: Derived UI and API cases from SRS and Swagger specifications;\nautomated role-based UI workflows with Selenium WebDriver and Cucumber BDD and REST API validation with REST\nAssured, covering authorization, status codes, JSON/schema behavior, field validation, and error handling.\nKassie Dashboard Stock Take Module - Test AutomationEleos Web Pvt. Ltd.\nQA Automation Intern|JavaScript, Playwright, Page Object Model, JSON, GitLab, CI/CD\nPlaywright Automation: Developed reusable, data-driven Playwright tests for Add New Stock Take, Upload Stock Take,\nStock Take Merge, Negative Stock, and Outstanding Stock Take workflows using Page Object Model practices, selectors,\nassertions, and JSON test data; covered positive, negative, upload-validation, and defect-discovery scenarios.",
+    "certifications": "ISTQB Certified Tester - Foundation Level (CTFL; Core) v4.0Oct 2025\nCertificate No: SL-CTFL-2510-6884\nISTQB Certified Tester - Mobile Application Testing (CT-MAT; Specialist) v2019Mar 2026\nCertificate No: SL-CTFE-2603-866",
+    "header_contact": "--- [Page 1] ---\nIrushi Sil v a\nAssociate QA Engineer\nISTQB CTFL & CT-MAT Certified|1 Year QA Experience|Manual, API & Automation|Jira, SQL, Selenium & Playwright\n/envel peirushisilva1234@gmail.com phone+94 70 105 1302 /linkedinirushi-silva-9930 /githubIruSilva ap- arker-altKandana, Sri Lanka"
+  },
+  "validation_report": {
+    "email_verified": true,
+    "phone_verified": true,
+    "github_verified": false,
+    "linkedin_verified": false,
+    "date_anomalies_detected": false,
+    "anomalies": []
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "irush501:8cce40f8639bfda3": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "irush502:0a5cca5302d46814": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "irush503:ba10caa6cc4e468a": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 4,
+    "mismatch_score": 0.9,
+    "key_contradictions": [
+      "Candidate claimed to maintain an open-source framework with contributors, forks, and pull request reviews, but GitHub evidence shows 0 stars, 0 forks, 0 followers, and 0 pull requests. The explanation about private forks does not account for the 'open-source' claim or the lack of public PRs.",
+      "Candidate claimed 'two hundred plus commits in the last year', but GitHub evidence shows only 12 total commits. The explanation about merged squashes is directly contradicted by the 'merging_percentage' of 0.0 in the evidence.",
+      "Candidate claimed JavaScript is the dominant language ('easily', 'nearly everything is JavaScript'), but GitHub evidence shows Java as the primary language, TypeScript as secondary, and no JavaScript. The explanation about Playwright projects being detected as TypeScript does not fully resolve the claim of JavaScript dominance.",
+      "Candidate claimed 'coming up to three years' of QA experience, but the resume explicitly states 'Total experience stated on CV: 1 year'. The explanation about freelancing is not documented on the resume."
+    ]
+  },
+  "kavin601:e69e3d9232388d47": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "kavin602:bc98c1bdeb080bb0": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "kavin603:dfbe7c4ba76ed669": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 5,
+    "mismatch_score": 0.9,
+    "key_contradictions": [
+      "Claimed 3 years of SwiftUI experience contradicts resume's start date of September 2025 for Swift/SwiftUI work.",
+      "Claimed Swift/SwiftUI projects are public, but no Swift is present in the verified GitHub primary languages, and explanations for its absence were inconsistent.",
+      "Claimed 'very heavy' commit volume ('hundreds a year') and 'a lot of code review through pull requests' contradicts the verified 52 total commits and zero pull requests.",
+      "Claimed to be the 'sole developer' who 'built end to end' the VR title, which contradicts the resume stating the role was an 'intern on an existing product'.",
+      "Claimed public Swift projects, then stated they must be private, then suggested they were deleted, despite private repos being counted in the total."
+    ]
+  },
+  "malit301:1b3a87287a7d9e19": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "malit302:27f14f98306500eb": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 3,
+    "mismatch_score": 0.9,
+    "key_contradictions": [
+      "Candidate claimed 15 repositories, forks, and active development on GitHub, but verified evidence shows zero repositories, commits, or forks, and the explanation of private repos was directly refuted.",
+      "Candidate claimed two years of QA experience, which contradicts the resume's statement of zero years professional experience and an 8-month internship.",
+      "Candidate claimed using JMeter in production for load tests, which contradicts the resume's description of the internship focusing on manual, functional, regression, and Katalon automation, with JMeter only listed as a skill."
+    ]
+  },
+  "malit303:8e5dc0fb51e1afeb": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 4,
+    "mismatch_score": 1.0,
+    "key_contradictions": [
+      "Claimed three years of QA automation experience and leading a team of six, but resume states 0 years of professional experience as an 'Intern QA Engineer' for 8 months.",
+      "Claimed 'forty-plus repositories and daily contributions' on GitHub, but verified evidence shows zero repositories, zero commits, and no activity.",
+      "Claimed ISTQB Foundation and Advanced Test Manager certifications, but resume lists no certifications.",
+      "Claimed experience with 'Selenium Grid running thousands of tests nightly', but resume describes Katalon Studio automation without mention of a grid or nightly pipeline."
+    ]
+  },
+  "nimet701:57f20b377be73aa5": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "nimet702:363905ab77cadc5f": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 4,
+    "mismatch_score": 0.9,
+    "key_contradictions": [
+      "Candidate claimed 'steady daily development' and 'small commits', but evidence shows large, infrequent commits with long periods of inactivity.",
+      "Candidate claimed 'all forty-three projects are real' and substantial, but many are single-commit repositories with minimal content.",
+      "Candidate claimed 'all research is public and verifiable' and listed specific projects (GNN, multi-agent, fine-tuning), but these were not found in the public GitHub account, and the candidate later suggested they might be private.",
+      "Candidate claimed 'a few hundred stars' across repositories, but evidence shows only 6 stars in total."
+    ]
+  },
+  "nimet703:04f5aa09c47319d4": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 5,
+    "mismatch_score": 0.9,
+    "key_contradictions": [
+      "Claimed 500+ commits on GitHub, but verified evidence shows 47 total commits.",
+      "Claimed 'couple of hundred' GitHub stars, but verified evidence shows 6 total stars.",
+      "Claimed 'mostly Python' commits, but verified evidence shows Python is only 1 out of 43 repositories, with JavaScript and TypeScript being primary languages.",
+      "Claimed 4 years (3 professional) of machine learning experience, but the resume lists 1 year of formal experience, with an unverifiable explanation for the remaining period.",
+      "Claimed fine-tuning a 70 billion parameter model, but the resume lists a GPT-2 model, with an unsupported explanation that a 'production model was much larger'."
+    ]
+  },
+  "nipun201:ebfcfa11c4ca6ac5": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "nipun202:70167b63a5dd939f": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 4,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Claimed daily, small focused commits and heavy pull request usage, stating 'My GitHub shows that consistency', directly contradicts GitHub evidence of 9 total commits, 2.25 commits/week, 2233.67 average lines/commit, and 0 pull requests.",
+      "Claimed to be 'effectively the reviewer' and 'led code review' for the DeFi backend as an Associate Engineer with 1 year of experience, then admitted 'Nobody formally' reported to him, indicating an exaggeration of seniority and responsibility.",
+      "Claimed TypeScript has been his 'main language for years' and JavaScript repos are 'old', despite public GitHub showing 13 JavaScript repositories compared to 3 TypeScript repositories.",
+      "Claimed npm packages have 'Thousands a week' downloads and are 'used across the ecosystem', which directly contradicts the resume stating they are 'packages for the company's own deposit monitoring'."
+    ]
+  },
+  "nipun203:bc709e2e76bd8ab0": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 3,
+    "mismatch_score": 0.9,
+    "key_contradictions": [
+      "Claimed 5 years of experience in the blockchain space, whereas the resume states approximately 1 year and 2 months of total experience.",
+      "Claimed a high volume of Solidity and smart contract work in public repositories, whereas GitHub evidence shows 22 repositories with zero Solidity files.",
+      "Claimed several hundred public commits and daily GitHub activity, whereas the verified evidence shows only 9 total commits and 2 active weeks in the last year."
+    ]
+  },
+  "prane101:a8ce9e47d9e48055": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "prane102:08143a8808bd94e6": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "prane103:5e552c647b899673": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 3,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Claimed 4 years of Go experience and contracting work prior to formal roles, whereas resume clearly states total experience is about 1 year and 5 months as an intern and associate starting in 2025.",
+      "Claimed maintaining several Go libraries with hundreds of stars and 50-60 merged PRs, whereas GitHub evidence shows only 2 total PRs and 1 star across 15 repositories.",
+      "Claimed a commit cadence of a thousand commits a year, whereas GitHub evidence shows a total of 53 commits averaging over 500 lines each, directly contradicted by the claim that GitHub squashes commits."
+    ]
+  },
+  "theek401:3af088627ef5b913": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "theek402:cc2220af43c66c4b": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "theek403:85d0d18ec88b4837": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 5,
+    "mismatch_score": 0.95,
+    "key_contradictions": [
+      "Candidate claimed over 2 years of experience while the resume explicitly lists less than one year and a single internship.",
+      "Candidate claimed GitHub repos are public and well starred, but the profile does not resolve at all.",
+      "Candidate shifted excuses for GitHub unavailability from private mode to changing visibility to prevent copying.",
+      "Candidate claimed research is published, but the resume lists it as an in-progress final year research project.",
+      "Candidate claimed to have single-handedly designed and delivered the SIAS system for the whole sales division, while the resume lists it as one of five bullet points during an internship."
+    ]
+  },
+  "yasit801:6ded7cdefc6ea7e7": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "yasit802:58cb1fb1fb7ff44e": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.35,
+    "key_contradictions": [
+      "Candidate claimed more than two years of working with .NET, while the resume lists total professional experience of only 10 months and university studies ongoing until 2026.",
+      "Candidate claimed to own cloud infrastructure end-to-end with deep experience, whereas the resume states they only explored Azure services with guidance during their internship."
+    ]
+  },
+  "yasit803:cfedae8e18675886": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 4,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Candidate claimed five years of experience and leading teams for two years, whereas resume clearly states ten months of professional experience and graduation in June 2026.",
+      "Candidate claimed well over a thousand commits and high public popularity with stars and forks, whereas verified GitHub evidence shows only 98 commits, 2 stars, and 0 forks.",
+      "Candidate falsely dismissed the GitHub evidence by claiming the API paginates and misses most of it, which is an invalid technical excuse for total aggregate stats like stars, forks, and commit counts.",
+      "Candidate claimed conflicting dates and overlapping roles between LevoHub and Unicorn Solutions when challenged on timeline discrepancies."
+    ]
+  },
+  "irush504:eb7b7e00c2b9fdc3": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "kavin604:4d908096b0d5e3ff": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "nimet704:9a03a292022c78ea": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "nipun204:1a2f9868c3945c48": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "prane104:58920c7f5e37e1b4": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "yasit804:99b080510e50253d": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 1,
+    "mismatch_score": 0.2,
+    "key_contradictions": [
+      "Candidate claimed to commit every single day, which directly contradicts the verified GitHub evidence showing a frequency of 3.27 commits per week."
+    ]
+  },
+  "kavin604:698285b2123ebc5d": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.4,
+    "key_contradictions": [
+      "Candidate claimed around 150 commits on public GitHub, but verified evidence shows only 52 commits.",
+      "Candidate claimed around 40 stars on their portfolio repository, but verified evidence shows only 4 total stars across all repositories."
+    ]
+  },
+  "nipun204:89ddf230d9cec1c5": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 2,
+    "mismatch_score": 0.65,
+    "key_contradictions": [
+      "Candidate claimed around forty commits across repositories, whereas verified GitHub evidence shows a total of only nine commits.",
+      "Candidate claimed the Pick a Book project received five or six stars, while verified GitHub evidence shows zero stars across all repositories."
+    ]
+  },
+  "irush505:43a9ea31254b6867": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "nimet705:84954d8aceb9796f": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "prane105:2a8de66962e914c3": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "yasit805:7254605b633392b1": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  }
+}

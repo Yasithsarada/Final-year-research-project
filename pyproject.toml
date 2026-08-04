@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "interview_ccs"
+version = "0.1.0"
+description = "Research‑grade interview audio analysis and claim extraction service"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Yasith", email = "yasith@example.com"}]
+
+dependencies = [
+    "fastapi[all]==0.110.0",
+    "uvicorn[standard]==0.29.0",
+    "pydantic==2.7.1",
+    "sqlalchemy[asyncio]==2.0.30",
+    "asyncpg==0.29.0",
+    "psycopg2-binary==2.9.9",
+    "alembic==1.13.1",
+    "celery[redis]==5.4.0",
+    "redis==5.0.3",
+    "faster-whisper==1.0.1",
+    "torch==2.2.2",
+    "sentence-transformers==2.7.0",
+    "spacy==3.7.4",
+    "google-generativeai==0.5.4",
+    "openai==1.30.3",
+    "python-dotenv==1.0.1",
+    "structlog==24.2.0",
+    "prometheus-fastapi-instrumentator==7.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==8.2.2",
+    "pytest-asyncio==0.23.7",
+    "httpx==0.27.0",
+    "black==24.4.2",
+    "ruff==0.4.2"
+]

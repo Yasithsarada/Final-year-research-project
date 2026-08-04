@@ -1,0 +1,64 @@
+{
+  "malit301:683c7c608ee8076d": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "malit302:6b6d9c7bda798e83": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 3,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Claimed 15 repositories and private repos with stars and forks, which contradicts the verified zero-activity GitHub profile and the impossibility of forks on private accounts without visibility.",
+      "Claimed two years of professional experience in QA, whereas the r\u00e9sum\u00e9 explicitly states zero professional years and lists only an eight-month internship.",
+      "Claimed to have run load tests on production using JMeter, whereas the r\u00e9sum\u00e9 only lists JMeter under general skills and describes the internship strictly as manual testing, functional/regression cases, and Katalon automation."
+    ]
+  },
+  "malit303:137dcdaccf65349f": {
+    "claimed_commit_activity_matches_evidence": false,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": false,
+    "number_of_contradictions": 4,
+    "mismatch_score": 0.95,
+    "key_contradictions": [
+      "Candidate claimed forty-plus repositories and daily contributions on GitHub, but verified evidence shows zero repositories and zero commits.",
+      "Candidate offered an implausible excuse for zero GitHub activity (claiming GitHub reset their account).",
+      "Candidate claimed a senior lead-level role managing six people, whereas the resume explicitly states an intern role with zero years of professional experience.",
+      "Candidate claimed ISTQB Foundation and Advanced Test Manager certifications, whereas the resume explicitly lists zero certifications and the candidate cannot provide certificate numbers."
+    ]
+  },
+  "theek401:9c5eef07081641ea": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "theek402:073b9fa98e8c73ba": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": true,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 0,
+    "mismatch_score": 0.0,
+    "key_contradictions": []
+  },
+  "theek403:be22649b256068b4": {
+    "claimed_commit_activity_matches_evidence": true,
+    "claimed_experience_matches_resume": false,
+    "claimed_tech_stack_matches_evidence": true,
+    "number_of_contradictions": 4,
+    "mismatch_score": 0.85,
+    "key_contradictions": [
+      "Claims just over two years of professional QA experience while the resume explicitly states less than one year and lists a single internship from March to October 2025.",
+      "Initially claims GitHub repositories are public and starred, but immediately shifts to claiming they are private when confronted with the unresolvable handle.",
+      "Claims RAG research is 'effectively published' while the resume and follow-up reveal it is only an in-progress final year research project currently under review.",
+      "Claims to have designed and delivered the SIAS commission system 'single-handedly for the whole sales division', whereas the resume lists it as one of five bullet points during an internship."
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "b58c6284-328f-409f-9608-a273e6ac18bc",
+  "candidate_id": "candidate01",
+  "filename": "Software Engineer Interview.m4a",
+  "status": "FAILED",
+  "created_at": "2026-06-09T12:54:32.249324",
+  "finished_at": null,
+  "raw_transcript": null,
+  "cleaned_transcript": null,
+  "claims": null,
+  "explainability_report": [],
+  "comparisons": {},
+  "error": "Celery dispatch failed: \nRetry limit exceeded while trying to reconnect to the Celery result store\nbackend. The Celery application must be restarted.\n"
+}
